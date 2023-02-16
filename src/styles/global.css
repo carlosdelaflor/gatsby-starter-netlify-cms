@@ -1,0 +1,25 @@
+/*body {
+  font-family: var(--font-body);
+  color: var(--text-color);
+}
+
+.gatsby-image-wrapper {
+  margin: auto;
+}
+
+.gatsby-image-wrapper [data-main-image] {
+  border-radius: var(--radius-sm);
+}*/
+
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  width: 100%;
+  height: 7rem;
+}
+
+.navbar-item .logo {
+  max-height: 6.5rem;
+}
