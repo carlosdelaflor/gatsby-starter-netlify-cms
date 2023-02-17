@@ -11,13 +11,22 @@
   border-radius: var(--radius-sm);
 }*/
 
+.main-content-container {
+  top: 7rem;
+  position: relative;
+}
+
 .navbar {
-  position: fixed;
+  position: fixed !important;
   top: 0;
   left: 0;
   z-index: 9999;
   width: 100%;
   height: 7rem;
+}
+
+.navbar-item {
+  font-size: 1.2rem;
 }
 
 .navbar-item .logo {

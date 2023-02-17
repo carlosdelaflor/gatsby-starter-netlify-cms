@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Bienvenido, ¿Andas buscando tu primera o siguiente guitarra?
+image: /img/index-page-container-01-allwidth.jpg
+heading: Bienvenido, ¿Andas buscando tu primera o siguiente guitarra?
+subheading: Aqui encontraras algunas y muchas otras cosas relacionadas al instrumento
 mainpitch:
   title: Why Kaldi
   description: >
