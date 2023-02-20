@@ -4,9 +4,10 @@ import { Link, graphql } from "gatsby";
 import { getImage } from "gatsby-plugin-image";
 
 import Layout from "../components/Layout";
-import Features from "../components/Features";
+//import Features from "../components/Features";
 import BlogRoll from "../components/BlogRoll";
 import FullWidthImage from "../components/FullWidthImage";
+import GridRowItem from "../components/layout/GridRowItem";
 
 // eslint-disable-next-line
 export const IndexPageTemplate = ({
@@ -23,13 +24,16 @@ export const IndexPageTemplate = ({
   return (
     <div className="main-content-container">
       <FullWidthImage height={800} img={heroImage} title={title} subheading={subheading} />
+      <section>
+        <GridRowItem gridItems={intro.blurbs} />
+      </section>
       <section className="section section--gradient">
         <div className="container">
           <div className="section">
             <div className="columns">
               <div className="column is-10 is-offset-1">
                 <div className="content">
-                  <div className="content">
+                  {/*<div className="content">
                     <div className="tile">
                       <h1 className="title">{mainpitch.title}</h1>
                     </div>
@@ -44,8 +48,7 @@ export const IndexPageTemplate = ({
                       </h3>
                       <p>{description}</p>
                     </div>
-                  </div>
-                  <Features gridItems={intro.blurbs} />
+                  </div> */}
                   <div className="columns">
                     <div className="column is-12 has-text-centered">
                       <Link className="btn" to="/products">
@@ -135,7 +138,7 @@ export const pageQuery = graphql`
           blurbs {
             image {
               childImageSharp {
-                gatsbyImageData(width: 240, quality: 64, layout: CONSTRAINED)
+                gatsbyImageData(quality: 100, layout: FULL_WIDTH)
               }
             }
             text
