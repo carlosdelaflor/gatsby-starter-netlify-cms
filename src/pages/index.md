@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Bienvenido, ¿Andas buscando tu primera o siguiente guitarra?
-image: /img/index-page-container-01-allwidth.jpg
+image: /img/index/index-page-container-01-allwidth.jpg
 heading: Bienvenido, ¿Andas buscando tu primera o siguiente guitarra?
 subheading: Aqui encontraras algunas y muchas otras cosas relacionadas al instrumento
 mainpitch:
