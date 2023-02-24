@@ -6,8 +6,17 @@ order: 2
 brand: yamaha
 price: S/. 1400.00
 date: 2016-12-17T15:04:10.000Z
-featuredpost: false
-image1: /img/guitars/yamaha-fgx730sc-01.jpg
+image1: /img/guitars/yamaha-fgx-730sc/yamaha-fgx730sc-01.jpg
+image2: /img/guitars/yamaha-fgx-730sc/yamaha-fgx730sc-02.JPG
+image3: /img/guitars/yamaha-fgx-730sc/yamaha-fgx730sc-03.JPG
+image4: /img/guitars/yamaha-fgx-730sc/yamaha-fgx730sc-04.jpg
+image5: /img/guitars/yamaha-fgx-730sc/yamaha-fgx730sc-05.jpg
+image6: /img/guitars/yamaha-fgx-730sc/yamaha-fgx730sc-06.jpg
+image7: /img/guitars/yamaha-fgx-730sc/yamaha-fgx730sc-07.jpg
+image8: /img/guitars/yamaha-fgx-730sc/yamaha-fgx730sc-08.jpg
+image9: /img/guitars/yamaha-fgx-730sc/yamaha-fgx730sc-09.jpg
+image10: /img/guitars/yamaha-fgx-730sc/yamaha-fgx730sc-10.jpg
+image11: /img/guitars/yamaha-fgx-730sc/yamaha-fgx730sc-11.jpeg
 description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
 tags:
   - flavor

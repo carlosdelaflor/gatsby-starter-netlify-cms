@@ -6,8 +6,17 @@ order: 1
 brand: epiphone
 price: S/. 1450.00
 date: 2016-12-17T15:04:10.000Z
-featuredpost: false
-image1: /img/guitars/epiphone-g400-01.JPG
+image1: /img/guitars/epiphone-g400/epiphone-g400-01.JPG
+image2: /img/guitars/epiphone-g400/epiphone-g400-02.jpeg
+image3: /img/guitars/epiphone-g400/epiphone-g400-03.JPG
+image4: /img/guitars/epiphone-g400/epiphone-g400-04.jpeg
+image5: /img/guitars/epiphone-g400/epiphone-g400-05.JPG
+image6: /img/guitars/epiphone-g400/epiphone-g400-06.JPG
+image7: /img/guitars/epiphone-g400/epiphone-g400-07.JPG
+image8: /img/guitars/epiphone-g400/epiphone-g400-08.JPG
+image9: /img/guitars/epiphone-g400/epiphone-g400-09.JPG
+image10: /img/guitars/epiphone-g400/epiphone-g400-10.jpg
+image11: /img/guitars/epiphone-g400/epiphone-g400-11.jpg
 description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
 tags:
   - flavor

@@ -19,11 +19,11 @@ const getBrands = (acoustics, electrics) => {
     return sortedBrands.map((brand) => {return {'name': brand, 'value': brand}} );
 };
 
-const SearchPanel = ( {acoustics, electrics} ) => {
+const SearchPanel = ( {acoustics, electrics, sx} ) => {
     const categories = getCategories();
     const brands = getBrands(acoustics, electrics);
     return (
-        <Grid container spacing={1} width="100%" direction="row">
+        <Grid container spacing={1} width="100%" direction="row" sx={sx}>
             <Grid item xs={4}>
                 <Autocomplete
                     multiple
@@ -67,8 +67,9 @@ const SearchPanel = ( {acoustics, electrics} ) => {
 };
 
 SearchPanel.propTypes = {
-    acoustics: PropTypes.object,
-    electrics: PropTypes.object,
+    acoustics: PropTypes.object.isRequired,
+    electrics: PropTypes.object.isRequired,
+    sx: PropTypes.object
 };
 
 export default SearchPanel;

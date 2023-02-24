@@ -6,8 +6,17 @@ order: 1
 brand: yamaha
 price: S/. 1200.00
 date: 2016-12-17T15:04:10.000Z
-featuredpost: false
-image1: /img/guitars/yamaha-fs720s-01.jpg
+image1: /img/guitars/yamaha-fs-720s/yamaha-fs720s-01.jpg
+image2: /img/guitars/yamaha-fs-720s/yamaha-fs720s-02.jpeg
+image3: /img/guitars/yamaha-fs-720s/yamaha-fs720s-03.jpeg
+image4: /img/guitars/yamaha-fs-720s/yamaha-fs720s-04.jpeg
+image5: /img/guitars/yamaha-fs-720s/yamaha-fs720s-05.JPG
+image6: /img/guitars/yamaha-fs-720s/yamaha-fs720s-06.JPG
+image7: /img/guitars/yamaha-fs-720s/yamaha-fs720s-07.jpeg
+image8: /img/guitars/yamaha-fs-720s/yamaha-fs720s-08.jpeg
+image9: /img/guitars/yamaha-fs-720s/yamaha-fs720s-09.jpeg
+image10: /img/guitars/yamaha-fs-720s/yamaha-fs720s-10.jpeg
+image11: /img/guitars/yamaha-fs-720s/yamaha-fs720s-11.jpeg
 description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
 tags:
   - flavor

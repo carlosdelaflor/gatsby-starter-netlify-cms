@@ -1,0 +1,26 @@
+/* Arrows */
+.slick-next:before {
+    color: black !important;
+}
+
+.slick-prev:before {
+    color: black !important;
+}
+
+.slick-initialized .slick-slide {
+    display: flex;
+    justify-content: center;
+}
+
+.slick-dots li {
+    height: 120px;
+    width: 60px;
+}
+
+.slick-dots {
+    display: flex !important;
+    flex-wrap: wrap;
+    position: relative;
+    top: 10px;
+    bottom: 0px;
+}

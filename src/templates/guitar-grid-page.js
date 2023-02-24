@@ -35,12 +35,13 @@ export const GuitarListPageTemplate = ({
     const sortedAcoustics = getGuitarsByBrand(acousticBrands, acoustics);
     const sortedElectrics = getGuitarsByBrand(electricBrands, electrics);
     const heroImage = getImage(pageContent.image);
+    console.log(sortedAcoustics);
     return (
         <div className="main-content-container">
             <FullWidthImage height={500} img={heroImage} title={pageContent.title} />
             <section className="section">
                 <SearchPanel acoustics={sortedAcoustics} electrics={sortedElectrics} />
-                <SearchResult acoustics={sortedAcoustics} electrics={sortedElectrics} />
+                <SearchResult acoustics={sortedAcoustics} electrics={sortedElectrics} sx={{marginTop: '2rem'}} />
             </section>
             <section className="section">
 
@@ -129,7 +130,6 @@ export const guitarListPageQuery = graphql`
                                     itemtype
                                     templateKey
                                     date(formatString: "MMMM DD, YYYY")
-                                    featuredpost
                                     image1 {
                                         childImageSharp {
                                             gatsbyImageData(
@@ -163,7 +163,6 @@ export const guitarListPageQuery = graphql`
                                     itemtype
                                     templateKey
                                     date(formatString: "MMMM DD, YYYY")
-                                    featuredpost
                                     image1 {
                                         childImageSharp {
                                             gatsbyImageData(

@@ -2,8 +2,9 @@ import React from "react";
 import PropTypes from "prop-types";
 import { Button, CardActions, Card , CardMedia, CardContent, Grid, Typography } from "@mui/material";
 import PreviewCompatibleImage from "../PreviewCompatibleImage";
+import { Stack } from "@mui/system";
 
-const SearchResult = ( {acoustics, electrics} ) => {
+const SearchResult = ( {acoustics, electrics, sx} ) => {
     let guitars = [];
     const acousticBrands = Object.keys(acoustics);
     const electricBrands = Object.keys(electrics);
@@ -19,10 +20,10 @@ const SearchResult = ( {acoustics, electrics} ) => {
     );
         console.log(guitars)
     return (
-        <Grid container spacing={3} width="100%" sx={{marginTop: '2rem'}}>
+        <Grid container spacing={2} width="100%" sx={sx}>
             {guitars.map( (guitarContentNode) => 
-                    <Grid item xs={6} sm={4} md={3}>
-                        <Card sx={{width: '80%'}}>
+                    <Grid item xs={12} sm={4} md={3}>
+                        <Card sx={{width: '90%'}}>
                             <CardMedia
                                 title={guitarContentNode.node.frontmatter.title}
                                 sx = {{
@@ -43,16 +44,27 @@ const SearchResult = ( {acoustics, electrics} ) => {
                                     }}
                                 />
                             </CardMedia>
-                            <CardContent>
-                                <Typography gutterBottom variant="h5" component="div">
-                                    {guitarContentNode.node.frontmatter.title}
-                                </Typography>
-                                <Typography variant="h4" color="red">
-                                    {guitarContentNode.node.frontmatter.price}
-                                </Typography>
+                            <CardContent
+                                sx = {{
+                                    display: 'flex',
+                                    justifyContent: 'center'
+                                }}
+                            >
+                                <Stack>
+                                    <Typography gutterBottom variant="h5" component="div">
+                                        {guitarContentNode.node.frontmatter.title}
+                                    </Typography>
+                                    <Typography variant="h4" color="red" component="div">
+                                        {guitarContentNode.node.frontmatter.price}
+                                    </Typography>
+                                </Stack>
                             </CardContent>
-                            <CardActions>
-                                <Button size="small">Ver detalle</Button>
+                            <CardActions
+                                sx = {{
+                                    display: 'flex',
+                                    justifyContent: 'center'
+                                }}>
+                                <Button size="small" href={guitarContentNode.node.fields.slug}>Ver detalle</Button>
                             </CardActions>
                         </Card>
                     </Grid>
@@ -63,8 +75,9 @@ const SearchResult = ( {acoustics, electrics} ) => {
 };
 
 SearchResult.propTypes = {
-    acoustics: PropTypes.object,
-    electrics: PropTypes.object,
+    acoustics: PropTypes.object.isRequired,
+    electrics: PropTypes.object.isRequired,
+    sx: PropTypes.object
 };
 
 export default SearchResult;
