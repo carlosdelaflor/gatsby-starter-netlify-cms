@@ -26,21 +26,32 @@ export const GuitarItemPageTemplate = ({
 GuitarItemPageTemplate.propTypes = {
   guitarItem: PropTypes.shape({
     title: PropTypes.string,
-    order: PropTypes.string,
+    order: PropTypes.number,
     brand: PropTypes.string,
     price: PropTypes.string,
     description: PropTypes.string,
-    image1: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-    image2: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-    image3: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-    image4: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-    image5: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-    image6: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-    image7: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-    image8: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-    image9: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-    image10: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-    image11: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+    smallImage1: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+    fullImage1: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+    smallImage2: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+    fullImage2: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+    smallImage3: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+    fullImage3: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+    smallImage4: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+    fullImage4: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+    smallImage5: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+    fullImage5: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+    smallImage6: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+    fullImage6: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+    smallImage7: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+    fullImage7: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+    smallImage8: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+    fullImage8: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+    smallImage9: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+    fullImage9: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+    smallImage10: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+    fullImage10: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+    smallImage11: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+    fullImage11: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   }),
 };
 
@@ -76,7 +87,24 @@ export const guitarItemQuery = graphql`
         templateKey
         date(formatString: "MMMM DD, YYYY")
         description
-        image1 {
+        smallImage1 : image1 {
+            childImageSharp {
+                gatsbyImageData(
+                  height: 635
+                  quality: 100
+                  layout: CONSTRAINED
+                )
+            }
+        }
+        fullImage1 :image1 {
+              childImageSharp {
+                gatsbyImageData(
+                  quality: 100, 
+                  layout: FULL_WIDTH
+                )
+              }
+        }
+        smallImage2 : image2 {
             childImageSharp {
                 gatsbyImageData(
                   height: 635
@@ -86,7 +114,15 @@ export const guitarItemQuery = graphql`
 
             }
         }
-        image2 {
+        fullImage2 :image2 {
+              childImageSharp {
+                gatsbyImageData(
+                  quality: 100, 
+                  layout: FULL_WIDTH
+                )
+              }
+        }
+        smallImage3: image3 {
             childImageSharp {
                 gatsbyImageData(
                   height: 635
@@ -96,17 +132,15 @@ export const guitarItemQuery = graphql`
 
             }
         }
-        image3 {
-            childImageSharp {
+        fullImage3 :image3 {
+              childImageSharp {
                 gatsbyImageData(
-                  height: 635
-                  quality: 100
-                  layout: CONSTRAINED
+                  quality: 100, 
+                  layout: FULL_WIDTH
                 )
-
-            }
+              }
         }    
-        image4 {
+        smallImage4 : image4 {
           childImageSharp {
               gatsbyImageData(
                 height: 635
@@ -116,7 +150,15 @@ export const guitarItemQuery = graphql`
 
           }
         }
-        image5 {
+        fullImage4 :image4 {
+              childImageSharp {
+                gatsbyImageData(
+                  quality: 100, 
+                  layout: FULL_WIDTH
+                )
+              }
+        } 
+        smallImage5: image5 {
           childImageSharp {
               gatsbyImageData(
                 height: 635
@@ -126,7 +168,15 @@ export const guitarItemQuery = graphql`
 
           }
         }
-        image6 {
+        fullImage5 :image5 {
+              childImageSharp {
+                gatsbyImageData(
+                  quality: 100, 
+                  layout: FULL_WIDTH
+                )
+              }
+        } 
+        smallImage6 : image6 {
           childImageSharp {
               gatsbyImageData(
                 height: 635
@@ -136,7 +186,15 @@ export const guitarItemQuery = graphql`
 
           }
         }
-        image7 {
+        fullImage6 :image6 {
+              childImageSharp {
+                gatsbyImageData(
+                  quality: 100, 
+                  layout: FULL_WIDTH
+                )
+              }
+        } 
+        smallImage7 : image7 {
           childImageSharp {
               gatsbyImageData(
                 height: 635
@@ -146,7 +204,15 @@ export const guitarItemQuery = graphql`
 
           }
         }
-        image8 {
+        fullImage7 :image7 {
+              childImageSharp {
+                gatsbyImageData(
+                  quality: 100, 
+                  layout: FULL_WIDTH
+                )
+              }
+        } 
+        smallImage8: image8 {
           childImageSharp {
               gatsbyImageData(
                 height: 635
@@ -156,7 +222,15 @@ export const guitarItemQuery = graphql`
 
           }
         }
-        image9 {
+        fullImage8 :image8 {
+              childImageSharp {
+                gatsbyImageData(
+                  quality: 100, 
+                  layout: FULL_WIDTH
+                )
+              }
+        } 
+        smallImage9: image9 {
           childImageSharp {
               gatsbyImageData(
                 height: 635
@@ -166,7 +240,15 @@ export const guitarItemQuery = graphql`
 
           }
         }
-        image10 {
+        fullImage9 :image9 {
+              childImageSharp {
+                gatsbyImageData(
+                  quality: 100, 
+                  layout: FULL_WIDTH
+                )
+              }
+        } 
+        smallImage10 : image10 {
           childImageSharp {
               gatsbyImageData(
                 height: 635
@@ -176,7 +258,15 @@ export const guitarItemQuery = graphql`
 
           }
         }
-        image11 {
+        fullImage10 :image10 {
+              childImageSharp {
+                gatsbyImageData(
+                  quality: 100, 
+                  layout: FULL_WIDTH
+                )
+              }
+        } 
+        smallImage11 : image11 {
           childImageSharp {
               gatsbyImageData(
                 height: 635
@@ -186,6 +276,14 @@ export const guitarItemQuery = graphql`
 
           }
         }
+        fullImage11 :image11 {
+              childImageSharp {
+                gatsbyImageData(
+                  quality: 100, 
+                  layout: FULL_WIDTH
+                )
+              }
+        } 
       }
     }
   }
