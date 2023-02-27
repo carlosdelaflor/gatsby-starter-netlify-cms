@@ -14,7 +14,7 @@ export const GuitarItemPageTemplate = ({
 
     return (
       <div className="main-content-container">
-        <section className="section">
+        <section className="section padding-top-0">
           <ItemDetail itemDetail={guitarItem}/>
         </section>
         <section className="section">

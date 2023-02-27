@@ -39,7 +39,7 @@ export const GuitarListPageTemplate = ({
     return (
         <div className="main-content-container">
             <FullWidthImage height={500} img={heroImage} title={pageContent.title} />
-            <section className="section">
+            <section className="section padding-top-0">
                 <SearchPanel acoustics={sortedAcoustics} electrics={sortedElectrics} />
                 <SearchResult acoustics={sortedAcoustics} electrics={sortedElectrics} sx={{marginTop: '2rem'}} />
             </section>

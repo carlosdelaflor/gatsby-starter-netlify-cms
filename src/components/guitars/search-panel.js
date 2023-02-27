@@ -24,13 +24,13 @@ const SearchPanel = ( {acoustics, electrics, sx} ) => {
     const brands = getBrands(acoustics, electrics);
     return (
         <Grid container spacing={1} width="100%" direction="row" sx={sx}>
-            <Grid item xs={4}>
+            <Grid item xs={12} sm={5} md={5} lg={5} sx={{marginTop: '15px'}}>
                 <Autocomplete
                     multiple
                     id="guitar-categories"
                     options={categories}
                     sx={{
-                        width: '80%'
+                        width: '90%'
                     }}
                     getOptionLabel={(option) => option.name}
                     renderInput={(params) => (
@@ -43,13 +43,13 @@ const SearchPanel = ( {acoustics, electrics, sx} ) => {
                     )}
                 />
             </Grid>
-            <Grid item xs={4}>
+            <Grid item xs={12} sm={5} md={5} lg={5} sx={{marginTop: '15px'}}>
                 <Autocomplete
                     multiple
                     id="guitar-brands"
                     options={brands}
                     sx={{
-                        width: '80%'
+                        width: '90%'
                     }}
                     getOptionLabel={(option) => option.name}
                     renderInput={(params) => (

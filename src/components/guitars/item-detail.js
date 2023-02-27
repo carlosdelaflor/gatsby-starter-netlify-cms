@@ -16,6 +16,7 @@ import 'lightgallery/css/lg-thumbnail.css';
 import lgThumbnail from 'lightgallery/plugins/thumbnail';
 import lgZoom from 'lightgallery/plugins/zoom';
 import { Stack } from "@mui/system";
+import { Link } from "gatsby";
 
 
 const ItemDetail = ( {itemDetail, sx} ) => {
@@ -75,11 +76,13 @@ const ItemDetail = ( {itemDetail, sx} ) => {
                         justifyContent="center" 
                         width="100%"
                         display={{sx: 'flex', sm: 'flex', md: 'none', lg: 'none'}}>
-                        <Box sx={{position: 'fixed', top: '700px', left: '130px'}}>
+                        <Box className="item-detail-fab-container">
                             <Zoom
                                 in={true}
                                 timeout={{enter: 500, exit: 500}}>
-                                <Fab variant="extended" color="success" >
+                                <Fab variant="extended" color="success" 
+                                    target='_blank' 
+                                    href="https://wa.me/51992780348?text=I'm%20interested%20in%20your%20car%20for%20sale" >
                                     <WhatsApp />
                                     {"Pidelo"}
                                 </Fab>
