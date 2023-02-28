@@ -19,7 +19,6 @@ const SearchResult = ( {acoustics, electrics, sx} ) => {
             guitars = guitars.concat(brandedGuitars);
         }
     );
-        console.log(guitars)
     return (
         <Grid container spacing={1} width="100%" sx={sx}>
             {guitars.map( (guitarContentNode) => 

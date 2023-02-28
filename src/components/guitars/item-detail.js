@@ -1,8 +1,8 @@
 import React from "react";
 import PropTypes from "prop-types";
 import Slider from "react-slick";
-import { Grid, Box, Fab, Zoom, Typography } from "@mui/material";
-import {Facebook, WhatsApp, Instagram}  from "@mui/icons-material";
+import { Grid, Box, Fab, Zoom, Tooltip } from "@mui/material";
+import { WhatsApp}  from "@mui/icons-material";
 import PreviewCompatibleImage from "../PreviewCompatibleImage";
 import LightGallery from 'lightgallery/react';
 import { getSrc } from "gatsby-plugin-image";
@@ -17,6 +17,7 @@ import lgThumbnail from 'lightgallery/plugins/thumbnail';
 import lgZoom from 'lightgallery/plugins/zoom';
 import { Stack } from "@mui/system";
 import { Link } from "gatsby";
+import zIndex from "@mui/material/styles/zIndex";
 
 
 const ItemDetail = ( {itemDetail, sx} ) => {
@@ -55,17 +56,16 @@ const ItemDetail = ( {itemDetail, sx} ) => {
                                 !!itemDetail[fullImageKey + imageKey] &&
                                 (<div>
                                     <LightGallery
+                                        mobileSettings={{showCloseIcon: true}}
                                         speed={500}
                                         plugins={[lgThumbnail, lgZoom]}
                                     >
-                                        <a
-                                            data-src={getSrc(itemDetail[fullImageKey + imageKey])}
-                                        >
-                                        <PreviewCompatibleImage
-                                            imageInfo={{
-                                                image: itemDetail[smallImageKey + imageKey]
-                                            }}
-                                        />
+                                        <a className="image-detail-zoom" data-src={getSrc(itemDetail[fullImageKey + imageKey])}>  
+                                            <PreviewCompatibleImage
+                                                imageInfo={{
+                                                    image: itemDetail[smallImageKey + imageKey]
+                                                }}
+                                            />
                                         </a>                                       
                                     </LightGallery>
                                 </div>)

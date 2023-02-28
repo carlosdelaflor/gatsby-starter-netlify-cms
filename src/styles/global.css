@@ -35,6 +35,12 @@
   padding: 0 !important;
 }
 
+.image-detail-zoom {
+  cursor: -moz-zoom-in; 
+  cursor: -webkit-zoom-in;
+  cursor: zoom-in;
+}
+
 @media screen and (max-width: 1024px) {
   .main-content-container {
     top: 5rem;
