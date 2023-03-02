@@ -17,12 +17,13 @@ const getBrands = (acousticBrands, electricBrands) => {
     return sortedBrands.map((brand) => {return {'name': brand, 'value': brand}} );
 };
 
-const SearchPanel = ( { acousticBrands, electricBrands, sx , onChangeCategories, onChangeBrands} ) => {
+const SearchPanel = ( { defaultCategory, acousticBrands, electricBrands, sx , onChangeCategories, onChangeBrands} ) => {
     
     const categories = getCategories();
     const brands = getBrands(acousticBrands, electricBrands);
+    const defaultSelectedCategory = defaultCategory ? [{name: defaultCategory, value: defaultCategory}] : undefined;
 
-    const [selectedCategories, setSelectedCategories] = React.useState([]);
+    const [selectedCategories, setSelectedCategories] = React.useState(defaultSelectedCategory);
     const [selectedBrands, setSelectedBrands] = React.useState([]);
 
     return (
@@ -80,6 +81,7 @@ const SearchPanel = ( { acousticBrands, electricBrands, sx , onChangeCategories,
 };
 
 SearchPanel.propTypes = {
+    defaultCategory : PropTypes.string,
     acoustics: PropTypes.object.isRequired,
     electrics: PropTypes.object.isRequired,
     acousticBrands: PropTypes.array,

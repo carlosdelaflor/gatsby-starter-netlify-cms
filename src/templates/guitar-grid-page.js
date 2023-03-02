@@ -30,6 +30,9 @@ export const GuitarListPageTemplate = ({
     acoustics,
     electrics
   }) => {
+    const queryParams = new URLSearchParams(window.location.search)
+    const defaultCategory = queryParams.get("cat");
+
     const acousticBrands = getGuitarBrands(acoustics);
     const electricBrands = getGuitarBrands(electrics);
     const sortedAcoustics = getGuitarsByBrand(acousticBrands, acoustics);
@@ -98,6 +101,12 @@ export const GuitarListPageTemplate = ({
         }
     };
 
+    React.useEffect(() => {
+        if (defaultCategory) {
+            filterByCategory({}, [{name: defaultCategory, value: defaultCategory}]);
+        }
+    }, []);
+
     return (
         <div className="main-content-container">
             <FullWidthImage height={500} img={heroImage} title={pageContent.title} />
@@ -105,7 +114,8 @@ export const GuitarListPageTemplate = ({
                 <SearchPanel onChangeCategories={filterByCategory} 
                         onChangeBrands={filterByBrand}
                         acousticBrands={selectedAcousticBrands} 
-                        electricBrands={selectedElectricBrands} />
+                        electricBrands={selectedElectricBrands} 
+                        defaultCategory={defaultCategory}/>
                 <SearchResult acoustics={selectedAcoustics} 
                             electrics={selectedElectrics} 
                         sx={{marginTop: '2rem'}} />
