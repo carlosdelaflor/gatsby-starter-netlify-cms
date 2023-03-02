@@ -30,8 +30,8 @@ export const GuitarListPageTemplate = ({
     acoustics,
     electrics
   }) => {
-    const queryParams = new URLSearchParams(window.location.search)
-    const defaultCategory = queryParams.get("cat");
+    const queryParams = typeof window !== 'undefined' && new URLSearchParams(window.location.search);
+    const defaultCategory = (queryParams) ? queryParams.get("cat") : undefined;
 
     const acousticBrands = getGuitarBrands(acoustics);
     const electricBrands = getGuitarBrands(electrics);
