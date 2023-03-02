@@ -1,8 +1,17 @@
 import React from "react";
 import PropTypes from "prop-types";
 import Slider from "react-slick";
-import { Grid, Box, Fab, Zoom, Tooltip } from "@mui/material";
-import { WhatsApp}  from "@mui/icons-material";
+import { Accordion, 
+        AccordionSummary, 
+        AccordionDetails , 
+        Grid, 
+        Box, 
+        Fab, 
+        Zoom, 
+        Typography } from "@mui/material";
+import { useTheme } from '@mui/material/styles';
+import useMediaQuery from '@mui/material/useMediaQuery';
+import { WhatsApp, ExpandMore}  from "@mui/icons-material";
 import PreviewCompatibleImage from "../PreviewCompatibleImage";
 import LightGallery from 'lightgallery/react';
 import { getSrc } from "gatsby-plugin-image";
@@ -16,27 +25,49 @@ import 'lightgallery/css/lg-thumbnail.css';
 import lgThumbnail from 'lightgallery/plugins/thumbnail';
 import lgZoom from 'lightgallery/plugins/zoom';
 import { Stack } from "@mui/system";
-import { Link } from "gatsby";
-import zIndex from "@mui/material/styles/zIndex";
+import { HTMLContent } from "../Content";
 
+const WhatsAppButton = ({className, sx}) => (
+    <Box className={className} sx={sx}>
+        <Zoom
+            in={true}
+            timeout={{enter: 500, exit: 500}}>
+            <Fab variant="extended" color="success" 
+                target='_blank'
+                href="https://wa.me/51992780348?text=I'm%20interested%20in%20your%20car%20for%20sale" >
+                <WhatsApp />
+                {"Pidelo"}
+            </Fab>
+        </Zoom>
+    </Box>
+);
 
-const ItemDetail = ( {itemDetail, sx} ) => {
+const ItemDetail = ( {
+        itemDetailContent,
+        itemData, 
+        sx
+    } ) => {
+    const theme = useTheme();
+    const matches = useMediaQuery(theme.breakpoints.down('sm'));
     const smallImageKey = 'smallImage';
     const fullImageKey = 'fullImage';
     const imageKeys = ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11'];
+    const defaultDots = function (index) {
+        return (<button>{index + 1}</button>);
+    } 
     const customPagination = function (index) {
         return (
-          <Box display={{sx: 'none', sm: 'none', md: 'block', lg: 'block'}}>
+          <Box>
               <PreviewCompatibleImage
                   imageInfo={{
-                      image: itemDetail[smallImageKey + (index + 1)]
+                      image: itemData[smallImageKey + (index + 1)]
                   }}
               />
           </Box>
         );
     }
     const settings = {
-        customPaging: customPagination,
+        customPaging: !matches ? customPagination : defaultDots,
         dots: true,
         dotsClass: "slick-dots slick-thumb",
         infinite: true,
@@ -46,60 +77,91 @@ const ItemDetail = ( {itemDetail, sx} ) => {
     };
 
     return (
-        <Grid container spacing={1} width="100%" direction="row" sx={sx}>
-            <Grid item xs={12} sm={12} md={6}>
+        <Grid container spacing={4} width="100%" direction="row" sx={sx}>
+            <Grid item xs={12} sm={12} md={7}>
                 <Stack>
                     <Slider {...settings}>
-                        {
-                            imageKeys.map((imageKey) => (
-                                !!itemDetail[smallImageKey + imageKey] && 
-                                !!itemDetail[fullImageKey + imageKey] &&
-                                (<div>
-                                    <LightGallery
-                                        mobileSettings={{showCloseIcon: true}}
-                                        speed={500}
-                                        plugins={[lgThumbnail, lgZoom]}
-                                    >
-                                        <a className="image-detail-zoom" data-src={getSrc(itemDetail[fullImageKey + imageKey])}>  
-                                            <PreviewCompatibleImage
-                                                imageInfo={{
-                                                    image: itemDetail[smallImageKey + imageKey]
-                                                }}
-                                            />
-                                        </a>                                       
-                                    </LightGallery>
-                                </div>)
-                            ))
-                        }
+                            {
+                                imageKeys.map((imageKey) => (
+                                    !!itemData[smallImageKey + imageKey] && 
+                                    !!itemData[fullImageKey + imageKey] &&
+                                    (<div>
+                                        <LightGallery
+                                            mobileSettings={{showCloseIcon: true}}
+                                            speed={500}
+                                            plugins={[lgThumbnail, lgZoom]}
+                                        >
+                                            <a className="image-detail-zoom" 
+                                                data-src={getSrc(itemData[fullImageKey + imageKey])}>  
+                                                <PreviewCompatibleImage
+                                                    imageInfo={{
+                                                        image: itemData[smallImageKey + imageKey]
+                                                    }}
+                                                />
+                                            </a>                                       
+                                        </LightGallery>
+                                    </div>)
+                                ))
+                            }
                     </Slider>
                     <Box 
                         justifyContent="center" 
                         width="100%"
-                        display={{sx: 'flex', sm: 'flex', md: 'none', lg: 'none'}}>
-                        <Box className="item-detail-fab-container">
-                            <Zoom
-                                in={true}
-                                timeout={{enter: 500, exit: 500}}>
-                                <Fab variant="extended" color="success" 
-                                    target='_blank' 
-                                    href="https://wa.me/51992780348?text=I'm%20interested%20in%20your%20car%20for%20sale" >
-                                    <WhatsApp />
-                                    {"Pidelo"}
-                                </Fab>
-                            </Zoom>
-                        </Box>
+                        display={{xs: 'flex', sm: 'flex', md: 'none', lg: 'none', xl: 'none'}}>
+                            <WhatsAppButton sx={{zIndex: 200, position: 'fixed', top: '35rem', left: '9rem'}}/>
                     </Box>
                 </Stack>
             </Grid>
-            <Grid item md={5} display={{ xs: "none", sm: 'block'  }}>
-                
-            </Grid>           
+            <Grid item xs={12} sm={12} md={4} >
+                <Stack>
+                    <Box className="content" sx={{paddingTop: '10px', marginBottom: '0px !important'}} flex direction="column">
+                        <Typography variant="h2">
+                            {itemData.title}
+                        </Typography>
+                        <Typography>
+                            Condicion: {itemData.condition}
+                        </Typography>
+                        <Typography variant="h3">
+                            Precio: {itemData.price}
+                        </Typography>
+                    </Box>
+                    <Box display={{xs: 'none', sm: 'none', md: 'block', lg: 'block', xl: 'block'}}>
+                        <WhatsAppButton sx={{zIndex: -5, position: 'relative'}}/>
+                    </Box>
+                    {itemDetailContent && 
+                        <Stack>
+                            <Box display={{xs: 'none', sm: 'none', md: 'block', lg: 'block', xl: 'block'}} 
+                                className="content" sx={{paddingTop: '10px'}}>
+                                <HTMLContent content={itemDetailContent} />
+                            </Box>
+                            <Box display={{xs: 'block', sm: 'block', md: 'none', lg: 'none', xl: 'none'}} 
+                                 sx={{paddingTop: '10px'}}>
+                                <Accordion>
+                                    <AccordionSummary
+                                        expandIcon={<ExpandMore />}
+                                        aria-controls="mobile-details"
+                                        id="mobile-details"
+                                        >
+                                    <Typography>Mas detalles</Typography>
+                                    </AccordionSummary>
+                                    <AccordionDetails>
+                                        <Box className="content">
+                                            <HTMLContent content={itemDetailContent} />
+                                        </Box>
+                                    </AccordionDetails>
+                                </Accordion>
+                            </Box>
+                        </Stack>
+                    }                   
+                </Stack>
+            </Grid>        
         </Grid>
     );
 };
 
 ItemDetail.propTypes = {
-    itemDetail: PropTypes.object.isRequired,
+    itemData: PropTypes.object.isRequired,
+    itemDetailContent: PropTypes.node,
     sx: PropTypes.object
 };
 

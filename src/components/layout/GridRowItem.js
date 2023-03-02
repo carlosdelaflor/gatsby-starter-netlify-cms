@@ -2,7 +2,6 @@ import * as React from "react";
 import PropTypes from "prop-types";
 import { getImage } from "gatsby-plugin-image";
 import FullWidthImage from "../FullWidthImage";
-import { GatsbyImage } from "gatsby-plugin-image";
 import { Box, Grid } from "@mui/material";
 
 const GridRowItem = ({ direction = 'row', gridItems }) => (

@@ -5,8 +5,10 @@ itemtype: acoustic-guitar
 order: 2
 brand: yamaha
 price: S/. 1400.00
+condition: Usada en buen estado (8.5/10)
+description: Guitarra Yamaha FGX-730SC en Venta!, Lima, Peru
 date: 2016-12-17T15:04:10.000Z
-image1: /img/guitars/yamaha-fgx-730sc/yamaha-fgx730sc-01.jpg
+image1: /img/guitars/yamaha-fgx-730sc/yamaha-fgx730sc-01.jpeg
 image2: /img/guitars/yamaha-fgx-730sc/yamaha-fgx730sc-02.JPG
 image3: /img/guitars/yamaha-fgx-730sc/yamaha-fgx730sc-03.JPG
 image4: /img/guitars/yamaha-fgx-730sc/yamaha-fgx730sc-04.jpg
@@ -16,31 +18,21 @@ image7: /img/guitars/yamaha-fgx-730sc/yamaha-fgx730sc-07.jpg
 image8: /img/guitars/yamaha-fgx-730sc/yamaha-fgx730sc-08.jpg
 image9: /img/guitars/yamaha-fgx-730sc/yamaha-fgx730sc-09.jpg
 image10: /img/guitars/yamaha-fgx-730sc/yamaha-fgx730sc-10.jpg
-image11: /img/guitars/yamaha-fgx-730sc/yamaha-fgx730sc-11.jpeg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
-tags:
-  - flavor
-  - tasting
+image11: /img/guitars/yamaha-fgx-730sc/yamaha-fgx730sc-11.jpg
+keywords: yamaha fg, yamaha fg730s, yamaha fg-730s, yamaha fgx730sc, yamaha fgx-730sc
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+Les presentamos esta guitarra electroacústica lista para el escenario, presenta leves detalles de uso en la parte frontal, completamente funcional.
+La serie FG-700s es probablemente una de las mas exitosas de Yamaha a nivel mundial, este ejemplar ademas de poseer una tapa sólida de sitka nos da un tono muy particular debido a sus lados y fondo de rosewood laminados.
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+## Características técnicas
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
-
-## What the updates mean to you
-
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
-
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
-
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
-
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+* Serie: Yamaha FG
+* Tapa frontal: Tapa sólida de sitka spruce
+* Lados y tapa trasera: rosewood laminado
+* Acabado: Brillante
+* Tipo de bracing: Sin escalopado en X
+* Puente: Rosewood con hueso sintético
+* Color: Natural
+* Cuello: Nato
+* Diapason: Rosewood
+* Electronica: Preamp Yamaha propietario.

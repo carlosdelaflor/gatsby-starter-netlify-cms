@@ -3,19 +3,25 @@ import PropTypes from "prop-types";
 import Layout from "../components/Layout";
 import ItemDetail from "../components/guitars/item-detail";
 import { graphql } from "gatsby";
+import { Helmet } from "react-helmet";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import "../styles/slick-theme.css"
+import "../styles/slick-theme.css";
 
 // eslint-disable-next-line
 export const GuitarItemPageTemplate = ({
-    guitarItem
+    guitarDetailContent,
+    guitarItem,
+    helmet
   }) => {
 
     return (
       <div className="main-content-container">
+        {helmet || ""}
         <section className="section padding-top-0">
-          <ItemDetail itemDetail={guitarItem}/>
+          <ItemDetail 
+            itemData={guitarItem}
+            itemDetailContent={guitarDetailContent}/>
         </section>
         <section className="section">
         </section>
@@ -24,6 +30,8 @@ export const GuitarItemPageTemplate = ({
 };
 
 GuitarItemPageTemplate.propTypes = {
+  helmet: PropTypes.object,
+  guitarDetailContent: PropTypes.node,
   guitarItem: PropTypes.shape({
     title: PropTypes.string,
     order: PropTypes.number,
@@ -56,11 +64,24 @@ GuitarItemPageTemplate.propTypes = {
 };
 
 const GuitarItemPage = ({ data }) => {
-    const { frontmatter: guitarItem } = data.markdownRemark;
-    console.log(guitarItem);
+    const { frontmatter: guitarItem, html: guitarHtmlDetail } = data.markdownRemark;
     return (
       <Layout>
-        <GuitarItemPageTemplate guitarItem={guitarItem} />
+        <GuitarItemPageTemplate 
+          guitarDetailContent={guitarHtmlDetail}
+          helmet={
+            <Helmet titleTemplate="Guitarra %s">
+              <title>{`${guitarItem.title}`}</title>
+              <meta
+                name="description"
+                content={`${guitarItem.description}`}
+              />
+              <meta 
+                name="keywords"
+                content={`${guitarItem.keywords}`}/>
+            </Helmet>
+          }
+          guitarItem={guitarItem} />
       </Layout>
     );
 };
@@ -83,10 +104,13 @@ export const guitarItemQuery = graphql`
         order
         brand
         price
+        serial
+        description
+        condition
         itemtype
         templateKey
+        keywords
         date(formatString: "MMMM DD, YYYY")
-        description
         smallImage1 : image1 {
             childImageSharp {
                 gatsbyImageData(

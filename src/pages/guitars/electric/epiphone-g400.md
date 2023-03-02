@@ -5,6 +5,8 @@ itemtype: electric-guitar
 order: 1
 brand: epiphone
 price: S/. 1450.00
+condition: Usada en buen estado (8.5/10)
+description: Guitarra Epiphone G400 en Venta!, Lima, Peru
 date: 2016-12-17T15:04:10.000Z
 image1: /img/guitars/epiphone-g400/epiphone-g400-01.jpeg
 image2: /img/guitars/epiphone-g400/epiphone-g400-02.jpeg
@@ -17,30 +19,25 @@ image8: /img/guitars/epiphone-g400/epiphone-g400-08.jpg
 image9: /img/guitars/epiphone-g400/epiphone-g400-09.JPG
 image10: /img/guitars/epiphone-g400/epiphone-g400-10.JPG
 image11: /img/guitars/epiphone-g400/epiphone-g400-11.JPG
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
-tags:
-  - flavor
-  - tasting
+keywords: epiphone SG, epiphone G400
+
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+La versión Epiphone de la SG, la SG G-400, ofrece el mismo estilo y sonido legendario a un precio razonable, accesible a guitarristas de todos los niveles. Tanto si buscas tu primera guitarra eléctrica como un nuevo modelo con el que guitarrear sin miedo a quedarte corto, cómo si eres un guitarrista avanzado, la guitarra Epiphone SG G-400 es una gran opción
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+## Características técnicas
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
-
-## What the updates mean to you
-
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
-
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
-
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
-
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+* Construcción: Cuerpo sólido
+* Construcción mástil: Mástil encolado
+* Número de cuerdas: 6
+* Número de trastes: 22
+* Escala: 24,75"
+* Cuerpo: Caoba
+* Mástil: Caoba
+* Diapasón: Palorrosa
+* Inlays en el diapasón: Trapezoidales
+* Clavijas: Grover
+* Seleccionador de pastillas: Switch de tres posiciones
+* Posibilidades de regulación: 2 x volumen, 2 x tono
+* Puente / Trémolo: Tune-O-Matic
+* Pastilla Mastil: Humbuckers de álnico G400 exclusive
+* Pastilla Puente: Humbuckers de álnico G400 exclusive

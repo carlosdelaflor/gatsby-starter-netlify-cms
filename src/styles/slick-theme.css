@@ -25,6 +25,30 @@
     bottom: 0px;
 }
 
+.slick-prev {
+    left: -10px;
+}
+
+.slick-next {
+    right: -10px;
+}
+
 .slick-prev, .slick-next {
     top: 30% !important;
+    z-index: 100;
 }
+
+@media screen and (max-width: 640px) {
+    .slick-prev, .slick-next {
+        top: 45% !important;
+    }
+
+    .slick-dots li button {
+        height: auto;
+        width: 15px;
+    }
+    .slick-dots li {
+        height: auto;
+        width: auto;
+    }    
+  }
