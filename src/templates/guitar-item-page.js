@@ -38,6 +38,7 @@ GuitarItemPageTemplate.propTypes = {
     brand: PropTypes.string,
     price: PropTypes.string,
     description: PropTypes.string,
+    contactPhone: PropTypes.number,
     smallImage1: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
     fullImage1: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
     smallImage2: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
@@ -106,6 +107,7 @@ export const guitarItemQuery = graphql`
         price
         serial
         description
+        contactPhone
         condition
         itemtype
         templateKey

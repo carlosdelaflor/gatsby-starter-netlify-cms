@@ -27,20 +27,23 @@ import lgZoom from 'lightgallery/plugins/zoom';
 import { Stack } from "@mui/system";
 import { HTMLContent } from "../Content";
 
-const WhatsAppButton = ({className, sx}) => (
-    <Box className={className} sx={sx}>
-        <Zoom
-            in={true}
-            timeout={{enter: 500, exit: 500}}>
-            <Fab variant="extended" color="success" 
-                target='_blank'
-                href="https://wa.me/51992780348?text=I'm%20interested%20in%20your%20car%20for%20sale" >
-                <WhatsApp />
-                {"Pidelo"}
-            </Fab>
-        </Zoom>
-    </Box>
-);
+const WhatsAppButton = ({item, className, sx}) => {
+    const contactPhone = item.contactPhone;
+    const contactText = encodeURIComponent('Informacion sobre ' + item.title);
+    const whatsAppURL = `https://wa.me/${contactPhone}?text=${contactText}`;
+    return (
+        <Box className={className} sx={sx}>
+            <Zoom
+                in={true}
+                timeout={{enter: 500, exit: 500}}>
+                <Fab variant="extended" color="success" target='_blank' href={whatsAppURL}>
+                    <WhatsApp />
+                    {"Pidelo"}
+                </Fab>
+            </Zoom>
+        </Box>
+    );
+} 
 
 const ItemDetail = ( {
         itemDetailContent,
@@ -108,7 +111,7 @@ const ItemDetail = ( {
                         justifyContent="center" 
                         width="100%"
                         display={{xs: 'flex', sm: 'flex', md: 'none', lg: 'none', xl: 'none'}}>
-                            <WhatsAppButton sx={{zIndex: 200, position: 'fixed', top: '35rem', left: '9rem'}}/>
+                            <WhatsAppButton  item={itemData} sx={{zIndex: 200, position: 'fixed', top: '35rem', left: '9rem'}}/>
                     </Box>
                 </Stack>
             </Grid>
@@ -126,7 +129,7 @@ const ItemDetail = ( {
                         </Typography>
                     </Box>
                     <Box display={{xs: 'none', sm: 'none', md: 'block', lg: 'block', xl: 'block'}}>
-                        <WhatsAppButton sx={{zIndex: -5, position: 'relative'}}/>
+                        <WhatsAppButton item={itemData} sx={{zIndex: 1, position: 'relative'}}/>
                     </Box>
                     {itemDetailContent && 
                         <Stack>
