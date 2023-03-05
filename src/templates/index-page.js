@@ -15,7 +15,6 @@ export const IndexPageTemplate = ({
   title,
   heading,
   subheading,
-  mainpitch,
   body,
 }) => {
   const heroImage = getImage(image) || image;
@@ -32,13 +31,6 @@ export const IndexPageTemplate = ({
             <div className="columns">
               <div className="column is-10 is-offset-1">
                 <div className="content">
-                  <div className="columns">
-                    <div className="column is-12 has-text-centered">
-                      <Link className="btn" to="/products">
-                        See all products
-                      </Link>
-                    </div>
-                  </div>
                   <div className="column is-12">
                     <h3 className="has-text-weight-semibold is-size-2">
                       Latest stories
@@ -65,7 +57,6 @@ IndexPageTemplate.propTypes = {
   title: PropTypes.string,
   heading: PropTypes.string,
   subheading: PropTypes.string,
-  mainpitch: PropTypes.object,
   body: PropTypes.shape({
     blurbs: PropTypes.array,
   }),
@@ -81,7 +72,6 @@ const IndexPage = ({ data }) => {
         title={frontmatter.title}
         heading={frontmatter.heading}
         subheading={frontmatter.subheading}
-        mainpitch={frontmatter.mainpitch}
         body={frontmatter.body}
       />
     </Layout>

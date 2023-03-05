@@ -13,13 +13,13 @@ image1: /img/guitars/epiphone-g400/epiphone-g400-01.jpeg
 image2: /img/guitars/epiphone-g400/epiphone-g400-02.jpeg
 image3: /img/guitars/epiphone-g400/epiphone-g400-03.JPG
 image4: /img/guitars/epiphone-g400/epiphone-g400-04.JPG
-image5: /img/guitars/epiphone-g400/epiphone-g400-05.jpg
-image6: /img/guitars/epiphone-g400/epiphone-g400-06.jpg
-image7: /img/guitars/epiphone-g400/epiphone-g400-07.JPG
-image8: /img/guitars/epiphone-g400/epiphone-g400-08.jpg
-image9: /img/guitars/epiphone-g400/epiphone-g400-09.JPG
-image10: /img/guitars/epiphone-g400/epiphone-g400-10.JPG
-image11: /img/guitars/epiphone-g400/epiphone-g400-11.JPG
+image5: /img/guitars/epiphone-g400/epiphone-g400-051.jpg
+image6: /img/guitars/epiphone-g400/epiphone-g400-061.jpg
+image7: /img/guitars/epiphone-g400/epiphone-g400-071.JPG
+image8: /img/guitars/epiphone-g400/epiphone-g400-081.JPG
+image9: /img/guitars/epiphone-g400/epiphone-g400-091.JPG
+image10: /img/guitars/epiphone-g400/epiphone-g400-010.JPG
+image11: /img/guitars/epiphone-g400/epiphone-g400-011.JPG
 keywords: epiphone SG, epiphone G400
 
 ---

@@ -37,8 +37,10 @@ collections:
     label: "Pages"
     files:
       - file: "src/pages/index.md"
-        label: "Landing Page"
+        label: "Paginal Inicial"
         name: "index"
+        media_folder: "/{{media_folder}}/index"
+        public_folder: "/img/index"
         fields:
           - {
               label: "Template Key",
@@ -46,77 +48,25 @@ collections:
               widget: "hidden",
               default: "index-page",
             }
-          - { label: Title, name: title, widget: string }
-          - { label: Image, name: image, widget: image }
-          - { label: Heading, name: heading, widget: string }
-          - { label: Subheading, name: subheading, widget: string }
+          - { label: Titulo Principal, name: title, widget: string }
+          - { label: Imagen Principal, name: image, widget: image }
+          - { label: Titulo Imagen, name: heading, widget: string }
+          - { label: Subtitulo Imagen, name: subheading, widget: string }
           - {
-              label: Mainpitch,
-              name: mainpitch,
+              label: Cuerpo,
+              name: body,
               widget: object,
               fields:
                 [
-                  { label: Title, name: title, widget: string },
-                  { label: Description, name: description, widget: text },
-                ],
-            }
-          - { label: Description, name: description, widget: string }
-          - {
-              label: Intro,
-              name: intro,
-              widget: object,
-              fields:
-                [
-                  { label: Heading, name: heading, widget: string },
-                  { label: Description, name: description, widget: text },
                   {
-                    label: Blurbs,
+                    label: Secciones,
                     name: blurbs,
                     widget: list,
                     fields:
                       [
-                        { label: Image, name: image, widget: image },
-                        { label: Text, name: text, widget: text },
-                      ],
-                  },
-                ],
-            }
-          - {
-              label: Main,
-              name: main,
-              widget: object,
-              fields:
-                [
-                  { label: Heading, name: heading, widget: string },
-                  { label: Description, name: description, widget: text },
-                  {
-                    label: Image1,
-                    name: image1,
-                    widget: object,
-                    fields:
-                      [
-                        { label: Image, name: image, widget: image },
-                        { label: Alt, name: alt, widget: string },
-                      ],
-                  },
-                  {
-                    label: Image2,
-                    name: image2,
-                    widget: object,
-                    fields:
-                      [
-                        { label: Image, name: image, widget: image },
-                        { label: Alt, name: alt, widget: string },
-                      ],
-                  },
-                  {
-                    label: Image3,
-                    name: image3,
-                    widget: object,
-                    fields:
-                      [
-                        { label: Image, name: image, widget: image },
-                        { label: Alt, name: alt, widget: string },
+                        { label: Titulo, name: text, widget: text },
+                        { label: Link, name: textlink, widget: string },
+                        { label: Imagen, name: image, widget: image },
                       ],
                   },
                 ],
@@ -244,3 +194,63 @@ collections:
                   },
                 ],
             }
+ 
+  - name: "acoustics"
+    label: "Guitarras acusticas"
+    folder: "src/pages/guitars/acoustic"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Template Key", name: "templateKey", widget: "hidden", default: "guitar-item-page"}
+      - { label: "Tipo de guitarra", name: "itemtype", widget: "hidden", default: "acoustic-guitar"}
+      - { label: "Titulo", name: "title", widget: "string" }
+      - { label: "Orden", name: "order", widget: "number" }
+      - { label: "Marca", name: "brand", widget: "string" }
+      - { label: "Nro. Serie", name: "serial", widget: "string" }
+      - { label: "Precio", name: "price", widget: "string" }
+      - { label: "Meta - Descripcion", name: "description", widget: "text" }
+      - { label: "Meta - Tags", name: "keywords", widget: "text" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Telefono Contacto", name: "contactPhone", widget: "number" }
+      - { label: "Imagen 1", name: "image1", widget: image }
+      - { label: "Imagen 2", name: "image2", widget: image }
+      - { label: "Imagen 3", name: "image3", widget: image }
+      - { label: "Imagen 4", name: "image4", widget: image }
+      - { label: "Imagen 5", name: "image5", widget: image }
+      - { label: "Imagen 6", name: "image6", widget: image }
+      - { label: "Imagen 7", name: "image7", widget: image }
+      - { label: "Imagen 8", name: "image8", widget: image }
+      - { label: "Imagen 9", name: "image9", widget: image }
+      - { label: "Imagen 10", name: "image10", widget: image }
+      - { label: "Imagen 11", name: "image11", widget: image }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "electrics"
+    label: "Guitarras electricas"
+    folder: "src/pages/guitars/electric"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Template Key", name: "templateKey", widget: "hidden", default: "guitar-item-page"}
+      - { label: "Tipo de guitarra", name: "itemtype", widget: "hidden", default: "electric-guitar"}
+      - { label: "Titulo", name: "title", widget: "string" }
+      - { label: "Orden", name: "order", widget: "number" }
+      - { label: "Marca", name: "brand", widget: "string" }
+      - { label: "Nro. Serie", name: "serial", widget: "string" }
+      - { label: "Precio", name: "price", widget: "string" }
+      - { label: "Meta - Descripcion", name: "description", widget: "text" }
+      - { label: "Meta - Tags", name: "keywords", widget: "text" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Telefono Contacto", name: "contactPhone", widget: "number" }
+      - { label: "Imagen 1", name: "image1", widget: image }
+      - { label: "Imagen 2", name: "image2", widget: image }
+      - { label: "Imagen 3", name: "image3", widget: image }
+      - { label: "Imagen 4", name: "image4", widget: image }
+      - { label: "Imagen 5", name: "image5", widget: image }
+      - { label: "Imagen 6", name: "image6", widget: image }
+      - { label: "Imagen 7", name: "image7", widget: image }
+      - { label: "Imagen 8", name: "image8", widget: image }
+      - { label: "Imagen 9", name: "image9", widget: image }
+      - { label: "Imagen 10", name: "image10", widget: image }
+      - { label: "Imagen 11", name: "image11", widget: image }
+      - { label: "Body", name: "body", widget: "markdown" }
