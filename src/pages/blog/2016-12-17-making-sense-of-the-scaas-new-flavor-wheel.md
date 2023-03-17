@@ -1,33 +1,20 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
+title: Necesitas mas informacion de tu Yamaha FG vintage?
 date: 2016-12-17T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+description: Donde encontrar mas informacion sobre guitarras Yamaha FG
 tags:
-  - flavor
-  - tasting
+  - yamaha fg
+  - yamaha vintage
 ---
 ![flavor wheel](/img/flavor_wheel.jpg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+Si eres una de esas personas que durante su viaje musical se encontro en el camino con alguna de esas tan conocidas Yamaha FG y no estas tan seguro de su procedencia o historia entonces aquí podras encontrar mas información de esta icónica serie de Yamaha
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+## El gran legado de la serie FG de Yamaha
 
-## What the updates mean to you
+Para la mayoria de la gente la marca Yamaha esta relacionada con la industria de las motocicletas o autopartes, pero para sorpresa de muchos esta marca comenzo su historia comercializando [instrumentos musicales](https://www.yamaha.com/en/about/history/brand) (organos), hasta llegar al mundo de las guitarras durante los años [1960s](https://www.yamaha.com/en/about/history/products/#1960), es asi como a finales de las 60s se crea la primera Yamaha FG.
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
-
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
-
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
-
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+Es muy probable que si te gusta la guitarra reconoscas este modelo tan icónico de Yamaha, es por eso que si andas buscando información deberias revisar el site [yamahavintagefg](https://yamahavintagefg.com/), es un site no oficial que contiene mucha informacion de este modelo durante los años 60s - 90s, es mas posee una pequeña base de datos de muchos de los modelos fabricados durante estos años, puedes descargar este [excel aquí]().

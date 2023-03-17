@@ -28,6 +28,7 @@ La serie FG-700s es probablemente una de las mas exitosas de Yamaha a nivel mund
 ## Características técnicas
 
 * Serie: Yamaha FG
+* Tipo: Dreadnought
 * Tapa frontal: Tapa sólida de sitka spruce
 * Lados y tapa trasera: rosewood laminado
 * Acabado: Brillante

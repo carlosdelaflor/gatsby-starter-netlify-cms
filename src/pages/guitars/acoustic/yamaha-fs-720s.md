@@ -9,7 +9,7 @@ condition: Usada como nueva (9/10)
 description: Guitarra Yamaha FS-720S en Venta!, Lima, Peru
 contactPhone: 51992780348
 date: 2016-12-17T15:04:10.000Z
-image1: /img/guitars/yamaha-fs-720s/yamaha-fs720s-01.jpg
+image1: /img/guitars/yamaha-fs-720s/yamaha-fs720s-01.jpeg
 image2: /img/guitars/yamaha-fs-720s/yamaha-fs720s-02.jpeg
 image3: /img/guitars/yamaha-fs-720s/yamaha-fs720s-03.jpeg
 image4: /img/guitars/yamaha-fs-720s/yamaha-fs720s-04.jpeg
@@ -28,6 +28,7 @@ La Yamaha FS-720s ofrece todas las características de su hermana mayor la FG-72
 ## Características técnicas
 
 * Serie: Yamaha FS
+* Tipo: Concierto
 * Tapa frontal: Tapa sólida de sitka spruce
 * Lados y tapa trasera: Nato laminado (similar a mahoganey)
 * Acabado: Brillante
