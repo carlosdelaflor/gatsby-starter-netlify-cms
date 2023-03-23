@@ -63,7 +63,8 @@ const ItemDetail = ( {
           <Box>
               <PreviewCompatibleImage
                   imageInfo={{
-                      image: itemData[smallImageKey + (index + 1)]
+                      image: itemData[smallImageKey + (index + 1)],
+                      style: {height: '90px'}
                   }}
               />
           </Box>
@@ -98,7 +99,7 @@ const ItemDetail = ( {
                                                 data-src={getSrc(itemData[fullImageKey + imageKey])}>  
                                                 <PreviewCompatibleImage
                                                     imageInfo={{
-                                                        image: itemData[smallImageKey + imageKey]
+                                                        image: itemData[smallImageKey + imageKey],
                                                     }}
                                                 />
                                             </a>                                       

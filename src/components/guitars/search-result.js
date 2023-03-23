@@ -4,6 +4,14 @@ import { Card , CardMedia, CardContent, Grid, Typography } from "@mui/material";
 import PreviewCompatibleImage from "../PreviewCompatibleImage";
 import { Stack } from "@mui/system";
 import { Link } from "gatsby";
+import { createTheme, ThemeProvider } from '@mui/material/styles';
+
+let theme = createTheme();
+theme.typography.body1 = {
+    [theme.breakpoints.down('sm')]: {
+      fontSize: '0.9rem',
+    },
+  };
 
 const SearchResult = ( {acoustics, electrics, sx} ) => {
     let guitars = [];
@@ -39,14 +47,12 @@ const SearchResult = ( {acoustics, electrics, sx} ) => {
                                 <Link to={guitarContentNode.node.fields.slug} height='20rem'>
                                     <PreviewCompatibleImage
                                         imageInfo={{
-                                        image: guitarContentNode.node.frontmatter.image1,
-                                        alt: `featured image thumbnail for post ${guitarContentNode.node.frontmatter.title}`,
-                                        width:
-                                            guitarContentNode.node.frontmatter.image1.childImageSharp
-                                            .gatsbyImageData.width,
-                                        height:
-                                            guitarContentNode.node.frontmatter.image1.childImageSharp
-                                            .gatsbyImageData.height,
+                                            image: guitarContentNode.node.frontmatter.image1,
+                                            alt: `Imagen de guitarra ${guitarContentNode.node.frontmatter.title}`,
+                                            style: {
+                                                height: '300px',
+                                                width: '180px'
+                                                }
                                         }}
                                     />
                                 </Link>
@@ -58,12 +64,14 @@ const SearchResult = ( {acoustics, electrics, sx} ) => {
                                 }}
                             >
                                 <Stack>
-                                    <Typography component="div">
-                                        {guitarContentNode.node.frontmatter.title}
-                                    </Typography>
-                                    <Typography color="primary" component="div">
-                                        {guitarContentNode.node.frontmatter.price}
-                                    </Typography>
+                                    <ThemeProvider theme={theme}>
+                                        <Typography component="div" variant="body1">
+                                            {guitarContentNode.node.frontmatter.title}
+                                        </Typography>
+                                        <Typography color="primary" component="div" variant="body1">
+                                            {guitarContentNode.node.frontmatter.price}
+                                        </Typography>
+                                    </ThemeProvider>
                                 </Stack>
                             </CardContent>
                         </Card>

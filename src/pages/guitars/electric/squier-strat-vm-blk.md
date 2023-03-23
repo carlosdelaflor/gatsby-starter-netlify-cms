@@ -1,6 +1,6 @@
 ---
 templateKey: guitar-item-page
-title: Squier Stratocaster Vintage Modified
+title: Squier Stratocaster VM 70s
 itemtype: electric-guitar
 order: 1
 brand: squier

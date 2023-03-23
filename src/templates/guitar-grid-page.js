@@ -210,7 +210,7 @@ export const guitarListPageQuery = graphql`
                                     image1 {
                                         childImageSharp {
                                             gatsbyImageData(
-                                            height: 300
+                                            height: 280
                                             quality: 100
                                             layout: CONSTRAINED
                                             )
@@ -243,7 +243,7 @@ export const guitarListPageQuery = graphql`
                                     image1 {
                                         childImageSharp {
                                             gatsbyImageData(
-                                            height: 300
+                                            height: 290
                                             quality: 100
                                             layout: CONSTRAINED
                                             )
