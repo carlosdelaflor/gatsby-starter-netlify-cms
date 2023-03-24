@@ -81,7 +81,7 @@ const ItemDetail = ( {
     };
 
     return (
-        <Grid container spacing={4} width="100%" direction="row" sx={sx}>
+        <Grid container width="100%" direction="row" sx={sx}>
             <Grid item xs={12} sm={12} md={7}>
                 <Stack>
                     <Slider {...settings}>
@@ -100,6 +100,7 @@ const ItemDetail = ( {
                                                 <PreviewCompatibleImage
                                                     imageInfo={{
                                                         image: itemData[smallImageKey + imageKey],
+                                                        style: {height: '635px',}
                                                     }}
                                                 />
                                             </a>                                       

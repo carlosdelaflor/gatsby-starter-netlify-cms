@@ -21,7 +21,10 @@ export const GuitarItemPageTemplate = ({
         <section className="section padding-top-0">
           <ItemDetail 
             itemData={guitarItem}
-            itemDetailContent={guitarDetailContent}/>
+            itemDetailContent={guitarDetailContent}
+            sx={{
+              marginLeft: '0px',
+            }}/>
         </section>
         <section className="section">
         </section>

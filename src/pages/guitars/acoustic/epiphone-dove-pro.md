@@ -10,14 +10,14 @@ condition: Usada en buen estado (9/10)
 description: Guitarra Epiphone Dove Pro en Venta!, Lima, Peru
 contactPhone: 51992780348
 date: 2023-02-28T15:04:10.000Z
-image1: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-01.jpeg
+image1: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-01.jpg
 image2: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-02.jpeg
 image3: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-03.jpeg
-image4: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-04.JPG
-image5: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-05.JPG
-image6: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-06.JPG
+image4: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-04.jpg
+image5: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-05.jpg
+image6: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-06.jpg
 image7: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-07.jpg
-image8: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-08.JPG
+image8: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-08.jpg
 image9: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-09.jpg
 image10: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-10.jpg
 image11: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-11.jpg

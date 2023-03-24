@@ -1,9 +1,11 @@
 /* Arrows */
 .slick-next:before {
+    font-size: 40px;
     color: black !important;
 }
 
 .slick-prev:before {
+    font-size: 40px;
     color: black !important;
 }
 
@@ -26,11 +28,11 @@
 }
 
 .slick-prev {
-    left: -10px;
+    left: 25px;
 }
 
 .slick-next {
-    right: -10px;
+    right: 25px;
 }
 
 .slick-prev, .slick-next {
@@ -39,6 +41,13 @@
 }
 
 @media screen and (max-width: 640px) {
+    .slick-prev {
+        left: -10px;
+    }
+    
+    .slick-next {
+        right: 0px;
+    }
     .slick-prev, .slick-next {
         top: 45% !important;
     }

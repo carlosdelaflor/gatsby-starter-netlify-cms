@@ -9,7 +9,7 @@ condition: Usada en buen estado (9/10)
 description: Guitarra Epiphone G400 en Venta!, Lima, Peru
 contactPhone: 51992780348
 date: 2016-12-17T15:04:10.000Z
-image1: /img/guitars/epiphone-g400-cherry/epiphone-sg400-cherry-01.jpeg
+image1: /img/guitars/epiphone-g400-cherry/epiphone-sg400-cherry-01.jpg
 image2: /img/guitars/epiphone-g400-cherry/epiphone-sg400-cherry-02.jpg
 image3: /img/guitars/epiphone-g400-cherry/epiphone-sg400-cherry-03.jpg
 image4: /img/guitars/epiphone-g400-cherry/epiphone-sg400-cherry-04.jpg
