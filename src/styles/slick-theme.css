@@ -59,5 +59,8 @@
     .slick-dots li {
         height: auto;
         width: auto;
-    }    
+    }
+    a.search-result-link>div.gatsby-image-wrapper {
+        height: 300px;
+    }  
   }

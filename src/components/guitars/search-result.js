@@ -44,15 +44,11 @@ const SearchResult = ( {acoustics, electrics, sx} ) => {
                                     alignContent: 'center',
                                 }}
                             >
-                                <Link to={guitarContentNode.node.fields.slug} height='20rem'>
+                                <Link to={guitarContentNode.node.fields.slug} height='20rem' className="search-result-link">
                                     <PreviewCompatibleImage
                                         imageInfo={{
                                             image: guitarContentNode.node.frontmatter.image1,
                                             alt: `Imagen de guitarra ${guitarContentNode.node.frontmatter.title}`,
-                                            style: {
-                                                height: '300px',
-                                                width: '180px'
-                                                }
                                         }}
                                     />
                                 </Link>
