@@ -9,16 +9,16 @@ condition: Usada en buen estado (8/10)
 description: Guitarra Squier Telecaster Classic Vibe en Venta!, Lima, Peru
 contactPhone: 51992780348
 date: 2016-12-17T15:04:10.000Z
-image1: /img/guitars/squier-tele-classic-50s/squier-tele-classic-50s-01.jpeg
-image2: /img/guitars/squier-tele-classic-50s/squier-tele-classic-50s-02.JPG
-image3: /img/guitars/squier-tele-classic-50s/squier-tele-classic-50s-03.JPG
-image4: /img/guitars/squier-tele-classic-50s/squier-tele-classic-50s-04.JPG
-image5: /img/guitars/squier-tele-classic-50s/squier-tele-classic-50s-05.JPG
-image6: /img/guitars/squier-tele-classic-50s/squier-tele-classic-50s-06.JPG
-image7: /img/guitars/squier-tele-classic-50s/squier-tele-classic-50s-07.JPG
+image1: /img/guitars/squier-tele-classic-50s/squier-tele-classic-50s-01.jpg
+image2: /img/guitars/squier-tele-classic-50s/squier-tele-classic-50s-02.jpg
+image3: /img/guitars/squier-tele-classic-50s/squier-tele-classic-50s-03.jpg
+image4: /img/guitars/squier-tele-classic-50s/squier-tele-classic-50s-04.jpg
+image5: /img/guitars/squier-tele-classic-50s/squier-tele-classic-50s-05.jpg
+image6: /img/guitars/squier-tele-classic-50s/squier-tele-classic-50s-06.jpg
+image7: /img/guitars/squier-tele-classic-50s/squier-tele-classic-50s-07.jpg
 image8: /img/guitars/squier-tele-classic-50s/squier-tele-classic-50s-08.jpg
 image9: /img/guitars/squier-tele-classic-50s/squier-tele-classic-50s-09.jpg
-image10: /img/guitars/squier-tele-classic-50s/squier-tele-classic-50s-10.JPG
+image10: /img/guitars/squier-tele-classic-50s/squier-tele-classic-50s-10.jpg
 image11: /img/guitars/squier-tele-classic-50s/squier-tele-classic-50s-11.jpg
 keywords: squier telecaster, squier classic vibe, squier telecaster classic vibe
 
