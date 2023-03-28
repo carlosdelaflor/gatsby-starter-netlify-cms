@@ -9,17 +9,17 @@ condition: Usada como nueva (9/10)
 description: Guitarra Yamaha FS-720S en Venta!, Lima, Peru
 contactPhone: 51992780348
 date: 2016-12-17T15:04:10.000Z
-image1: /img/guitars/yamaha-fs-720s/yamaha-fs720s-01.jpeg
+image1: /img/guitars/yamaha-fs-720s/yamaha-fs720s-01.jpg
 image2: /img/guitars/yamaha-fs-720s/yamaha-fs720s-02.jpeg
 image3: /img/guitars/yamaha-fs-720s/yamaha-fs720s-03.jpeg
 image4: /img/guitars/yamaha-fs-720s/yamaha-fs720s-04.jpeg
-image5: /img/guitars/yamaha-fs-720s/yamaha-fs720s-05.JPG
-image6: /img/guitars/yamaha-fs-720s/yamaha-fs720s-06.JPG
+image5: /img/guitars/yamaha-fs-720s/yamaha-fs720s-05.jpeg
+image6: /img/guitars/yamaha-fs-720s/yamaha-fs720s-06.jpeg
 image7: /img/guitars/yamaha-fs-720s/yamaha-fs720s-07.jpeg
-image8: /img/guitars/yamaha-fs-720s/yamaha-fs720s-08.jpeg
+image8: /img/guitars/yamaha-fs-720s/yamaha-fs720s-08.jpg
 image9: /img/guitars/yamaha-fs-720s/yamaha-fs720s-09.jpeg
-image10: /img/guitars/yamaha-fs-720s/yamaha-fs720s-10.jpeg
-image11: /img/guitars/yamaha-fs-720s/yamaha-fs720s-11.jpeg
+image10: /img/guitars/yamaha-fs-720s/yamaha-fs720s-10.jpg
+image11: /img/guitars/yamaha-fs-720s/yamaha-fs720s-11.jpg
 keywords: yamaha fs, yamaha fs720s, yamaha fs-720s, yamaha fg, yamaha fg720s, yamaha fg-720s
 ---
 

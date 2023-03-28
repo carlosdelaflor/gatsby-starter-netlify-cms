@@ -82,7 +82,7 @@ const ItemDetail = ( {
 
     return (
         <Grid container width="100%" direction="row" sx={sx}>
-            <Grid item xs={12} sm={12} md={7}>
+            <Grid item xs={12} sm={12} md={7} sx={{marginBottom: '30px'}}>
                 <Stack>
                     <Slider {...settings}>
                             {
@@ -117,7 +117,7 @@ const ItemDetail = ( {
                     </Box>
                 </Stack>
             </Grid>
-            <Grid item xs={12} sm={12} md={4} >
+            <Grid item xs={12} sm={12} md={4} sx={{marginBottom: '30px'}}>
                 <Stack>
                     <Box className="content" sx={{paddingTop: '10px', marginBottom: '0px !important'}} flex direction="column">
                         <Typography variant="h2">
