@@ -2,7 +2,7 @@
 templateKey: guitar-item-page
 title: Yamaha FGX-730SC
 itemtype: acoustic-guitar
-order: 2
+order: 7
 brand: yamaha
 price: S/. 1400.00
 condition: Usada en buen estado (8.5/10)

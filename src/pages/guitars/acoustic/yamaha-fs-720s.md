@@ -2,7 +2,7 @@
 templateKey: guitar-item-page
 title: Yamaha FS-720S
 itemtype: acoustic-guitar
-order: 1
+order: 8
 brand: yamaha
 price: S/. 1200.00
 condition: Usada como nueva (9/10)

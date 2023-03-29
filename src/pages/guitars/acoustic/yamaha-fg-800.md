@@ -2,7 +2,7 @@
 templateKey: guitar-item-page
 title: Yamaha FG-800
 itemtype: acoustic-guitar
-order: 1
+order: 6
 brand: yamaha
 price: S/. 1200.00
 condition: Usada como nueva (9/10)

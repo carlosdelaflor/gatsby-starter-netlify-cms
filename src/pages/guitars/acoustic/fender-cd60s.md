@@ -2,7 +2,7 @@
 templateKey: guitar-item-page
 title: Fender CD-60S
 itemtype: acoustic-guitar
-order: 4
+order: 2
 brand: fender
 serial: CC130210303
 price: S/. 750.00

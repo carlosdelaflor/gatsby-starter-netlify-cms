@@ -2,7 +2,7 @@
 templateKey: guitar-item-page
 title: Epiphone Dove Pro
 itemtype: acoustic-guitar
-order: 3
+order: 1
 brand: epiphone
 serial: CC130210303
 price: S/. 1400.00
