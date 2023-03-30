@@ -67,7 +67,7 @@ BlogIndexPage.propTypes = {
 export default BlogIndexPage;
 
 export const pageQuery = graphql`
-  query IndexPageTemplate {
+  query BlogIndexPageTemplate {
     markdownRemark(frontmatter: { templateKey: { eq: "blog-index-page" } }) {
       frontmatter {
         title
