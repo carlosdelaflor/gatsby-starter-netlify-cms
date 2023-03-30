@@ -19,47 +19,47 @@ const Footer = class extends React.Component {
                   <ul className="menu-list">
                     <li>
                       <Link className="navbar-item" to="/blog">
-                        Latest Stories
+                        Noticias
                       </Link>
                     </li>
                     <li>
                       <Link className="navbar-item" to="/contact">
-                        Contact
+                        Contacto
                       </Link>
                     </li>
                   </ul>
                 </section>
               </div>
               <div className="column is-4 social">
-                <a title="facebook" href="https://facebook.com">
+                <a title="facebook" target="_blank" rel="noopener" href="https://web.facebook.com/profile.php?id=100089640021920">
                   <img
                     src={facebook}
                     alt="Facebook"
                     style={{ width: "1em", height: "1em" }}
                   />
                 </a>
-                <a title="twitter" href="https://twitter.com">
+                {/*<a title="twitter" target="_blank" rel="noopener" href="https://twitter.com">
                   <img
                     className="fas fa-lg"
                     src={twitter}
                     alt="Twitter"
                     style={{ width: "1em", height: "1em" }}
                   />
-                </a>
-                <a title="instagram" href="https://instagram.com">
+                </a>*/}
+                <a title="instagram" target="_blank" rel="noopener" href="https://www.instagram.com/tuguitarra.peru/">
                   <img
                     src={instagram}
                     alt="Instagram"
                     style={{ width: "1em", height: "1em" }}
                   />
                 </a>
-                <a title="vimeo" href="https://vimeo.com">
+                {/*<a title="vimeo" target="_blank" rel="noopener" href="https://vimeo.com">
                   <img
                     src={vimeo}
                     alt="Vimeo"
                     style={{ width: "1em", height: "1em" }}
                   />
-                </a>
+                </a>*/}
               </div>
             </div>
           </div>

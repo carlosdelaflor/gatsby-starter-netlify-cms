@@ -5,13 +5,13 @@ import PreviewCompatibleImage from './PreviewCompatibleImage'
 
 class BlogRollTemplate extends React.Component {
   render() {
-    const { data } = this.props
-    const { edges: posts } = data.allMarkdownRemark
-
+    const { data, limit } = this.props
+    const { edges: allPosts } = data.allMarkdownRemark
+    const posts = allPosts.slice(0, limit);
     return (
       <div className="columns is-multiline">
         {posts &&
-          posts.map(({ node: post }) => (
+          posts.map(({ node: post }, index) => (
             <div className="is-parent column is-6" key={post.id}>
               <article
                 className={`blog-list-item tile is-child box notification ${
@@ -53,7 +53,7 @@ class BlogRollTemplate extends React.Component {
                   <br />
                   <br />
                   <Link className="button" to={post.fields.slug}>
-                    Keep Reading →
+                    Continuar aquí →
                   </Link>
                 </p>
               </article>
@@ -65,6 +65,7 @@ class BlogRollTemplate extends React.Component {
 }
 
 BlogRoll.propTypes = {
+  limit: PropTypes.number,
   data: PropTypes.shape({
     allMarkdownRemark: PropTypes.shape({
       edges: PropTypes.array,
@@ -73,44 +74,45 @@ BlogRoll.propTypes = {
 }
 
 
-export default function BlogRoll() {
+export default function BlogRoll(props) {
+  const finalLimit = props?.limit || 40;
   return (
     <StaticQuery
       query={graphql`
-        query BlogRollQuery {
-          allMarkdownRemark(
-            sort: { order: DESC, fields: [frontmatter___date] }
-            filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
-          ) {
-            edges {
-              node {
-                excerpt(pruneLength: 400)
-                id
-                fields {
-                  slug
-                }
-                frontmatter {
-                  title
-                  templateKey
-                  date(formatString: "MMMM DD, YYYY")
-                  featuredpost
-                  featuredimage {
-                    childImageSharp {
-                      gatsbyImageData(
-                        width: 120
-                        quality: 100
-                        layout: CONSTRAINED
-                      )
+      query BlogRollQuery {
+        allMarkdownRemark(
+          sort: { order: DESC, fields: [frontmatter___date] }
+          filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
+        ) {
+          edges {
+            node {
+              excerpt(pruneLength: 400)
+              id
+              fields {
+                slug
+              }
+              frontmatter {
+                title
+                templateKey
+                date(formatString: "MMMM DD, YYYY")
+                featuredpost
+                featuredimage {
+                  childImageSharp {
+                    gatsbyImageData(
+                      width: 120
+                      quality: 100
+                      layout: CONSTRAINED
+                    )
 
-                    }
                   }
                 }
               }
             }
           }
         }
-      `}
-      render={(data, count) => <BlogRollTemplate data={data} count={count} />}
+      }
+    `}
+      render={(data, count) => <BlogRollTemplate data={data} count={count} limit={finalLimit} />}
     />
   );
 }
