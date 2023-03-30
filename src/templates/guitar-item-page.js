@@ -18,7 +18,7 @@ export const GuitarItemPageTemplate = ({
     return (
       <div className="main-content-container">
         {helmet || ""}
-        <section className="section padding-top-0">
+        <section className="section">
           <ItemDetail 
             itemData={guitarItem}
             itemDetailContent={guitarDetailContent}
