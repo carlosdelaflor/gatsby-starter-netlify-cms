@@ -4,6 +4,7 @@
   "version": "1.1.3",
   "author": "Austin Green",
   "dependencies": {
+    "@iconify/react": "latest",
     "@emotion/react": "latest",
     "@emotion/server": "latest",
     "@emotion/styled": "latest",

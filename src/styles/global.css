@@ -60,7 +60,19 @@
 }
 
 
-@media screen and (max-width: 1024px) {
+.youtube-frame {
+  width: 540px;
+  height: 360px;
+}
+
+@media screen and (max-width: 650px) {
+  .youtube-frame {
+    width: 350px;
+    height: 200px;
+  }
+}
+
+@media screen and (max-width: 1024px) {  
   .main-content-container {
     top: 5rem;
   }

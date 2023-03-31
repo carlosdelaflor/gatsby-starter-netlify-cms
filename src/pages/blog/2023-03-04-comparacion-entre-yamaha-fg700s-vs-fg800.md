@@ -13,5 +13,5 @@ tags:
 
 Si estas por adquirir una guitarra de la nueva serie 800 de la línea Yamaha FG deberías ver esta comparación de los amigos de <a href="https://www.alamomusic.com/" target="_blank" rel="noopener">Alamo Music Center</a>.
 
-<iframe width="540" height="360" src="https://www.youtube-nocookie.com/embed/aXyJXRMYRZM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1"></iframe>
+<iframe class="youtube-frame" src="https://www.youtube-nocookie.com/embed/aXyJXRMYRZM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1"></iframe>
 
