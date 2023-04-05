@@ -59,13 +59,13 @@ const SearchResult = ( {acoustics, electrics, sx} ) => {
                                     justifyContent: 'center',
                                 }}
                             >
-                                <Stack>
+                                <Stack alignItems="center">
                                     <ThemeProvider theme={theme}>
                                         <Typography component="div" variant="body1">
                                             {guitarContentNode.node.frontmatter.title}
                                         </Typography>
                                         <Typography color="primary" component="div" variant="body1">
-                                            {guitarContentNode.node.frontmatter.price}
+                                            {(guitarContentNode.node.frontmatter.status === "vendido") ? 'AGOTADO (A)' : guitarContentNode.node.frontmatter.price}
                                         </Typography>
                                     </ThemeProvider>
                                 </Stack>

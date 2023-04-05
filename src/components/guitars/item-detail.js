@@ -36,7 +36,7 @@ const WhatsAppButton = ({item, className, sx}) => {
             <Zoom
                 in={true}
                 timeout={{enter: 500, exit: 500}}>
-                <Fab variant="extended" color="success" target='_blank' href={whatsAppURL}>
+                <Fab disabled={(item.status === 'vendido')} variant="extended" color="success" target='_blank' href={whatsAppURL}>
                     <WhatsApp />
                     {"Pidelo"}
                 </Fab>
@@ -126,9 +126,11 @@ const ItemDetail = ( {
                         <Typography>
                             Condicion: {itemData.condition}
                         </Typography>
-                        <Typography variant="h3">
-                            Precio: {itemData.price}
-                        </Typography>
+                        {(itemData.status !== 'vendido') &&
+                            (<Typography variant="h3">
+                                Precio: {itemData.price}
+                            </Typography>)
+                        }
                     </Box>
                     <Box display={{xs: 'none', sm: 'none', md: 'block', lg: 'block', xl: 'block'}}>
                         <WhatsAppButton item={itemData} sx={{zIndex: 1, position: 'relative'}}/>

@@ -42,6 +42,7 @@ GuitarItemPageTemplate.propTypes = {
     price: PropTypes.string,
     description: PropTypes.string,
     contactPhone: PropTypes.number,
+    status: PropTypes.string,
     smallImage1: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
     fullImage1: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
     smallImage2: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
@@ -116,6 +117,7 @@ export const guitarItemQuery = graphql`
         templateKey
         keywords
         date(formatString: "MMMM DD, YYYY")
+        status
         smallImage1 : image1 {
             childImageSharp {
                 gatsbyImageData(
