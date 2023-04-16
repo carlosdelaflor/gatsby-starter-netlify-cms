@@ -4,7 +4,7 @@ title: Squier Stratocaster VM 70s
 itemtype: electric-guitar
 order: 1
 brand: squier
-price: S/. 1,500.00
+price: S/. 1,450.00
 condition: Usada casi nueva (9.5/10)
 description: Guitarra Squier Stratocaster Vintage Modified en Venta!, Lima, Peru
 contactPhone: 51992780348

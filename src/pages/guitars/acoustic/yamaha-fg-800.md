@@ -4,7 +4,7 @@ title: Yamaha FG-800
 itemtype: acoustic-guitar
 order: 6
 brand: yamaha
-price: S/. 1,200.00
+price: S/. 1,150.00
 condition: Usada como nueva (9/10)
 description: Guitarra Yamaha FG-800 en Venta!, Lima, Peru
 contactPhone: 51992780348

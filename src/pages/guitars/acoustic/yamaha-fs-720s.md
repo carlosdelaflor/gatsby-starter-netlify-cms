@@ -4,7 +4,7 @@ title: Yamaha FS-720S
 itemtype: acoustic-guitar
 order: 8
 brand: yamaha
-price: S/. 1,200.00
+price: S/. 1,150.00
 condition: Usada como nueva (9/10)
 description: Guitarra Yamaha FS-720S en Venta!, Lima, Peru
 contactPhone: 51992780348

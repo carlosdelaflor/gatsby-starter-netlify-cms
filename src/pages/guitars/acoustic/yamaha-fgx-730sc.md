@@ -4,7 +4,7 @@ title: Yamaha FGX-730SC
 itemtype: acoustic-guitar
 order: 7
 brand: yamaha
-price: S/. 1,400.00
+price: S/. 1,350.00
 condition: Usada en buen estado (8.5/10)
 description: Guitarra Yamaha FGX-730SC en Venta!, Lima, Peru
 contactPhone: 51992780348
