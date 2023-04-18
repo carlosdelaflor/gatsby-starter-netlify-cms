@@ -2,7 +2,7 @@
 templateKey: guitar-item-page
 title: Squier Stratocaster VM 70s
 itemtype: electric-guitar
-order: 1
+order: 2
 brand: squier
 price: S/. 1,450.00
 condition: Usada casi nueva (9.5/10)

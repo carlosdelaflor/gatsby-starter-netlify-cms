@@ -21,7 +21,7 @@ image8: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-08.jpg
 image9: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-09.jpg
 image10: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-10.jpg
 image11: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-11.jpg
-keywords: rpiphone dove pro, epiphone hummingbird pro, gibson epiphone, gibson epiphone, epihone dove, guitarra epiphone dove
+keywords: epiphone dove pro, epiphone hummingbird pro, gibson epiphone, gibson epiphone, epihone dove, guitarra epiphone dove
 ---
 La clásica Dove acústica fue presentada por primera vez en la legendaria fábrica de Gibson y Epiphone en Kalamazoo en 1962 se convirtió en una de las primeras guitarras acústicas en convertirse en un reconocido icono de rock and roll. Ahora, tanto los principiantes como los profesionales pueden disfrutar del clásico sonido de The Dove conectado con el preamplificador Fishman ™ Sonitone ™ y el sistema de recogida Fishman ™ Sonicore ™, diseñados y construidos con la integridad que se espera de Epiphone.
 Desenchufada, la Epiphone Dove PRO puede conducir fácilmente a una banda acústica. Pero enchufada, la Dove PRO puede tocarse sin problemas al lado de una bateria y guitarras eléctricas.

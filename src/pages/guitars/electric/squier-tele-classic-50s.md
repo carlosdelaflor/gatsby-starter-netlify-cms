@@ -2,7 +2,7 @@
 templateKey: guitar-item-page
 title: Squier Telecaster CV 50s
 itemtype: electric-guitar
-order: 1
+order: 3
 brand: squier
 price: S/. 1,400.00
 condition: Usada en buen estado (8/10)
