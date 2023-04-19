@@ -9,15 +9,15 @@ condition: Usada casi nueva (9.5/10)
 description: Guitarra Squier Stratocaster Vintage Modified en Venta!, Lima, Peru
 contactPhone: 51992780348
 date: 2023-03-15T15:04:10.000Z
-image1: /img/guitars/squier-strat-vm-blk/squier-strat-vm-blk-01.jpg
-image2: /img/guitars/squier-strat-vm-blk/squier-strat-vm-blk-02.jpg
-image3: /img/guitars/squier-strat-vm-blk/squier-strat-vm-blk-03.jpg
-image4: /img/guitars/squier-strat-vm-blk/squier-strat-vm-blk-04.jpg
-image5: /img/guitars/squier-strat-vm-blk/squier-strat-vm-blk-05.jpg
-image6: /img/guitars/squier-strat-vm-blk/squier-strat-vm-blk-06.jpg
-image7: /img/guitars/squier-strat-vm-blk/squier-strat-vm-blk-07.jpg
-image8: /img/guitars/squier-strat-vm-blk/squier-strat-vm-blk-08.jpg
-image9: /img/guitars/squier-strat-vm-blk/squier-strat-vm-blk-09.jpg
+image1: /img/guitars/squier-strat-vm-blk/squier-strat-vm-blk-001.jpg
+image2: /img/guitars/squier-strat-vm-blk/squier-strat-vm-blk-002.jpg
+image3: /img/guitars/squier-strat-vm-blk/squier-strat-vm-blk-003.jpg
+image4: /img/guitars/squier-strat-vm-blk/squier-strat-vm-blk-004.jpg
+image5: /img/guitars/squier-strat-vm-blk/squier-strat-vm-blk-005.jpg
+image6: /img/guitars/squier-strat-vm-blk/squier-strat-vm-blk-006.jpg
+image7: /img/guitars/squier-strat-vm-blk/squier-strat-vm-blk-007.jpg
+image8: /img/guitars/squier-strat-vm-blk/squier-strat-vm-blk-008.jpg
+image9: /img/guitars/squier-strat-vm-blk/squier-strat-vm-blk-009.jpg
 keywords: squier stratocaster, squier vintage modified, squier stratocaster vintage modified
 
 ---
