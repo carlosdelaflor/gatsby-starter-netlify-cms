@@ -9,17 +9,17 @@ condition: Usada en buen estado (8.5/10)
 description: Guitarra Epiphone G400 PRO en Venta!, Lima, Peru
 contactPhone: 51992780348
 date: 2023-04-17T15:04:10.000Z
-image1: /img/guitars/epiphone-g400-pro-blk/epiphone-g400-pro-blk-01.jpg
-image2: /img/guitars/epiphone-g400-pro-blk/epiphone-g400-pro-blk-02.jpg
-image3: /img/guitars/epiphone-g400-pro-blk/epiphone-g400-pro-blk-03.jpg
-image4: /img/guitars/epiphone-g400-pro-blk/epiphone-g400-pro-blk-04.jpg
-image5: /img/guitars/epiphone-g400-pro-blk/epiphone-g400-pro-blk-05.jpg
-image6: /img/guitars/epiphone-g400-pro-blk/epiphone-g400-pro-blk-06.jpg
-image7: /img/guitars/epiphone-g400-pro-blk/epiphone-g400-pro-blk-07.jpg
-image8: /img/guitars/epiphone-g400-pro-blk/epiphone-g400-pro-blk-08.jpg
-image9: /img/guitars/epiphone-g400-pro-blk/epiphone-g400-pro-blk-09.jpg
-image10: /img/guitars/epiphone-g400-pro-blk/epiphone-g400-pro-blk-10.jpg
-image11: /img/guitars/epiphone-g400-pro-blk/epiphone-g400-pro-blk-11.jpg
+image1: /img/guitars/epiphone-g400-pro-blk/epiphone-g400-pro-blk-001.jpg
+image2: /img/guitars/epiphone-g400-pro-blk/epiphone-g400-pro-blk-002.jpg
+image3: /img/guitars/epiphone-g400-pro-blk/epiphone-g400-pro-blk-003.jpg
+image4: /img/guitars/epiphone-g400-pro-blk/epiphone-g400-pro-blk-004.jpg
+image5: /img/guitars/epiphone-g400-pro-blk/epiphone-g400-pro-blk-005.jpg
+image6: /img/guitars/epiphone-g400-pro-blk/epiphone-g400-pro-blk-006.jpg
+image7: /img/guitars/epiphone-g400-pro-blk/epiphone-g400-pro-blk-007.jpg
+image8: /img/guitars/epiphone-g400-pro-blk/epiphone-g400-pro-blk-008.jpg
+image9: /img/guitars/epiphone-g400-pro-blk/epiphone-g400-pro-blk-009.jpg
+image10: /img/guitars/epiphone-g400-pro-blk/epiphone-g400-pro-blk-010.jpg
+image11: /img/guitars/epiphone-g400-pro-blk/epiphone-g400-pro-blk-011.jpg
 keywords: epiphone SG, epiphone G400, epiphone G400 PRO
 
 ---
