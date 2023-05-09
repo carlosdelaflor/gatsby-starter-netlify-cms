@@ -5,7 +5,7 @@ itemtype: acoustic-guitar
 order: 9
 brand: yamaha
 price: S/. 1,250.00
-condition: Usada como nueva (9/10)
+condition: Usada en buen estado (9/10)
 description: Guitarra Yamaha FG-720S en Venta!, Lima, Peru
 contactPhone: 51992780348
 date: 2016-12-17T15:04:10.000Z
