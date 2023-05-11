@@ -65,6 +65,8 @@ GuitarItemPageTemplate.propTypes = {
     fullImage10: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
     smallImage11: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
     fullImage11: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+    smallImage12: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+    fullImage12: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   }),
 };
 
@@ -314,7 +316,25 @@ export const guitarItemQuery = graphql`
                   layout: FULL_WIDTH
                 )
               }
-        } 
+        }
+        smallImage12 : image12 {
+          childImageSharp {
+              gatsbyImageData(
+                height: 635
+                quality: 100
+                layout: CONSTRAINED
+              )
+
+          }
+        }
+        fullImage12 :image12 {
+              childImageSharp {
+                gatsbyImageData(
+                  quality: 100, 
+                  layout: FULL_WIDTH
+                )
+              }
+        }
       }
     }
   }
