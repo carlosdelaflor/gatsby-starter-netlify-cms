@@ -5,7 +5,7 @@ itemtype: acoustic-guitar
 order: 3
 brand: fender
 serial: CC130210303
-price: S/. 1,350.00
+price: S/. 1,300.00
 condition: Usada como nueva (9.5/10)
 description: Guitarra Fender CD-140SCE en Venta!, Lima, Peru
 contactPhone: 51992780348

@@ -9,16 +9,17 @@ condition: Usada casi nueva (9.5/10)
 description: Guitarra Squier Telecaster Standard en Venta!, Lima, Peru
 contactPhone: 51992780348
 date: 2016-12-17T15:04:10.000Z
-image1: /img/guitars/squier-tele-standard/squier-tele-std-01.jpg
-image2: /img/guitars/squier-tele-standard/squier-tele-std-02.jpg
-image3: /img/guitars/squier-tele-standard/squier-tele-std-03.jpg
-image4: /img/guitars/squier-tele-standard/squier-tele-std-04.jpg
-image5: /img/guitars/squier-tele-standard/squier-tele-std-05.jpg
-image6: /img/guitars/squier-tele-standard/squier-tele-std-06.jpg
-image7: /img/guitars/squier-tele-standard/squier-tele-std-07.jpg
-image8: /img/guitars/squier-tele-standard/squier-tele-std-08.jpg
-image9: /img/guitars/squier-tele-standard/squier-tele-std-09.jpg
-image10: /img/guitars/squier-tele-standard/squier-tele-std-10.jpg
+image1: /img/guitars/squier-tele-standard/squier-tele-std-0001.jpg
+image2: /img/guitars/squier-tele-standard/squier-tele-std-0002.jpg
+image3: /img/guitars/squier-tele-standard/squier-tele-std-0003.jpg
+image4: /img/guitars/squier-tele-standard/squier-tele-std-0004.jpg
+image5: /img/guitars/squier-tele-standard/squier-tele-std-0005.jpg
+image6: /img/guitars/squier-tele-standard/squier-tele-std-0006.jpg
+image7: /img/guitars/squier-tele-standard/squier-tele-std-0007.jpg
+image8: /img/guitars/squier-tele-standard/squier-tele-std-0008.jpg
+image9: /img/guitars/squier-tele-standard/squier-tele-std-0009.jpg
+image10: /img/guitars/squier-tele-standard/squier-tele-std-0010.jpg
+image11: /img/guitars/squier-tele-standard/squier-tele-std-0011.jpg
 keywords: squier telecaster, squier standard, squier telecaster standard
 
 ---

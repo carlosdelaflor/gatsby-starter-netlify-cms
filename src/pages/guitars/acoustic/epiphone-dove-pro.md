@@ -10,17 +10,17 @@ condition: Usada en buen estado (9/10)
 description: Guitarra Epiphone Dove Pro en Venta!, Lima, Peru
 contactPhone: 51992780348
 date: 2023-02-28T15:04:10.000Z
-image1: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-001.jpg
-image2: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-002.jpeg
-image3: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-003.jpeg
-image4: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-004.jpg
-image5: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-005.jpg
-image6: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-006.jpg
-image7: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-007.jpg
-image8: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-008.jpg
-image9: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-009.jpg
-image10: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-010.jpg
-image11: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-011.jpg
+image1: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-0001.jpg
+image2: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-0002.jpg
+image3: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-0003.jpg
+image4: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-0004.jpg
+image5: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-0005.jpg
+image6: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-0006.jpg
+image7: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-0007.jpg
+image8: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-0008.jpg
+image9: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-0009.jpg
+image10: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-0010.jpg
+image11: /img/guitars/epiphone-dove-pro/epiphone-dove-pro-0011.jpg
 keywords: epiphone dove pro, epiphone hummingbird pro, gibson epiphone, gibson epiphone, epihone dove, guitarra epiphone dove
 ---
 La clásica Dove acústica fue presentada por primera vez en la legendaria fábrica de Gibson y Epiphone en Kalamazoo en 1962 se convirtió en una de las primeras guitarras acústicas en convertirse en un reconocido icono de rock and roll. Ahora, tanto los principiantes como los profesionales pueden disfrutar del clásico sonido de The Dove conectado con el preamplificador Fishman ™ Sonitone ™ y el sistema de recogida Fishman ™ Sonicore ™, diseñados y construidos con la integridad que se espera de Epiphone.
