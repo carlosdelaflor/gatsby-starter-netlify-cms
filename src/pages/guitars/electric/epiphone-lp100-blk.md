@@ -9,17 +9,15 @@ condition: Usada casi nueva (9.2/10)
 description: Guitarra Epiphone Les Paul 100 en Venta!, Lima, Peru
 contactPhone: 51992780348
 date: 2016-12-17T15:04:10.000Z
-image1: /img/guitars/epiphone-lp100-blk/epiphone-lp100-blk-01.jpg
-image2: /img/guitars/epiphone-lp100-blk/epiphone-lp100-blk-02.jpg
-image3: /img/guitars/epiphone-lp100-blk/epiphone-lp100-blk-03.jpg
-image4: /img/guitars/epiphone-lp100-blk/epiphone-lp100-blk-04.jpg
-image5: /img/guitars/epiphone-lp100-blk/epiphone-lp100-blk-05.jpg
-image6: /img/guitars/epiphone-lp100-blk/epiphone-lp100-blk-06.jpg
-image7: /img/guitars/epiphone-lp100-blk/epiphone-lp100-blk-07.jpg
-image8: /img/guitars/epiphone-lp100-blk/epiphone-lp100-blk-08.jpg
-image9: /img/guitars/epiphone-lp100-blk/epiphone-lp100-blk-09.jpg
-image10: /img/guitars/epiphone-lp100-blk/epiphone-lp100-blk-10.jpg
-image11: /img/guitars/epiphone-lp100-blk/epiphone-lp100-blk-11.jpg
+status: vendido
+image1: /img/guitars/epiphone-lp100-blk/epiphone-lp100-blk-sold-01.jpg
+image2: /img/guitars/epiphone-lp100-blk/epiphone-lp100-blk-sold-02.jpg
+image3: /img/guitars/epiphone-lp100-blk/epiphone-lp100-blk-sold-03.jpg
+image4: /img/guitars/epiphone-lp100-blk/epiphone-lp100-blk-sold-04.jpg
+image5: /img/guitars/epiphone-lp100-blk/epiphone-lp100-blk-sold-05.jpg
+image6: /img/guitars/epiphone-lp100-blk/epiphone-lp100-blk-sold-06.jpg
+image7: /img/guitars/epiphone-lp100-blk/epiphone-lp100-blk-sold-07.jpg
+image8: /img/guitars/epiphone-lp100-blk/epiphone-lp100-blk-sold-08.jpg
 keywords: epiphone les paul, epiphone les paul 100
 
 ---
