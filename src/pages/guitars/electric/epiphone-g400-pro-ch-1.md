@@ -4,7 +4,7 @@ title: Epiphone G400 PRO
 itemtype: electric-guitar
 order: 28
 brand: epiphone
-price: S/. 1,650.00
+price: S/. 1,600.00
 condition: Usada, muy buen estado (9.5/10)
 description: Guitarra Epiphone G400 PRO en Venta!, Lima, Peru
 contactPhone: 51992780348

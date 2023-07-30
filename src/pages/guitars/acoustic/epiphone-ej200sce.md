@@ -5,7 +5,7 @@ itemtype: acoustic-guitar
 order: 1
 brand: epiphone
 serial: CC130210303
-price: S/. 1,850.00
+price: S/. 1,780.00
 condition: Usada casi nueva (9.8/10)
 description: Guitarra Epiphone EJ-200SCE en Venta!, Lima, Peru
 contactPhone: 51992780348

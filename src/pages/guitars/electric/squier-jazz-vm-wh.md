@@ -4,7 +4,7 @@ title: Squier Jazzmaster VM
 itemtype: electric-guitar
 order: 21
 brand: squier
-price: S/. 1,500.00
+price: S/. 1,450.00
 condition: Usada casi nueva (8.7/10)
 description: Guitarra Squier Jazzmaster Vintage Modified en Venta!, Lima, Peru
 contactPhone: 51992780348

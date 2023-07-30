@@ -32,7 +32,7 @@ La Squier standard telecaster posee un perfil de mastil modelado como las teleca
 * Material Mastil: Maple
 * Acabado Mastil: Tinted Gloss Urethane
 * Tamaño trastes: Medium Jumbo
-* Material Diapason: Indian Laurel
+* Material Diapason: Rosewood
 * Escala: 25.5" (648 mm)
 * Numero de Trastes: 22
 * Radio Diapason: 9.5" (241 mm)

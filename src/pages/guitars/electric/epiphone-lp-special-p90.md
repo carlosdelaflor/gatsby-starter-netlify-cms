@@ -4,7 +4,7 @@ title: Epiphone LP Special TV Yellow
 itemtype: electric-guitar
 order: 24
 brand: epiphone
-price: S/. 1650.00
+price: S/. 1600.00
 condition: Semi Nueva (10/10)
 description: Guitarra Epiphone Special P90 en Venta!, Lima, Peru
 contactPhone: 51992780348
