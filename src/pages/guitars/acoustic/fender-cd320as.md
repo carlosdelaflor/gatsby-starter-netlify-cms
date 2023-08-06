@@ -2,7 +2,7 @@
 templateKey: guitar-item-page
 title: Fender CD-320AS
 itemtype: acoustic-guitar
-order: 22
+order: 30
 brand: fender
 serial: CC130210303
 price: S/. 2,450.00

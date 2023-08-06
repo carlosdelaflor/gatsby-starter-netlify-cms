@@ -33,7 +33,7 @@ Maneja la distorsión, la sobremarcha y los ambientes limpios con mucha confianz
 ## Características técnicas
 
 * Construcción: Cuerpo sólido con tapa de arce flameado.
-* Construcción mástil: Mástil atornillado
+* Construcción mástil: Mástil encolado
 * Color: Cherry Burst Flame Top
 * Número de cuerdas: 6
 * Número de trastes: 22
