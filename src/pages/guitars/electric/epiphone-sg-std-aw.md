@@ -30,6 +30,7 @@ Presentada en la nueva colección Inspired by Gibson, la Epiphone SG Standard re
 * Serie: Epiphone's Inspired by Gibson
 * Construcción: Cuerpo sólido
 * Construcción mástil: Mástil encolado
+* Color: Alpine White
 * Número de cuerdas: 6
 * Número de trastes: 22
 * Escala: 24,75"

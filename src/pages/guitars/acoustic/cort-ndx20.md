@@ -11,14 +11,14 @@ description: Guitarra Cort NDX-20 en Venta!, Lima, Peru
 contactPhone: 51992780348
 date: 2023-02-28T15:04:10.000Z
 status: vendido
-image1: /img/guitars/cort-ndx20/cort-ndx20-01-sold.jpg
-image2: /img/guitars/cort-ndx20/cort-ndx20-02-sold.jpg
-image3: /img/guitars/cort-ndx20/cort-ndx20-03-sold.jpg
-image4: /img/guitars/cort-ndx20/cort-ndx20-04-sold.jpg
-image5: /img/guitars/cort-ndx20/cort-ndx20-05-sold.jpg
-image6: /img/guitars/cort-ndx20/cort-ndx20-06-sold.jpg
-image7: /img/guitars/cort-ndx20/cort-ndx20-07-sold.jpg
-image8: /img/guitars/cort-ndx20/cort-ndx20-08-sold.jpg
+image1: /img/guitars-sold/cort-ndx20/cort-ndx20-01-sold.jpg
+image2: /img/guitars-sold/cort-ndx20/cort-ndx20-02-sold.jpg
+image3: /img/guitars-sold/cort-ndx20/cort-ndx20-03-sold.jpg
+image4: /img/guitars-sold/cort-ndx20/cort-ndx20-04-sold.jpg
+image5: /img/guitars-sold/cort-ndx20/cort-ndx20-05-sold.jpg
+image6: /img/guitars-sold/cort-ndx20/cort-ndx20-06-sold.jpg
+image7: /img/guitars-sold/cort-ndx20/cort-ndx20-07-sold.jpg
+image8: /img/guitars-sold/cort-ndx20/cort-ndx20-08-sold.jpg
 keywords: cort ndx20, cort ndx-100, cort ndx
 ---
 Una forma de cuerpo única desarrollada exclusivamente por Cort, las guitarras de la serie NDX cuentan con un cuerpo de tamaño completo de 100 x 125 mm para un gran sonido, electrónica Fishman para una amplificación excelente y un cutaway florentino nítido para una apariencia moderna, así como un fácil acceso a los trastes más altos. La NDX20 cuenta con tapa de Abeto Sitka sólido, partes posterior y laterales de Caoba, diapasón de Ovangkol, electrónica Fishman Presys.

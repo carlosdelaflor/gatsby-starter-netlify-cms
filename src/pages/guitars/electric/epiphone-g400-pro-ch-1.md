@@ -10,14 +10,14 @@ description: Guitarra Epiphone G400 PRO en Venta!, Lima, Peru
 contactPhone: 51992780348
 date: 2023-04-17T15:04:10.000Z
 status: vendido
-image1: /img/guitars/epiphone-g400-pro-ch-1/epiphone-g400-pro-ch-1-01-sold.jpg
-image2: /img/guitars/epiphone-g400-pro-ch-1/epiphone-g400-pro-ch-1-02-sold.jpg
-image3: /img/guitars/epiphone-g400-pro-ch-1/epiphone-g400-pro-ch-1-03-sold.jpg
-image4: /img/guitars/epiphone-g400-pro-ch-1/epiphone-g400-pro-ch-1-04-sold.jpg
-image5: /img/guitars/epiphone-g400-pro-ch-1/epiphone-g400-pro-ch-1-05-sold.jpg
-image6: /img/guitars/epiphone-g400-pro-ch-1/epiphone-g400-pro-ch-1-06-sold.jpg
-image7: /img/guitars/epiphone-g400-pro-ch-1/epiphone-g400-pro-ch-1-07-sold.jpg
-image8: /img/guitars/epiphone-g400-pro-ch-1/epiphone-g400-pro-ch-1-08-sold.jpg
+image1: /img/guitars-sold/epiphone-g400-pro-ch-1/epiphone-g400-pro-ch-1-01-sold.jpg
+image2: /img/guitars-sold/epiphone-g400-pro-ch-1/epiphone-g400-pro-ch-1-02-sold.jpg
+image3: /img/guitars-sold/epiphone-g400-pro-ch-1/epiphone-g400-pro-ch-1-03-sold.jpg
+image4: /img/guitars-sold/epiphone-g400-pro-ch-1/epiphone-g400-pro-ch-1-04-sold.jpg
+image5: /img/guitars-sold/epiphone-g400-pro-ch-1/epiphone-g400-pro-ch-1-05-sold.jpg
+image6: /img/guitars-sold/epiphone-g400-pro-ch-1/epiphone-g400-pro-ch-1-06-sold.jpg
+image7: /img/guitars-sold/epiphone-g400-pro-ch-1/epiphone-g400-pro-ch-1-07-sold.jpg
+image8: /img/guitars-sold/epiphone-g400-pro-ch-1/epiphone-g400-pro-ch-1-08-sold.jpg
 keywords: epiphone SG, epiphone G400, epiphone G400 PRO
 
 ---

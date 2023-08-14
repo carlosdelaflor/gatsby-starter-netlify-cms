@@ -10,14 +10,14 @@ description: Guitarra Epiphone Standard en Venta!, Lima, Peru
 contactPhone: 51992780348
 date: 2016-12-17T15:04:10.000Z
 status: vendido
-image1: /img/guitars/epiphone-sg-std-ch/epiphone-sg-std-ch-01-sold.jpg
-image2: /img/guitars/epiphone-sg-std-ch/epiphone-sg-std-ch-02-sold.jpg
-image3: /img/guitars/epiphone-sg-std-ch/epiphone-sg-std-ch-03-sold.jpg
-image4: /img/guitars/epiphone-sg-std-ch/epiphone-sg-std-ch-04-sold.jpg
-image5: /img/guitars/epiphone-sg-std-ch/epiphone-sg-std-ch-05-sold.jpg
-image6: /img/guitars/epiphone-sg-std-ch/epiphone-sg-std-ch-06-sold.jpg
-image7: /img/guitars/epiphone-sg-std-ch/epiphone-sg-std-ch-07-sold.jpg
-image8: /img/guitars/epiphone-sg-std-ch/epiphone-sg-std-ch-08-sold.jpg
+image1: /img/guitars-sold/epiphone-sg-std-ch/epiphone-sg-std-ch-01-sold.jpg
+image2: /img/guitars-sold/epiphone-sg-std-ch/epiphone-sg-std-ch-02-sold.jpg
+image3: /img/guitars-sold/epiphone-sg-std-ch/epiphone-sg-std-ch-03-sold.jpg
+image4: /img/guitars-sold/epiphone-sg-std-ch/epiphone-sg-std-ch-04-sold.jpg
+image5: /img/guitars-sold/epiphone-sg-std-ch/epiphone-sg-std-ch-05-sold.jpg
+image6: /img/guitars-sold/epiphone-sg-std-ch/epiphone-sg-std-ch-06-sold.jpg
+image7: /img/guitars-sold/epiphone-sg-std-ch/epiphone-sg-std-ch-07-sold.jpg
+image8: /img/guitars-sold/epiphone-sg-std-ch/epiphone-sg-std-ch-08-sold.jpg
 keywords: epiphone SG, epiphone SG standard, epiphone SG 60s
 
 ---

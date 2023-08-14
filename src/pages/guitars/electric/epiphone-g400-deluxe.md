@@ -10,14 +10,14 @@ description: Guitarra Epiphone G400 Deluxe en Venta!, Lima, Peru
 contactPhone: 51992780348
 date: 2016-12-17T15:04:10.000Z
 status: vendido
-image1: /img/guitars/epiphone-g400-deluxe/epiphone-g400-deluxe-01-sold.jpg
-image2: /img/guitars/epiphone-g400-deluxe/epiphone-g400-deluxe-02-sold.jpg
-image3: /img/guitars/epiphone-g400-deluxe/epiphone-g400-deluxe-03-sold.jpg
-image4: /img/guitars/epiphone-g400-deluxe/epiphone-g400-deluxe-04-sold.jpg
-image5: /img/guitars/epiphone-g400-deluxe/epiphone-g400-deluxe-05-sold.jpg
-image6: /img/guitars/epiphone-g400-deluxe/epiphone-g400-deluxe-06-sold.jpg
-image7: /img/guitars/epiphone-g400-deluxe/epiphone-g400-deluxe-07-sold.jpg
-image8: /img/guitars/epiphone-g400-deluxe/epiphone-g400-deluxe-08-sold.jpg
+image1: /img/guitars-sold/epiphone-g400-deluxe/epiphone-g400-deluxe-01-sold.jpg
+image2: /img/guitars-sold/epiphone-g400-deluxe/epiphone-g400-deluxe-02-sold.jpg
+image3: /img/guitars-sold/epiphone-g400-deluxe/epiphone-g400-deluxe-03-sold.jpg
+image4: /img/guitars-sold/epiphone-g400-deluxe/epiphone-g400-deluxe-04-sold.jpg
+image5: /img/guitars-sold/epiphone-g400-deluxe/epiphone-g400-deluxe-05-sold.jpg
+image6: /img/guitars-sold/epiphone-g400-deluxe/epiphone-g400-deluxe-06-sold.jpg
+image7: /img/guitars-sold/epiphone-g400-deluxe/epiphone-g400-deluxe-07-sold.jpg
+image8: /img/guitars-sold/epiphone-g400-deluxe/epiphone-g400-deluxe-08-sold.jpg
 keywords: epiphone SG, epiphone G400, epiphone G400 Deluxe
 
 ---

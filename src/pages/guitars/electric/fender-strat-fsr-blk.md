@@ -10,14 +10,14 @@ description: Guitarra Fender FSR Standard Stratocaster HSS!, Lima, Peru
 contactPhone: 51992780348
 date: 2016-12-17T15:04:10.000Z
 status: vendido
-image1: /img/guitars/fender-strat-fsr-blk/fender-strat-fsr-blk-01-sold.jpg
-image2: /img/guitars/fender-strat-fsr-blk/fender-strat-fsr-blk-02-sold.jpg
-image3: /img/guitars/fender-strat-fsr-blk/fender-strat-fsr-blk-03-sold.jpg
-image4: /img/guitars/fender-strat-fsr-blk/fender-strat-fsr-blk-04-sold.jpg
-image5: /img/guitars/fender-strat-fsr-blk/fender-strat-fsr-blk-05-sold.jpg
-image6: /img/guitars/fender-strat-fsr-blk/fender-strat-fsr-blk-06-sold.jpg
-image7: /img/guitars/fender-strat-fsr-blk/fender-strat-fsr-blk-07-sold.jpg
-image8: /img/guitars/fender-strat-fsr-blk/fender-strat-fsr-blk-08-sold.jpg
+image1: /img/guitars-sold/fender-strat-fsr-blk/fender-strat-fsr-blk-01-sold.jpg
+image2: /img/guitars-sold/fender-strat-fsr-blk/fender-strat-fsr-blk-02-sold.jpg
+image3: /img/guitars-sold/fender-strat-fsr-blk/fender-strat-fsr-blk-03-sold.jpg
+image4: /img/guitars-sold/fender-strat-fsr-blk/fender-strat-fsr-blk-04-sold.jpg
+image5: /img/guitars-sold/fender-strat-fsr-blk/fender-strat-fsr-blk-05-sold.jpg
+image6: /img/guitars-sold/fender-strat-fsr-blk/fender-strat-fsr-blk-06-sold.jpg
+image7: /img/guitars-sold/fender-strat-fsr-blk/fender-strat-fsr-blk-07-sold.jpg
+image8: /img/guitars-sold/fender-strat-fsr-blk/fender-strat-fsr-blk-08-sold.jpg
 keywords: fender stratocaster, fender standard stratocaster, fender stratocaster FSR, fender stratocaster HSSs
 
 ---
