@@ -9,17 +9,15 @@ condition: Usada en buen estado (8.5/10)
 description: Guitarra Epiphone Les Paul 100 en Venta!, Lima, Peru
 contactPhone: 51992780348
 date: 2016-12-17T15:04:10.000Z
-image1: /img/guitars/epiphone-lp100-sb/epiphone-lp100-sb-01.jpg
-image2: /img/guitars/epiphone-lp100-sb/epiphone-lp100-sb-02.jpg
-image3: /img/guitars/epiphone-lp100-sb/epiphone-lp100-sb-03.jpg
-image4: /img/guitars/epiphone-lp100-sb/epiphone-lp100-sb-04.jpg
-image5: /img/guitars/epiphone-lp100-sb/epiphone-lp100-sb-05.jpg
-image6: /img/guitars/epiphone-lp100-sb/epiphone-lp100-sb-06.jpg
-image7: /img/guitars/epiphone-lp100-sb/epiphone-lp100-sb-07.jpg
-image8: /img/guitars/epiphone-lp100-sb/epiphone-lp100-sb-08.jpg
-image9: /img/guitars/epiphone-lp100-sb/epiphone-lp100-sb-09.jpg
-image10: /img/guitars/epiphone-lp100-sb/epiphone-lp100-sb-10.jpg
-image11: /img/guitars/epiphone-lp100-sb/epiphone-lp100-sb-11.jpg
+status: vendido
+image1: /img/guitars-sold/epiphone-lp100-sb/epiphone-lp100-sb-01-sold.jpg
+image2: /img/guitars-sold/epiphone-lp100-sb/epiphone-lp100-sb-02-sold.jpg
+image3: /img/guitars-sold/epiphone-lp100-sb/epiphone-lp100-sb-03-sold.jpg
+image4: /img/guitars-sold/epiphone-lp100-sb/epiphone-lp100-sb-04-sold.jpg
+image5: /img/guitars-sold/epiphone-lp100-sb/epiphone-lp100-sb-05-sold.jpg
+image6: /img/guitars-sold/epiphone-lp100-sb/epiphone-lp100-sb-06-sold.jpg
+image7: /img/guitars-sold/epiphone-lp100-sb/epiphone-lp100-sb-07-sold.jpg
+image8: /img/guitars-sold/epiphone-lp100-sb/epiphone-lp100-sb-08-sold.jpg
 keywords: epiphone les paul, epiphone les paul 100
 
 ---
