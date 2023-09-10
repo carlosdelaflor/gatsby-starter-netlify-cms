@@ -9,17 +9,17 @@ condition: Usada en buen estado (8/10)
 description: Guitarra Yamaha FG-336SB en Venta!, Lima, Peru
 contactPhone: 51992780348
 date: 2016-12-17T15:04:10.000Z
-image1: /img/guitars/yamaha-fg-336-sb/yamaha-fg-336-sb-01.jpg
-image2: /img/guitars/yamaha-fg-336-sb/yamaha-fg-336-sb-02.jpg
-image3: /img/guitars/yamaha-fg-336-sb/yamaha-fg-336-sb-03.jpg
-image4: /img/guitars/yamaha-fg-336-sb/yamaha-fg-336-sb-04.jpg
-image5: /img/guitars/yamaha-fg-336-sb/yamaha-fg-336-sb-05.jpg
-image6: /img/guitars/yamaha-fg-336-sb/yamaha-fg-336-sb-06.jpg
-image7: /img/guitars/yamaha-fg-336-sb/yamaha-fg-336-sb-07.jpg
-image8: /img/guitars/yamaha-fg-336-sb/yamaha-fg-336-sb-08.jpg
-image9: /img/guitars/yamaha-fg-336-sb/yamaha-fg-336-sb-09.jpg
-image10: /img/guitars/yamaha-fg-336-sb/yamaha-fg-336-sb-10.jpg
-image11: /img/guitars/yamaha-fg-336-sb/yamaha-fg-336-sb-11.jpg
+image1: /img/guitars/yamaha-fg-336-sb/yamaha-fg-336-sb-001.jpg
+image2: /img/guitars/yamaha-fg-336-sb/yamaha-fg-336-sb-002.jpg
+image3: /img/guitars/yamaha-fg-336-sb/yamaha-fg-336-sb-003.jpg
+image4: /img/guitars/yamaha-fg-336-sb/yamaha-fg-336-sb-004.jpg
+image5: /img/guitars/yamaha-fg-336-sb/yamaha-fg-336-sb-005.jpg
+image6: /img/guitars/yamaha-fg-336-sb/yamaha-fg-336-sb-006.jpg
+image7: /img/guitars/yamaha-fg-336-sb/yamaha-fg-336-sb-007.jpg
+image8: /img/guitars/yamaha-fg-336-sb/yamaha-fg-336-sb-008.jpg
+image9: /img/guitars/yamaha-fg-336-sb/yamaha-fg-336-sb-009.jpg
+image10: /img/guitars/yamaha-fg-336-sb/yamaha-fg-336-sb-010.jpg
+image11: /img/guitars/yamaha-fg-336-sb/yamaha-fg-336-sb-011.jpg
 keywords: yamaha fg, yamaha FG-336, yamaha FG336, yamaha FG336SB, yamaha fs
 ---
 
