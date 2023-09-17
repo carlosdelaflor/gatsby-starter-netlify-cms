@@ -1,6 +1,6 @@
 ---
 templateKey: guitar-item-page
-title: Ibanez c-OPN
+title: Ibanez AW-54CE-OPN
 itemtype: acoustic-guitar
 order: 29
 brand: ibanez
