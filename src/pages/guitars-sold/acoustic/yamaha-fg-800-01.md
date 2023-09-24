@@ -9,17 +9,16 @@ condition: Usada como nueva (9/10)
 description: Guitarra Yamaha FG-800 en Venta!, Lima, Peru
 contactPhone: 51992780348
 date: 2016-12-17T15:04:10.000Z
-image1: /img/guitars/yamaha-fg-800-sb/yamaha-fg-800-sb-001.jpg
-image2: /img/guitars/yamaha-fg-800-sb/yamaha-fg-800-sb-002.jpg
-image3: /img/guitars/yamaha-fg-800-sb/yamaha-fg-800-sb-003.jpg
-image4: /img/guitars/yamaha-fg-800-sb/yamaha-fg-800-sb-004.jpg
-image5: /img/guitars/yamaha-fg-800-sb/yamaha-fg-800-sb-005.jpg
-image6: /img/guitars/yamaha-fg-800-sb/yamaha-fg-800-sb-006.jpg
-image7: /img/guitars/yamaha-fg-800-sb/yamaha-fg-800-sb-007.jpg
-image8: /img/guitars/yamaha-fg-800-sb/yamaha-fg-800-sb-008.jpg
-image9: /img/guitars/yamaha-fg-800-sb/yamaha-fg-800-sb-009.jpg
-image10: /img/guitars/yamaha-fg-800-sb/yamaha-fg-800-sb-010.jpg
-image11: /img/guitars/yamaha-fg-800-sb/yamaha-fg-800-sb-011.jpg
+status: vendido
+image1: /img/guitars-sold/yamaha-fg-800-01/yamaha-fg-800-sb-01-sold.jpg
+image2: /img/guitars-sold/yamaha-fg-800-01/yamaha-fg-800-sb-02-sold.jpg
+image3: /img/guitars-sold/yamaha-fg-800-01/yamaha-fg-800-sb-03-sold.jpg
+image4: /img/guitars-sold/yamaha-fg-800-01/yamaha-fg-800-sb-04-sold.jpg
+image5: /img/guitars-sold/yamaha-fg-800-01/yamaha-fg-800-sb-05-sold.jpg
+image6: /img/guitars-sold/yamaha-fg-800-01/yamaha-fg-800-sb-06-sold.jpg
+image7: /img/guitars-sold/yamaha-fg-800-01/yamaha-fg-800-sb-07-sold.jpg
+image8: /img/guitars-sold/yamaha-fg-800-01/yamaha-fg-800-sb-08-sold.jpg
+image9: /img/guitars-sold/yamaha-fg-800-01/yamaha-fg-800-sb-09-sold.jpg
 keywords: yamaha fg, yamaha FG-800, yamaha FG800, yamaha fs
 ---
 
