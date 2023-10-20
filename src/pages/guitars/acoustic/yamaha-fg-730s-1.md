@@ -20,9 +20,9 @@ image8: /img/guitars/yamaha-fg-730s-1/yamaha-fg730s-08.jpg
 image9: /img/guitars/yamaha-fg-730s-1/yamaha-fg730s-09.jpg
 image10: /img/guitars/yamaha-fg-730s-1/yamaha-fg730s-10.jpg
 image11: /img/guitars/yamaha-fg-730s-1/yamaha-fg730s-11.jpg
-keywords: yamaha fg, yamaha fg730s, yamaha fg-730s, yamaha fgx730sc, yamaha fgx-730sc
+keywords: yamaha fg, yamaha fg730s, yamaha fg730s
 ---
-Les presentamos esta guitarra electroacústica lista para el escenario, presenta leves detalles de uso en la parte frontal, completamente funcional.
+Les presentamos esta guitarra acústica lista para el escenario, presenta leves detalles de uso en la parte frontal, completamente funcional.
 La serie FG-700s es probablemente una de las mas exitosas de Yamaha a nivel mundial, este ejemplar ademas de poseer una tapa sólida de sitka nos da un tono muy particular debido a sus lados y fondo de rosewood laminados.
 
 ## Características técnicas
