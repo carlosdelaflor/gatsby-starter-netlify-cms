@@ -9,17 +9,17 @@ condition: Usada casi nueva (9.5/10)
 description: Guitarra Yamaha LL-6 en Venta!, Lima, Peru
 contactPhone: 51992780348
 date: 2016-12-17T15:04:10.000Z
-image1: /img/guitars/yamaha-ll6-1/yamaha-ll6-01.jpg
-image2: /img/guitars/yamaha-ll6-1/yamaha-ll6-02.jpg
-image3: /img/guitars/yamaha-ll6-1/yamaha-ll6-03.jpg
-image4: /img/guitars/yamaha-ll6-1/yamaha-ll6-04.jpg
-image5: /img/guitars/yamaha-ll6-1/yamaha-ll6-05.jpg
-image6: /img/guitars/yamaha-ll6-1/yamaha-ll6-06.jpg
-image7: /img/guitars/yamaha-ll6-1/yamaha-ll6-07.jpg
-image8: /img/guitars/yamaha-ll6-1/yamaha-ll6-08.jpg
-image9: /img/guitars/yamaha-ll6-1/yamaha-ll6-09.jpg
-image10: /img/guitars/yamaha-ll6-1/yamaha-ll6-10.jpg
-image11: /img/guitars/yamaha-ll6-1/yamaha-ll6-11.jpg
+image1: /img/guitars/yamaha-ll6-1/yamaha-ll6-001.jpg
+image2: /img/guitars/yamaha-ll6-1/yamaha-ll6-002.jpg
+image3: /img/guitars/yamaha-ll6-1/yamaha-ll6-003.jpg
+image4: /img/guitars/yamaha-ll6-1/yamaha-ll6-004.jpg
+image5: /img/guitars/yamaha-ll6-1/yamaha-ll6-005.jpg
+image6: /img/guitars/yamaha-ll6-1/yamaha-ll6-006.jpg
+image7: /img/guitars/yamaha-ll6-1/yamaha-ll6-007.jpg
+image8: /img/guitars/yamaha-ll6-1/yamaha-ll6-008.jpg
+image9: /img/guitars/yamaha-ll6-1/yamaha-ll6-009.jpg
+image10: /img/guitars/yamaha-ll6-1/yamaha-ll6-010.jpg
+image11: /img/guitars/yamaha-ll6-1/yamaha-ll6-011.jpg
 keywords: yamaha l series, yamaha ll6, yamaha ll-6, yamaha ll6m, yamaha ll-6m
 ---
 

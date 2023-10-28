@@ -10,17 +10,17 @@ condition: Usada casi nueva (9.5/10)
 description: Guitarra Ibanez AW-100 en Venta!, Lima, Peru
 contactPhone: 51992780348
 date: 2023-02-28T15:04:10.000Z
-image1: /img/guitars/ibanez-aw-100/ibanez-aw100-01.jpg
-image2: /img/guitars/ibanez-aw-100/ibanez-aw100-02.jpg
-image3: /img/guitars/ibanez-aw-100/ibanez-aw100-03.jpg
-image4: /img/guitars/ibanez-aw-100/ibanez-aw100-04.jpg
-image5: /img/guitars/ibanez-aw-100/ibanez-aw100-05.jpg
-image6: /img/guitars/ibanez-aw-100/ibanez-aw100-06.jpg
-image7: /img/guitars/ibanez-aw-100/ibanez-aw100-07.jpg
-image8: /img/guitars/ibanez-aw-100/ibanez-aw100-08.jpg
-image9: /img/guitars/ibanez-aw-100/ibanez-aw100-09.jpg
-image10: /img/guitars/ibanez-aw-100/ibanez-aw100-10.jpg
-image11: /img/guitars/ibanez-aw-100/ibanez-aw100-11.jpg
+image1: /img/guitars/ibanez-aw-100/ibanez-aw100-001.jpg
+image2: /img/guitars/ibanez-aw-100/ibanez-aw100-002.jpg
+image3: /img/guitars/ibanez-aw-100/ibanez-aw100-003.jpg
+image4: /img/guitars/ibanez-aw-100/ibanez-aw100-004.jpg
+image5: /img/guitars/ibanez-aw-100/ibanez-aw100-005.jpg
+image6: /img/guitars/ibanez-aw-100/ibanez-aw100-006.jpg
+image7: /img/guitars/ibanez-aw-100/ibanez-aw100-007.jpg
+image8: /img/guitars/ibanez-aw-100/ibanez-aw100-008.jpg
+image9: /img/guitars/ibanez-aw-100/ibanez-aw100-009.jpg
+image10: /img/guitars/ibanez-aw-100/ibanez-aw100-010.jpg
+image11: /img/guitars/ibanez-aw-100/ibanez-aw100-011.jpg
 keywords: ibanez aw100, ibanez aw-100, ibanez artwood, ibanez AW-100
 ---
 La serie Artwood de Ibanez es reconocida a nivel mundial por sus excelentes materiales y acabados, en este caso la Ibanez AW-100 no decepcionaría a ningún guitarrista intermedio o profesional.
