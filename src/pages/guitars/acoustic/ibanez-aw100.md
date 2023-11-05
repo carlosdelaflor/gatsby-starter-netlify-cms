@@ -30,7 +30,7 @@ La AW-100 nos presenta todo el poder del formato dreadnought, con un actualizado
 
 * Tipo: Dreadnought
 * Tapa frontal: Tapa sólida de Engelmann spruce
-* Lados y tapa trasera: Mahogany (cahoba)
+* Lados y tapa trasera: Mahogany (caoba)
 * Acabado: Poliuretano brillante
 * Tipo de bracing: Escalopado en X
 * Puente: Palorosa (rosewood) con cejilla compensada

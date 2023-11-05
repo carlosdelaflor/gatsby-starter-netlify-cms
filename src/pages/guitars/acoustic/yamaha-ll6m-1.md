@@ -32,7 +32,7 @@ La LL6M cuenta con una tapa maciza de pícea Engelmann seleccionada a mano y fon
 * Serie: Yamaha L (Luxury)
 * Tipo: Dreadnought
 * Tapa frontal: Tapa sólida de Engelmann spruce con tratamiento A.R.E.
-* Lados y tapa trasera: Cahoba (Mahogany) laminado 
+* Lados y tapa trasera: Caoba (Mahogany) laminado 
 * Acabado: Brillante
 * Tipo de bracing: Escalopado en X
 * Puente: Palisandro (Rosewood) con hueso sintético
