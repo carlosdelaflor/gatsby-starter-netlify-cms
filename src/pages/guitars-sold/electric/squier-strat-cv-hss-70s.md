@@ -9,17 +9,16 @@ condition: Usada casi nueva (9.5/10)
 description: Guitarra Squier Stratocaster Classic Vibe en Venta!, Lima, Peru
 contactPhone: 51992780348
 date: 2023-03-15T15:04:10.000Z
-image1: /img/guitars/squier-strat-cv-hss-70s/squier-strat-cv-hss-70s-01.jpg
-image2: /img/guitars/squier-strat-cv-hss-70s/squier-strat-cv-hss-70s-02.jpg
-image3: /img/guitars/squier-strat-cv-hss-70s/squier-strat-cv-hss-70s-03.jpg
-image4: /img/guitars/squier-strat-cv-hss-70s/squier-strat-cv-hss-70s-04.jpg
-image5: /img/guitars/squier-strat-cv-hss-70s/squier-strat-cv-hss-70s-05.jpg
-image6: /img/guitars/squier-strat-cv-hss-70s/squier-strat-cv-hss-70s-06.jpg
-image7: /img/guitars/squier-strat-cv-hss-70s/squier-strat-cv-hss-70s-07.jpg
-image8: /img/guitars/squier-strat-cv-hss-70s/squier-strat-cv-hss-70s-08.jpg
-image9: /img/guitars/squier-strat-cv-hss-70s/squier-strat-cv-hss-70s-09.jpg
-image10: /img/guitars/squier-strat-cv-hss-70s/squier-strat-cv-hss-70s-10.jpg
-image11: /img/guitars/squier-strat-cv-hss-70s/squier-strat-cv-hss-70s-11.jpg
+status: vendido
+image1: /img/guitars-sold/squier-strat-cv-hss-70s/squier-strat-cv-hss-70s-01-sold.jpg
+image2: /img/guitars-sold/squier-strat-cv-hss-70s/squier-strat-cv-hss-70s-02-sold.jpg
+image3: /img/guitars-sold/squier-strat-cv-hss-70s/squier-strat-cv-hss-70s-03-sold.jpg
+image4: /img/guitars-sold/squier-strat-cv-hss-70s/squier-strat-cv-hss-70s-04-sold.jpg
+image5: /img/guitars-sold/squier-strat-cv-hss-70s/squier-strat-cv-hss-70s-05-sold.jpg
+image6: /img/guitars-sold/squier-strat-cv-hss-70s/squier-strat-cv-hss-70s-06-sold.jpg
+image7: /img/guitars-sold/squier-strat-cv-hss-70s/squier-strat-cv-hss-70s-07-sold.jpg
+image8: /img/guitars-sold/squier-strat-cv-hss-70s/squier-strat-cv-hss-70s-08-sold.jpg
+image9: /img/guitars-sold/squier-strat-cv-hss-70s/squier-strat-cv-hss-70s-09-sold.jpg
 keywords: squier stratocaster, squier classic vibe, squier stratocaster classic vibe
 
 ---
