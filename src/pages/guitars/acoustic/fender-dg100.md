@@ -35,7 +35,7 @@ Posee una forma de dreadnaught con tapa sólida de englemann spruce con bracing 
 * Lados y tapa trasera: caoba laminado (mahogany)
 * Acabado: Poliuretano brillante
 * Tipo de bracing: Escalopado en X
-* Puente: Nato con puente compensado
+* Puente: Palisandro con puente compensado
 * Color: Natural
 * Cuello: tipo C
 * Diapason: Rosewood
