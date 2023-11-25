@@ -5,7 +5,7 @@ itemtype: acoustic-guitar
 order: 21
 brand: epiphone
 serial: CC130210303
-price: S/. 1,500.00
+price: S/. 1,450.00
 condition: Usada casi nueva (9.5/10)
 description: Guitarra Epiphone Hummingbird Studio en Venta!, Lima, Peru
 contactPhone: 51992780348

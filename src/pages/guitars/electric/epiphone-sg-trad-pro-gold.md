@@ -2,24 +2,24 @@
 templateKey: guitar-item-page
 title: Epiphone SG Traditional PRO
 itemtype: electric-guitar
-order: 37
+order: 53
 brand: epiphone
 price: S/. 1,890.00
 condition: Usada casi nuevo (9.5/10)
 description: Guitarra Epiphone SG Traditional PRO en Venta!, Lima, Peru
 contactPhone: 51992780348
 date: 2016-12-17T15:04:10.000Z
-image1: /img/guitars/epiphone-sg-trad-pro-sp-bu/epiphone-sg-trad-pro-sb-01.jpg
-image2: /img/guitars/epiphone-sg-trad-pro-sp-bu/epiphone-sg-trad-pro-sb-02.jpg
-image3: /img/guitars/epiphone-sg-trad-pro-sp-bu/epiphone-sg-trad-pro-sb-03.jpg
-image4: /img/guitars/epiphone-sg-trad-pro-sp-bu/epiphone-sg-trad-pro-sb-04.jpg
-image5: /img/guitars/epiphone-sg-trad-pro-sp-bu/epiphone-sg-trad-pro-sb-05.jpg
-image6: /img/guitars/epiphone-sg-trad-pro-sp-bu/epiphone-sg-trad-pro-sb-06.jpg
-image7: /img/guitars/epiphone-sg-trad-pro-sp-bu/epiphone-sg-trad-pro-sb-07.jpg
-image8: /img/guitars/epiphone-sg-trad-pro-sp-bu/epiphone-sg-trad-pro-sb-08.jpg
-image9: /img/guitars/epiphone-sg-trad-pro-sp-bu/epiphone-sg-trad-pro-sb-09.jpg
-image10: /img/guitars/epiphone-sg-trad-pro-sp-bu/epiphone-sg-trad-pro-sb-10.jpg
-image11: /img/guitars/epiphone-sg-trad-pro-sp-bu/epiphone-sg-trad-pro-sb-11.jpg
+image1: /img/guitars/epiphone-sg-trad-pro-gold/epiphone-sg-trad-pro-gold-01.jpg
+image2: /img/guitars/epiphone-sg-trad-pro-gold/epiphone-sg-trad-pro-gold-02.jpg
+image3: /img/guitars/epiphone-sg-trad-pro-gold/epiphone-sg-trad-pro-gold-03.jpg
+image4: /img/guitars/epiphone-sg-trad-pro-gold/epiphone-sg-trad-pro-gold-04.jpg
+image5: /img/guitars/epiphone-sg-trad-pro-gold/epiphone-sg-trad-pro-gold-05.jpg
+image6: /img/guitars/epiphone-sg-trad-pro-gold/epiphone-sg-trad-pro-gold-06.jpg
+image7: /img/guitars/epiphone-sg-trad-pro-gold/epiphone-sg-trad-pro-gold-07.jpg
+image8: /img/guitars/epiphone-sg-trad-pro-gold/epiphone-sg-trad-pro-gold-08.jpg
+image9: /img/guitars/epiphone-sg-trad-pro-gold/epiphone-sg-trad-pro-gold-09.jpg
+image10: /img/guitars/epiphone-sg-trad-pro-gold/epiphone-sg-trad-pro-gold-10.jpg
+image11: /img/guitars/epiphone-sg-trad-pro-gold/epiphone-sg-trad-pro-gold-11.jpg
 keywords: epiphone SG, epiphone SG standard, epiphone SG 60s, epiphone sg traditional PRO, epiphone sg pro
 
 ---
@@ -31,7 +31,7 @@ Presentada en la nueva colección Inspired by Gibson, la Epiphone SG Standard re
 * Serie: Epiphone's Inspired by Gibson
 * Construcción: Cuerpo sólido
 * Construcción mástil: Mástil encolado
-* Color: Sparkling Burgundy
+* Color: Metallic Gold
 * Número de cuerdas: 6
 * Número de trastes: 22
 * Escala: 24,75"

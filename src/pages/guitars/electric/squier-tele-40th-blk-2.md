@@ -4,7 +4,7 @@ title: Squier 40th Tele Gold Ed.
 itemtype: electric-guitar
 order: 50
 brand: squier
-price: S/. 2,350.00
+price: S/. 2,290.00
 condition: Usada casi nueva (9.8/10)
 description: Guitarra Squier Telecaster 60th en Venta!, Lima, Peru
 contactPhone: 51992780348

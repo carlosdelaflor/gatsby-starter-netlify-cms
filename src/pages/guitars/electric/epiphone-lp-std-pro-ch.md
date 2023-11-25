@@ -4,7 +4,7 @@ title: Epiphone LP Standard PRO Plus Top
 itemtype: electric-guitar
 order: 40
 brand: epiphone
-price: S/. 1950.00
+price: S/. 1890.00
 condition: Usada en muy buen estado (9/10)
 description: Guitarra Epiphone Les Paul Standard Pro en Venta!, Lima, Peru
 contactPhone: 51992780348

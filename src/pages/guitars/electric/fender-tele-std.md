@@ -4,7 +4,7 @@ title: Fender Tele Standard
 itemtype: electric-guitar
 order: 42
 brand: fender
-price: S/. 2,500.00
+price: S/. 2,450.00
 condition: Usada en muy buen estado (8.8/10)
 description: Guitarra Fender Telecaster Standard, Lima, Peru
 contactPhone: 51992780348

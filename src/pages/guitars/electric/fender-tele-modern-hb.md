@@ -4,7 +4,7 @@ title: Fender Modern Player Tele Plus
 itemtype: electric-guitar
 order: 22
 brand: fender
-price: S/. 2,600.00
+price: S/. 2,550.00
 condition: Usada en muy buen estado (9/10)
 description: Guitarra Fender Telecaster Modern Player Plus!, Lima, Peru
 contactPhone: 51992780348

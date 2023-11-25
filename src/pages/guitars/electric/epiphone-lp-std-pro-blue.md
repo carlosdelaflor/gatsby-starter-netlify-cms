@@ -4,7 +4,7 @@ title: Epiphone LP Standard PRO Quilt Top Ltd.
 itemtype: electric-guitar
 order: 46
 brand: epiphone
-price: S/. 2,150.00
+price: S/. 2,090.00
 condition: Usada en muy buen estado (9/10)
 description: Guitarra Epiphone Les Paul Standard Pro en Venta!, Lima, Peru
 contactPhone: 51992780348

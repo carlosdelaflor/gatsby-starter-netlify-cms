@@ -5,7 +5,7 @@ itemtype: acoustic-guitar
 order: 1
 brand: epiphone
 serial: CC130210303
-price: S/. 1,350.00
+price: S/. 1,290.00
 condition: Usada en buen estado (9/10)
 description: Guitarra Epiphone Dove Pro en Venta!, Lima, Peru
 contactPhone: 51992780348

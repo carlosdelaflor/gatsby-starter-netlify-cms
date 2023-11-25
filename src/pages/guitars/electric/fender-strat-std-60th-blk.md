@@ -4,7 +4,7 @@ title: Fender Strat. Std. 60th
 itemtype: electric-guitar
 order: 47
 brand: fender
-price: S/. 2,250.00
+price: S/. 2,190.00
 condition: Usada en muy buen estado (7.9/10)
 description: Guitarra Fender Stratocaster Standard 60th!, Lima, Peru
 contactPhone: 51992780348
