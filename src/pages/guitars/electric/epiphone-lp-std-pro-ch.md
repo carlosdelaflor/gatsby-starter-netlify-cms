@@ -28,7 +28,7 @@ Hay dos formas icónicas de cuerpo de guitarra por ahí, y Les Paul es una de el
 
 La Epiphone Les Paul Standard Plustop PRO tiene una hermosa tapa de chapa de arce flameado AAA y un cuerpo de caoba tradicional para el mismo tono clásico que ayudó a hacer de Les Paul la guitarra eléctrica de cuerpo sólido más popular del mundo. Todos los Epiphone Les Pauls (a diferencia de las imitaciones baratas) cuentan con un cabezal en ángulo de 14 grados que proporciona más presión en la tuerca para un sostenimiento más prolongado y una mejor entonación. 
 
-El mástil de caoba tiene un perfil SlimTaperTM-D de los años 60 fácil de jugar con una escala de 24.75 ", 22 trastes jumbo medianos, un diapasón de Pau Ferro con incrustaciones de trapezoides y un radio de diapasón de 12". El cuerpo y el diapasón tienen encuadernación en crema y el cabezal Epiphone tiene la firma Les Paul en seda dorada junto con el logotipo de Epiphone en perlado.
+El mástil de caoba tiene un perfil SlimTaperTM-D de los años 60 fácil de jugar con una escala de 24.75", 22 trastes jumbo medianos, un diapasón de Pau Ferro con incrustaciones de trapezoides y un radio de diapasón de 12". El cuerpo y el diapasón tienen encuadernación en crema y el cabezal Epiphone tiene la firma Les Paul en seda dorada junto con el logotipo de Epiphone en perlado.
 
 La Les Paul Standard Plustop PRO también viene con división de bobina, controlada por un control de volumen push / pull en la perilla de volumen de cada pastilla, lo que permite a los jugadores una variedad infinita de tonos de captación desde la corteza de bobina simple hasta la mordida completa de humbucker.
 
