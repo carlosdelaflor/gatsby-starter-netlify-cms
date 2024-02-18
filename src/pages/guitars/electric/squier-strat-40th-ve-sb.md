@@ -4,7 +4,7 @@ title: Squier 40th Strat Vintage Ed.
 itemtype: electric-guitar
 order: 53
 brand: squier
-price: S/. 1,850.00
+price: S/. 1,790.00
 condition: Usada en buen estado (8.5/10)
 description: Guitarra Squier Stratocaster 40th Anniversary en Venta!, Lima, Peru
 contactPhone: 51992780348
