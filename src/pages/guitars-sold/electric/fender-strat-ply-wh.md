@@ -9,17 +9,16 @@ condition: Usada en muy buen estado (8.7/10)
 description: Guitarra Fender Stratocaster Player, Lima, Peru
 contactPhone: 51992780348
 date: 2016-12-17T15:04:10.000Z
-image1: /img/guitars/fender-strat-ply-wh/fender-strat-ply-wh-01.jpg
-image2: /img/guitars/fender-strat-ply-wh/fender-strat-ply-wh-02.jpg
-image3: /img/guitars/fender-strat-ply-wh/fender-strat-ply-wh-03.jpg
-image4: /img/guitars/fender-strat-ply-wh/fender-strat-ply-wh-04.jpg
-image5: /img/guitars/fender-strat-ply-wh/fender-strat-ply-wh-05.jpg
-image6: /img/guitars/fender-strat-ply-wh/fender-strat-ply-wh-06.jpg
-image7: /img/guitars/fender-strat-ply-wh/fender-strat-ply-wh-07.jpg
-image8: /img/guitars/fender-strat-ply-wh/fender-strat-ply-wh-08.jpg
-image9: /img/guitars/fender-strat-ply-wh/fender-strat-ply-wh-09.jpg
-image10: /img/guitars/fender-strat-ply-wh/fender-strat-ply-wh-10.jpg
-image11: /img/guitars/fender-strat-ply-wh/fender-strat-ply-wh-11.jpg
+status: vendido
+image1: /img/guitars-sold/fender-strat-ply-wh/fender-strat-ply-wh-01-sold.jpg
+image2: /img/guitars-sold/fender-strat-ply-wh/fender-strat-ply-wh-02-sold.jpg
+image3: /img/guitars-sold/fender-strat-ply-wh/fender-strat-ply-wh-03-sold.jpg
+image4: /img/guitars-sold/fender-strat-ply-wh/fender-strat-ply-wh-04-sold.jpg
+image5: /img/guitars-sold/fender-strat-ply-wh/fender-strat-ply-wh-05-sold.jpg
+image6: /img/guitars-sold/fender-strat-ply-wh/fender-strat-ply-wh-06-sold.jpg
+image7: /img/guitars-sold/fender-strat-ply-wh/fender-strat-ply-wh-07-sold.jpg
+image8: /img/guitars-sold/fender-strat-ply-wh/fender-strat-ply-wh-08-sold.jpg
+image9: /img/guitars-sold/fender-strat-ply-wh/fender-strat-ply-wh-09-sold.jpg
 keywords: fender stratocaster, fender stratocaster, fender stratocaster player
 
 ---
