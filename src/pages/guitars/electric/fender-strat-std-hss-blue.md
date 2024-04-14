@@ -4,7 +4,7 @@ title: Fender Strat. Std. HSS
 itemtype: electric-guitar
 order: 45
 brand: fender
-price: S/. 2,550.00
+price: S/. 2,480.00
 condition: Usada en muy buen estado (9/10)
 description: Guitarra Fender Stratocaster Standard HSS!, Lima, Peru
 contactPhone: 51992780348
@@ -34,9 +34,9 @@ Esta serie de stratocaster tienen un cuello "C" (muy standard) bastante caracter
 * Acabado de Cuerpo: Polyester
 * Material Cuerpo: Aliso (alder)
 * Material Mastil: Arce (maple)
+* Material Diapason: Arce
 * Acabado Mastil: Satin Urethane
 * Tamaño trastes: Medium Jumbo
-* Material Diapason: Arce
 * Escala: 25.5" (648 mm)
 * Numero de Trastes: 21
 * Radio Diapason: 9.5" (241 mm)
