@@ -4,7 +4,7 @@ title: Epiphone SG Traditional PRO
 itemtype: electric-guitar
 order: 53
 brand: epiphone
-price: S/. 1,890.00
+price: S/. 1,850.00
 condition: Usada casi nuevo (9.5/10)
 description: Guitarra Epiphone SG Traditional PRO en Venta!, Lima, Peru
 contactPhone: 51992780348

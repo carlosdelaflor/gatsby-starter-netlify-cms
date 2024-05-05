@@ -23,8 +23,7 @@ image11: /img/guitars/epiphone-g400-pro-ch-5/epiphone-g400-pro-ch-5-11.jpg
 keywords: epiphone SG, epiphone G400, epiphone G400 PRO
 
 ---
-La versión Epiphone de la SG, la SG G-400 PRO, ofrece el mismo estilo y sonido legendario a un precio razonable, accesible a guitarristas de todos los niveles.
-Este modelo ofrece las mismas prestaciones y características que el modelo G400 agregando la capacidad de poder utilizar la configuración de single coil sobre cada humbucker, cada selector de volúmen posee un sistema push pull que hace posible esta configuración.
+La Epiphone Limited Edition 1966 G-400 es una reversión autorizada por Gibson de la gran SG 66' con un cuerpo sólido de caoba y un mango tipo slim-taper encolado al cuerpo. Una de las particularidades de este modelo es el uso del pickguard alargado (llamado tipo murciélago) que no posee anillos de montura para sus Alnico Classic Pro humbuckers ofreciendo el mismo estilo y sonido legendario a un precio razonable, accesible a guitarristas de todos los niveles. Tanto si buscas tu primera guitarra eléctrica como un nuevo modelo con el que guitarrear sin miedo a quedarte corto, cómo si eres un guitarrista avanzado, la guitarra Epiphone Limited Edition 1966 G-400 es una gran opción.
 
 ## Características técnicas
 
@@ -41,6 +40,6 @@ Este modelo ofrece las mismas prestaciones y características que el modelo G400
 * Seleccionador de pastillas: Switch de tres posiciones
 * Posibilidades de regulación: 2 x volumen, 2 x tono
 * Puente / Trémolo: Tune-O-Matic
-* Pastilla Mastil: Humbuckers de álnico G400 exclusive
-* Pastilla Puente: Humbuckers de álnico G400 exclusive
+* Pastilla Mastil: Alnico Classic Pro humbuckers exclusive
+* Pastilla Puente: Alnico Classic Pro humbuckers exclusive
 * Circuito Single Coil: sistema push pull sobre cada humbucker para que funcione como single coil.
