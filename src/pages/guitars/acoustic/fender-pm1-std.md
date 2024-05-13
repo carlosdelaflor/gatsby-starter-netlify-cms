@@ -5,7 +5,7 @@ itemtype: acoustic-guitar
 order: 55
 brand: fender
 serial: CC130210303
-price: S/. 2,780.00
+price: S/. 2,680.00
 condition: Usada en buen estado (9/10)
 description: Guitarra Fender PM-1E en Venta!, Lima, Peru
 contactPhone: 51992780348

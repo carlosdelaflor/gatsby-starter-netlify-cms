@@ -9,17 +9,17 @@ condition: Usada en muy buen estado (8.6/10)
 description: Guitarra Epiphone G400 en Venta!, Lima, Peru
 contactPhone: 51992780348
 date: 2023-04-17T15:04:10.000Z
-image1: /img/guitars/epiphone-g400-1996-silver/epiphone-g400-1966-silver-01.jpg
-image2: /img/guitars/epiphone-g400-1996-silver/epiphone-g400-1966-silver-02.jpg
-image3: /img/guitars/epiphone-g400-1996-silver/epiphone-g400-1966-silver-03.jpg
-image4: /img/guitars/epiphone-g400-1996-silver/epiphone-g400-1966-silver-04.jpg
-image5: /img/guitars/epiphone-g400-1996-silver/epiphone-g400-1966-silver-05.jpg
-image6: /img/guitars/epiphone-g400-1996-silver/epiphone-g400-1966-silver-06.jpg
-image7: /img/guitars/epiphone-g400-1996-silver/epiphone-g400-1966-silver-07.jpg
-image8: /img/guitars/epiphone-g400-1996-silver/epiphone-g400-1966-silver-08.jpg
-image9: /img/guitars/epiphone-g400-1996-silver/epiphone-g400-1966-silver-09.jpg
-image10: /img/guitars/epiphone-g400-1996-silver/epiphone-g400-1966-silver-10.jpg
-image11: /img/guitars/epiphone-g400-1996-silver/epiphone-g400-1966-silver-11.jpg
+image1: /img/guitars/epiphone-g400-1966-silver/epiphone-g400-1966-silver-01.jpg
+image2: /img/guitars/epiphone-g400-1966-silver/epiphone-g400-1966-silver-02.jpg
+image3: /img/guitars/epiphone-g400-1966-silver/epiphone-g400-1966-silver-03.jpg
+image4: /img/guitars/epiphone-g400-1966-silver/epiphone-g400-1966-silver-04.jpg
+image5: /img/guitars/epiphone-g400-1966-silver/epiphone-g400-1966-silver-05.jpg
+image6: /img/guitars/epiphone-g400-1966-silver/epiphone-g400-1966-silver-06.jpg
+image7: /img/guitars/epiphone-g400-1966-silver/epiphone-g400-1966-silver-07.jpg
+image8: /img/guitars/epiphone-g400-1966-silver/epiphone-g400-1966-silver-08.jpg
+image9: /img/guitars/epiphone-g400-1966-silver/epiphone-g400-1966-silver-09.jpg
+image10: /img/guitars/epiphone-g400-1966-silver/epiphone-g400-1966-silver-10.jpg
+image11: /img/guitars/epiphone-g400-1966-silver/epiphone-g400-1966-silver-11.jpg
 keywords: epiphone SG, epiphone G400, epiphone G400 1966
 
 ---

@@ -5,7 +5,7 @@ itemtype: acoustic-guitar
 order: 54
 brand: epiphone
 serial: CC130210303
-price: S/. 2,200.00
+price: S/. 2,150.00
 condition: Usada en buen estado (8.7/10)
 description: Guitarra Epiphone EJ-160E en Venta!, Lima, Peru
 contactPhone: 51992780348

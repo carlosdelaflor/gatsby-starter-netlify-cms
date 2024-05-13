@@ -5,7 +5,7 @@ itemtype: acoustic-guitar
 order: 30
 brand: fender
 serial: CC130210303
-price: S/. 2,390.00
+price: S/. 2,290.00
 condition: Usada en buen estado (8.9/10)
 description: Guitarra Fender CD-320AS en Venta!, Lima, Peru
 contactPhone: 51992780348

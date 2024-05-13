@@ -4,7 +4,7 @@ title: Yamaha LL-6
 itemtype: acoustic-guitar
 order: 31
 brand: yamaha
-price: S/. 2,250.00
+price: S/. 2,190.00
 condition: Usada casi nueva (9.5/10)
 description: Guitarra Yamaha LL-6 en Venta!, Lima, Peru
 contactPhone: 51992780348
