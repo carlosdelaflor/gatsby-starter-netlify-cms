@@ -4,7 +4,7 @@ title: Squier 40th Tele Vintage Ed.
 itemtype: electric-guitar
 order: 61
 brand: squier
-price: S/. 1,900.00
+price: S/. 1,880.00
 condition: Usada en buen estado (9.5/10)
 description: Guitarra Squier Telecaster 40th Anniversary en Venta!, Lima, Peru
 contactPhone: 51992780348
