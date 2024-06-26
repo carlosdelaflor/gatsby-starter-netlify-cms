@@ -4,7 +4,7 @@ title: Yamaha FG-830
 itemtype: acoustic-guitar
 order: 33
 brand: yamaha
-price: S/. 1,390.00
+price: S/. 1,290.00
 condition: Usada en buen estado (8.7/10)
 description: Guitarra Yamaha FG-830 en Venta!, Lima, Peru
 contactPhone: 51992780348
@@ -19,6 +19,7 @@ image7: /img/guitars/yamaha-fg-830-ab/yamaha-fg-830-ab-07.jpg
 image8: /img/guitars/yamaha-fg-830-ab/yamaha-fg-830-ab-08.jpg
 image9: /img/guitars/yamaha-fg-830-ab/yamaha-fg-830-ab-09.jpg
 image10: /img/guitars/yamaha-fg-830-ab/yamaha-fg-830-ab-10.jpg
+image11: /img/guitars/yamaha-fg-830-ab/yamaha-fg-830-ab-11.jpg
 keywords: yamaha fg, yamaha fg830, yamaha fg-830
 ---
 La Yamaha FG830 Natural esta hecha de una tapa sólida de abeto maziso y palisandro (rosewood) para los aros y el fondo, aportando esta madera un sustain más prolongado y de mayor duración. Tiene incrustaciones alrededor de la boca de la guitarra, transmitiendole estas un toque distinto al instrumento. 

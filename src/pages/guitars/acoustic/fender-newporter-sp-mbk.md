@@ -5,7 +5,7 @@ itemtype: acoustic-guitar
 order: 52
 brand: fender
 serial: CC130210303
-price: S/. 2,150.00
+price: S/. 2,090.00
 condition: Usada en buen estado (8.9/10)
 description: Guitarra Fender Newporter Special en Venta!, Lima, Peru
 contactPhone: 51992780348

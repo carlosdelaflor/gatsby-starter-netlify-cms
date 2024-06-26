@@ -5,7 +5,7 @@ itemtype: acoustic-guitar
 order: 29
 brand: ibanez
 serial: CC130210303
-price: S/. 1,200.00
+price: S/. 1,150.00
 condition: Usada  en buen estado (8.7/10)
 description: Guitarra Ibanez AW-54CE en Venta!, Lima, Peru
 contactPhone: 51992780348

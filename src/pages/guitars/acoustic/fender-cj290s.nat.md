@@ -5,7 +5,7 @@ itemtype: acoustic-guitar
 order: 53
 brand: fender
 serial: CC130210303
-price: S/. 1,490.00
+price: S/. 1,390.00
 condition: Usado casi nueva (9.2/10)
 description: Guitarra Fender CJ-290S en Venta!, Lima, Peru
 contactPhone: 51992780348

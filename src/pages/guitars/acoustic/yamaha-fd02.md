@@ -4,7 +4,7 @@ title: Yamaha FD-02
 itemtype: acoustic-guitar
 order: 56
 brand: yamaha
-price: S/. 1,180.00
+price: S/. 1,150.00
 condition: Usada casi nuevo (9.5/10)
 description: Guitarra Yamaha FD-02 en Venta!, Lima, Peru
 contactPhone: 51992780348

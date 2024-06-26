@@ -4,7 +4,7 @@ title: Yamaha FG-336SB
 itemtype: acoustic-guitar
 order: 5
 brand: yamaha
-price: S/. 1,150.00
+price: S/. 990.00
 condition: Usada en buen estado (8/10)
 description: Guitarra Yamaha FG-336SB en Venta!, Lima, Peru
 contactPhone: 51992780348

@@ -4,7 +4,7 @@ title: PRS SE One Korina LTD
 itemtype: electric-guitar
 order: 44
 brand: prs
-price: S/. 2,100.00
+price: S/. 1,990.00
 condition: Usada casi nueva (9.6/10)
 description: Guitarra PRS ONE SE Korina en Venta!, Lima, Peru
 contactPhone: 51992780348

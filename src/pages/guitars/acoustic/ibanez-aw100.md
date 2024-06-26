@@ -5,7 +5,7 @@ itemtype: acoustic-guitar
 order: 1
 brand: ibanez
 serial: CC130210303
-price: S/. 1,350.00
+price: S/. 1,260.00
 condition: Usada casi nueva (9.5/10)
 description: Guitarra Ibanez AW-100 en Venta!, Lima, Peru
 contactPhone: 51992780348

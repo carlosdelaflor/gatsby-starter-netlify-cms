@@ -4,7 +4,7 @@ title: Yamaha FG-730
 itemtype: acoustic-guitar
 order: 20
 brand: yamaha
-price: S/. 1,050.00
+price: S/. 990.00
 condition: Usada en buen estado (7.5/10)
 description: Guitarra Yamaha FG-730 en Venta!, Lima, Peru
 contactPhone: 51992780348

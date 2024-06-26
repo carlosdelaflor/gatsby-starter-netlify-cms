@@ -4,7 +4,7 @@ title: Epiphone LP Standard Gold Top
 itemtype: electric-guitar
 order: 72
 brand: epiphone
-price: S/. 1850.00
+price: S/. 1,790.00
 condition: Usada casi nueva (8.9/10)
 description: Guitarra Epiphone Les Paul Standard en Venta!, Lima, Peru
 contactPhone: 51992780348

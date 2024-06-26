@@ -4,7 +4,7 @@ title: PRS SE Santana Ant. White
 itemtype: electric-guitar
 order: 65
 brand: prs
-price: S/. 2,050.00
+price: S/. 1,990.00
 condition: Usada en buen estado (8.7/10)
 description: Guitarra PRS Santana SE Santana en Venta!, Lima, Peru
 contactPhone: 51992780348

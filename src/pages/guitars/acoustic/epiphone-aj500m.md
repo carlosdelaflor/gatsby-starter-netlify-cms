@@ -5,7 +5,7 @@ itemtype: acoustic-guitar
 order: 49
 brand: epiphone
 serial: CC130210303
-price: S/. 2,450.00
+price: S/. 2,390.00
 condition: Usada casi nueva (9.5/10)
 description: Guitarra Epiphone Masterbuilt AJ-500 en Venta!, Lima, Peru
 contactPhone: 51992780348

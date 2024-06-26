@@ -5,7 +5,7 @@ itemtype: acoustic-guitar
 order: 50
 brand: fender
 serial: CC130210303
-price: S/. 1,250.00
+price: S/. 1,190.00
 condition: Usada en buen estado (9/10)
 description: Guitarra Fender DG-100 en Venta!, Lima, Peru
 contactPhone: 51992780348
