@@ -4,7 +4,7 @@ title: Epiphone SG Std.
 itemtype: electric-guitar
 order: 52
 brand: epiphone
-price: S/. 1,650.00
+price: S/. 1,590.00
 condition: Usada en muy buen estado (9/10)
 description: Guitarra Epiphone SG Standard en Venta!, Lima, Peru
 contactPhone: 51992780348

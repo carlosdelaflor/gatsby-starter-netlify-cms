@@ -4,7 +4,7 @@ title: Epiphone DOT VS
 itemtype: electric-guitar
 order: 68
 brand: epiphone
-price: S/. 1,690.00
+price: S/. 1,650.00
 condition: Usada, muy buen estado (8.8/10)
 description: Guitarra Epiphone DOT en Venta!, Lima, Peru
 contactPhone: 51992780348

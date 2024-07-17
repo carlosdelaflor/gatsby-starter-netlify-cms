@@ -62,7 +62,9 @@ const SearchResult = ( {acoustics, electrics, sx} ) => {
                                 <Stack alignItems="center">
                                     <ThemeProvider theme={theme}>
                                         <Typography component="div" variant="body1">
-                                            {guitarContentNode.node.frontmatter.title}
+                                            <Link to={guitarContentNode.node.fields.slug} color="black">
+                                                {guitarContentNode.node.frontmatter.title}
+                                            </Link>
                                         </Typography>
                                         <Typography color="primary" component="div" variant="body1">
                                             {(guitarContentNode.node.frontmatter.status === "vendido") ? 'AGOTADO (A)' : guitarContentNode.node.frontmatter.price}

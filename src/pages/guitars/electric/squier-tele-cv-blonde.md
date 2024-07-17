@@ -4,7 +4,7 @@ title: Squier Telecaster CV 50s
 itemtype: electric-guitar
 order: 59
 brand: squier
-price: S/. 1,550.00
+price: S/. 1,490.00
 condition: Usada en buen estado (9/10)
 description: Guitarra Squier Telecaster Classic Vibe en Venta!, Lima, Peru
 contactPhone: 51992780348

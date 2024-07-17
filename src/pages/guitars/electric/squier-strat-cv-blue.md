@@ -4,7 +4,7 @@ title: Squier Stratocaster CV 60s
 itemtype: electric-guitar
 order: 69
 brand: squier
-price: S/. 1,600.00
+price: S/. 1,590.00
 condition: Usada casi nueva (9.5/10)
 description: Guitarra Squier Stratocaster Classic Vibe en Venta!, Lima, Peru
 contactPhone: 51992780348
