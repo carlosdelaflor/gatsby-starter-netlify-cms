@@ -1,7 +1,7 @@
 ---
 templateKey: guitar-item-page
 title: Seagull S6 Original
-itemtype: acoustic-guitar
+itemtype: acoustic-guitar-inrepair
 order: 36
 brand: seagull
 serial: CC130210303
