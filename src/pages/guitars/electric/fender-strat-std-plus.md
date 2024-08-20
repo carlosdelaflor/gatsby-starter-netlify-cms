@@ -2,7 +2,7 @@
 templateKey: guitar-item-page
 title: Fender Strat. Std. Plus Top
 itemtype: electric-guitar
-order: 52
+order: 81
 brand: fender
 price: S/. 2,790.00
 condition: Usada en muy buen estado (9/10)

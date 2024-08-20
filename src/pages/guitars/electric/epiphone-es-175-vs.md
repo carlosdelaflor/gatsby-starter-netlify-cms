@@ -4,7 +4,7 @@ title: Epiphone ES-175 + CASE
 itemtype: electric-guitar
 order: 51
 brand: epiphone
-price: S/. 2,430.00
+price: S/. 2,390.00
 condition: Usada, muy buen estado (9.3/10)
 description: Guitarra Epiphone ES 175 en Venta!, Lima, Peru
 contactPhone: 51992780348
