@@ -18,7 +18,6 @@ image5: /img/guitars-sold/epiphone-dot-royale/epiphone-dot-royale-05-sold.jpg
 image6: /img/guitars-sold/epiphone-dot-royale/epiphone-dot-royale-06-sold.jpg
 image7: /img/guitars-sold/epiphone-dot-royale/epiphone-dot-royale-07-sold.jpg
 image8: /img/guitars-sold/epiphone-dot-royale/epiphone-dot-royale-08-sold.jpg
-image9: /img/guitars-sold/epiphone-dot-royale/epiphone-dot-royale-09-sold.jpg
 keywords: epiphone DOT, epiphone ES 335, epiphone ES-335
 
 ---

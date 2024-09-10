@@ -18,7 +18,6 @@ image5: /img/guitars-sold/epiphone-dot-vs-2/epiphone-dot-vs-2-05-sold.jpg
 image6: /img/guitars-sold/epiphone-dot-vs-2/epiphone-dot-vs-2-06-sold.jpg
 image7: /img/guitars-sold/epiphone-dot-vs-2/epiphone-dot-vs-2-07-sold.jpg
 image8: /img/guitars-sold/epiphone-dot-vs-2/epiphone-dot-vs-2-08-sold.jpg
-image9: /img/guitars-sold/epiphone-dot-vs-2/epiphone-dot-vs-2-09-sold.jpg
 keywords: epiphone DOT, epiphone ES 335, epiphone ES-335
 
 ---
