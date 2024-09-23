@@ -2,7 +2,7 @@
 templateKey: guitar-item-page
 title: Yamaha FG-750S
 itemtype: acoustic-guitar
-order: 33
+order: 57
 brand: yamaha
 price: S/. 1,390.00
 condition: Usada en buen estado (8.9/10)
