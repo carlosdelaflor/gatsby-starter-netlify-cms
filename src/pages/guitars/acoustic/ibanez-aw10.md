@@ -32,7 +32,7 @@ Posee una tapa solida de sitka spruce y lados y fondo de mahogany.
 
 * Tipo: Dreadnought
 * Tapa frontal: Tapa sólida de sitka spruce (abeto)
-* Lados y tapa trasera: Mahogany (cahoba)
+* Lados y tapa trasera: Mahogany (caoba)
 * Acabado: Poliuretano brillante
 * Puente: Palorosa (rosewood) con cejilla compensada
 * Color: Natural
