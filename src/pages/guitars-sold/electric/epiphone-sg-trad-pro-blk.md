@@ -18,7 +18,6 @@ image5: /img/guitars-sold/epiphone-sg-trad-pro-blk/epiphone-sg-trad-pro-05-sold.
 image6: /img/guitars-sold/epiphone-sg-trad-pro-blk/epiphone-sg-trad-pro-06-sold.jpg
 image7: /img/guitars-sold/epiphone-sg-trad-pro-blk/epiphone-sg-trad-pro-07-sold.jpg
 image8: /img/guitars-sold/epiphone-sg-trad-pro-blk/epiphone-sg-trad-pro-08-sold.jpg
-image9: /img/guitars-sold/epiphone-sg-trad-pro-blk/epiphone-sg-trad-pro-09-sold.jpg
 keywords: epiphone SG, epiphone SG standard, epiphone SG 60s, epiphone sg traditional PRO, epiphone sg pro
 
 ---

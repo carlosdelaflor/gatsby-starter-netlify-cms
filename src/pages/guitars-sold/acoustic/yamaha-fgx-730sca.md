@@ -10,14 +10,14 @@ description: Guitarra Yamaha FGX-730SCA en Venta!, Lima, Peru
 contactPhone: 51992780348
 date: 2016-12-17T15:04:10.000Z
 status: vendido
-image1: /img/guitars/yamaha-fgx-730sca/yamaha-fgx730sca-01-sold.jpg
-image2: /img/guitars/yamaha-fgx-730sca/yamaha-fgx730sca-02-sold.jpg
-image3: /img/guitars/yamaha-fgx-730sca/yamaha-fgx730sca-03-sold.jpg
-image4: /img/guitars/yamaha-fgx-730sca/yamaha-fgx730sca-04-sold.jpg
-image5: /img/guitars/yamaha-fgx-730sca/yamaha-fgx730sca-05-sold.jpg
-image6: /img/guitars/yamaha-fgx-730sca/yamaha-fgx730sca-06-sold.jpg
-image7: /img/guitars/yamaha-fgx-730sca/yamaha-fgx730sca-07-sold.jpg
-image8: /img/guitars/yamaha-fgx-730sca/yamaha-fgx730sca-08-sold.jpg
+image1: /img/guitars-sold/yamaha-fgx-730sca/yamaha-fgx730sca-01-sold.jpg
+image2: /img/guitars-sold/yamaha-fgx-730sca/yamaha-fgx730sca-02-sold.jpg
+image3: /img/guitars-sold/yamaha-fgx-730sca/yamaha-fgx730sca-03-sold.jpg
+image4: /img/guitars-sold/yamaha-fgx-730sca/yamaha-fgx730sca-04-sold.jpg
+image5: /img/guitars-sold/yamaha-fgx-730sca/yamaha-fgx730sca-05-sold.jpg
+image6: /img/guitars-sold/yamaha-fgx-730sca/yamaha-fgx730sca-06-sold.jpg
+image7: /img/guitars-sold/yamaha-fgx-730sca/yamaha-fgx730sca-07-sold.jpg
+image8: /img/guitars-sold/yamaha-fgx-730sca/yamaha-fgx730sca-08-sold.jpg
 keywords: yamaha fg, yamaha fg730s, yamaha fg-730s, yamaha fgx730sca, yamaha fgx-730sca
 ---
 Les presentamos esta guitarra electroacústica lista para el escenario, presenta leves detalles de uso en la parte frontal, completamente funcional.
