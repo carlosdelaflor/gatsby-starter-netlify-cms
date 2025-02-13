@@ -31,7 +31,7 @@ Si hay una cosa por la que la Custom es conocida, es por su facilidad para tocar
 
 * Construcción: Cuerpo sólido con tapa de arce.
 * Construcción mástil: Mástil encolado
-* Color: Ebony
+* Color: Antique Ivory
 * Número de cuerdas: 6
 * Número de trastes: 22
 * Escala: 24,75"

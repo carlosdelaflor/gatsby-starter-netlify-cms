@@ -1,6 +1,6 @@
 ---
 templateKey: guitar-item-page
-title: Ibanez AC-30
+title: Ibanez AC-30 Artwood
 itemtype: acoustic-guitar
 order: 59
 brand: ibanez

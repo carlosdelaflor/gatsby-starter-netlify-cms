@@ -1,7 +1,7 @@
 ---
 templateKey: guitar-item-page
 title: Yamaha FG-830
-itemtype: acoustic-guitar
+itemtype: acoustic-guitar-inrepair
 order: 61
 brand: yamaha
 price: S/. 1,490.00
