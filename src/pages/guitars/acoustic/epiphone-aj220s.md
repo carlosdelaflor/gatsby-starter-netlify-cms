@@ -2,7 +2,7 @@
 templateKey: guitar-item-page
 title: Epiphone AJ-220S
 itemtype: acoustic-guitar
-order: 12
+order: 110
 brand: epiphone
 serial: CC130210303
 price: S/. 870.00
