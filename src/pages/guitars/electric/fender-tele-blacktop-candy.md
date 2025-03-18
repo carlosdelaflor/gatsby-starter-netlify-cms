@@ -4,7 +4,7 @@ title: Fender Telecaster Blacktop
 itemtype: electric-guitar
 order: 109
 brand: fender
-price: S/. 2,390.00
+price: S/. 2,290.00
 condition: Usada en buen estado (8.0/10)
 description: Guitarra Fender Telecaster Blacktop!, Lima, Peru
 contactPhone: 51992780348

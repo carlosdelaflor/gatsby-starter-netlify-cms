@@ -4,7 +4,7 @@ title: Epiphone Les Paul Std PRO Plus Top
 itemtype: electric-guitar
 order: 101
 brand: epiphone
-price: S/. 2,060.00
+price: S/. 1,990.00
 condition: Usada en muy buen estado (9/10)
 description: Guitarra Epiphone Les Paul Standard Pro en Venta!, Lima, Peru
 contactPhone: 51992780348

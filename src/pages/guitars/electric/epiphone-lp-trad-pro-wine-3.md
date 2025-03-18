@@ -4,7 +4,7 @@ title: Epiphone LP Traditional PRO
 itemtype: electric-guitar
 order: 97
 brand: epiphone
-price: S/. 1,890.00
+price: S/. 1,850.00
 condition: Usada en muy buen estado (9/10)
 description: Guitarra Epiphone Les Paul Traditional Pro en Venta!, Lima, Peru
 contactPhone: 51992780348

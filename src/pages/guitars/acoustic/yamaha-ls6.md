@@ -39,7 +39,7 @@ La Yamaha LS6-ARE es una guitarra electroacústica brillante, con una asombrosa 
 * Tipo de bracing: Escalopado en X
 * Puente: Palisandro (Rosewood) con hueso sintético
 * Color: Natural
-* Mastil: Mahogany + Rosewood 5ply
+* Mastil: Mahogany + Rosewood
 * Diapason: Palisandro (Rosewood)
 * Electronica: Passive System + SRT Piezo Pickup
 * Entonadores: Die-cast Gold

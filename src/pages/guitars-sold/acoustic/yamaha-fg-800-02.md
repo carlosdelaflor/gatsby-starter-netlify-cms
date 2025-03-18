@@ -29,7 +29,7 @@ Con un diseño de bracing escalopado que te ofrece un sonido de calidad, una gui
 
 * Serie: Yamaha FG
 * Tapa frontal: Tapa sólida de sitka spruce
-* Lados y tapa trasera: Nato laminado (similar a mahoganey)
+* Lados y tapa trasera: Nato laminado (similar a mahogany)
 * Acabado: Brillante
 * Tipo de bracing: Escalopado en X
 * Puente: Rosewood con hueso sintético

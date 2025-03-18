@@ -1,10 +1,10 @@
 ---
 templateKey: guitar-item-page
-title: Epiphone LP Custom Artisan Lee Malia
+title: Epiphone Les Paul Custom Artisan Lee Malia
 itemtype: electric-guitar
 order: 84
 brand: epiphone
-price: S/. 2,950.00
+price: S/. 2,850.00
 condition: Usada en buen estado (8.5/10)
 description: Guitarra Epiphone Les Paul Custom Artisan en Venta!, Lima, Peru
 contactPhone: 51992780348

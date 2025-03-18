@@ -1,10 +1,10 @@
 ---
 templateKey: guitar-item-page
-title: Epiphone LP Custom PRO
+title: Epiphone Les Paul Custom PRO
 itemtype: electric-guitar
 order: 110
 brand: epiphone
-price: S/. 2,690.00
+price: S/. 2,590.00
 condition: Usada como nueva (9.7/10)
 description: Guitarra Epiphone Les Paul Custom PRO en Venta!, Lima, Peru
 contactPhone: 51992780348
