@@ -75,13 +75,13 @@ const GuitarListPageTemplate = ({
             let newlySelectedElectrics = {};
             selectedBrands.forEach(selectedBrand => {
                 const brand = selectedBrand.value;
-                if (Object.keys({selectedAcoustics}).length > 0) {
+                if (Object.keys(selectedAcoustics).length > 0) {
                     const foundAcousticByBrand = sortedAcoustics[brand];
                     if (!!foundAcousticByBrand && foundAcousticByBrand.length > 0)
                         newlySelectedAcoustics[brand] = [...foundAcousticByBrand];
                     
                 }
-                if (Object.keys({selectedElectrics}).length > 0) {
+                if (Object.keys(selectedElectrics).length > 0) {
                     const foundelectricsByBrand = sortedElectrics[brand];
                     if (!!foundelectricsByBrand && foundelectricsByBrand.length > 0)
                         newlySelectedElectrics[brand] = [...foundelectricsByBrand];

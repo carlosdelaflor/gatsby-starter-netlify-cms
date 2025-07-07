@@ -1,12 +1,12 @@
 ---
 templateKey: guitar-item-page
 title: Seagull S6 Original
-itemtype: acoustic-guitar-inrepair
+itemtype: acoustic-guitar
 order: 36
 brand: seagull
 serial: CC130210303
-price: S/. 1,550.00
-condition: Usada en muy buen estado (9/10)
+price: S/. 1,590.00
+condition: Usada en muy buen estado (8.9/10)
 description: Guitarra Seagull S6 en Venta!, Lima, Peru
 contactPhone: 51992780348
 date: 2023-02-28T15:04:10.000Z
