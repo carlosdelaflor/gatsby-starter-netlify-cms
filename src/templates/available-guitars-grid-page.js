@@ -3,12 +3,30 @@ import PropTypes from "prop-types";
 import Layout from "../components/Layout";
 import GuitarListPageTemplate from "./guitar-grid-page";
 import { graphql } from "gatsby";
+import { Helmet } from "react-helmet";
+import { useLocation } from '@reach/router';
+import logo from "../img/tuguitarra-logo-v2.png";
 
 const AvailableGuitarsListPage = ({ data }) => {
+    const location = useLocation();
+    const domainName = 'http://tuguitarra.pe';
     const { acoustics, electrics } = data;
     const indexPageContent = data.indexPageContent.frontmatter;
+    const ogUrl = domainName + location.pathname;
+    const ogImageSrc = domainName + logo;
     return (
       <Layout>
+         <Helmet>
+            <title>EN STOCK</title>
+            <meta name="description" content="Guitarras Disponibles" />
+            <meta property="og:type" content="product" />
+            <meta property="product:category" content="Arts & Entertainment > Hobbies & Creative Arts > Musical Instruments > String Instruments > Guitars" />
+            <meta property="og:title" content="Guitarras Disponibles" />
+            <meta property="og:url" content={`${ogUrl}`} />
+            <meta property="og:image" content={`${ogImageSrc}`}/>
+            <meta property="og:image:width" content="500"/>
+            <meta property="og:image:height" content="307" />
+        </Helmet>
         <GuitarListPageTemplate 
             pageContent={indexPageContent}
             acoustics={acoustics.edges}

@@ -7,6 +7,8 @@ import { Helmet } from "react-helmet";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import "../styles/slick-theme.css";
+import { getSrc } from "gatsby-plugin-image";
+import { useLocation } from '@reach/router';
 
 // eslint-disable-next-line
 export const GuitarItemPageTemplate = ({
@@ -69,21 +71,30 @@ GuitarItemPageTemplate.propTypes = {
 };
 
 const GuitarItemPage = ({ data }) => {
-    const { frontmatter: guitarItem, html: guitarHtmlDetail } = data.markdownRemark;
+    const location = useLocation();
+    const domainName = 'http://tuguitarra.pe';
+    const { frontmatter: guitarItem, html: guitarHtmlDetail} = data.markdownRemark;
+    const ogUrl = domainName + location.pathname;
+    const ogImageSrc = domainName + getSrc(guitarItem.smallImage1);
+    const ogPrice = guitarItem.price.replace('S/. ', '');
     return (
       <Layout>
         <GuitarItemPageTemplate 
           guitarDetailContent={guitarHtmlDetail}
           helmet={
-            <Helmet titleTemplate="Guitarra %s">
+            <Helmet titleTemplate="%s">
               <title>{`${guitarItem.title}`}</title>
-              <meta
-                name="description"
-                content={`${guitarItem.description}`}
-              />
-              <meta 
-                name="keywords"
-                content={`${guitarItem.keywords}`}/>
+              <meta name="description"content={`${guitarItem.description}`} />
+              <meta name="keywords" content={`${guitarItem.keywords}`}/>
+              <meta property="og:type" content="product" />
+              <meta property="product:category" content="Arts & Entertainment > Hobbies & Creative Arts > Musical Instruments > String Instruments > Guitars" />
+              <meta property="og:title" content={`${guitarItem.title}`} />
+              <meta property="og:url" content={`${ogUrl}`} />
+              <meta property="og:image" content={`${ogImageSrc}`}/>
+              <meta property="og:image:width" content="400"/>
+              <meta property="og:image:height" content="635" />
+              <meta property="og:price:amount" content={`${ogPrice}`}/>
+              <meta property="og:price:currency" content="SOL"/>
             </Helmet>
           }
           guitarItem={guitarItem} />
