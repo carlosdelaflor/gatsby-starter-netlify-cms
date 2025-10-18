@@ -1,6 +1,6 @@
 ---
 templateKey: guitar-item-page
-title: Yamaha FGX-800
+title: Yamaha FGX-800C
 itemtype: acoustic-guitar
 order: 113
 brand: yamaha
