@@ -1,11 +1,11 @@
 ---
 templateKey: guitar-item-page
-title: Epiphone Masterbuilt AJ-500M
+title: Epiphone Masterbilt AJ-500M
 itemtype: acoustic-guitar
 order: 49
 brand: epiphone
 serial: CC130210303
-price: S/. 2,390.00
+price: S/. 2,490.00
 condition: Usada casi nueva (9.5/10)
 description: Guitarra Epiphone Masterbuilt AJ-500 en Venta!, Lima, Peru
 contactPhone: 51992780348
@@ -21,7 +21,7 @@ image8: /img/guitars/epiphone-aj500m/epiphone-aj500m-08.jpg
 image9: /img/guitars/epiphone-aj500m/epiphone-aj500m-09.jpg
 image10: /img/guitars/epiphone-aj500m/epiphone-aj500m-10.jpg
 image11: /img/guitars/epiphone-aj500m/epiphone-aj500m-11.jpg
-keywords: epiphone dreadnaught, epiphone masterbuilt, epiphone masterbuilt DR-500, epiphone DR-500
+keywords: epiphone dreadnaught, epiphone masterbilt, epiphone masterbilt DR-500, epiphone DR-500
 ---
 Epiphone revive el prestigio de sus guitarras de los años 30 con la serie Masterbilt Acoustic. Estas guitarras cuentan con una construcción de madera maciza y una distintiva forma de clavijero estilo años 30 con el histórico logotipo de Epiphone e incrustaciones de "punto" de nácar.
 
@@ -29,7 +29,7 @@ La clásica forma dreadnought de hombros redondos de la AJ-500M que utilizaron l
 
 ## Características técnicas
 
-* Serie: Epiphone Masterbuilt
+* Serie: Epiphone Masterbilt
 * Tipo: Advance Jumbo
 * Tapa frontal: Tapa sólida de Abeto (sitka spruce)
 * Lados y tapa trasera: Caoba sólido (Magohany)
