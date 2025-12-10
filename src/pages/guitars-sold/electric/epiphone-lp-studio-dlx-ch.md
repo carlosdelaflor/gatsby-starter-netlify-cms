@@ -1,6 +1,6 @@
 ---
 templateKey: guitar-item-page
-title: Epiphone LP c Deluxe
+title: Epiphone LP Studio Deluxe
 itemtype: electric-guitar
 order: 95
 brand: epiphone
