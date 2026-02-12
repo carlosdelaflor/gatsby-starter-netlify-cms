@@ -29,6 +29,9 @@ La Fender Sonoran S viene con Arce y palo de rosa en el brazo, con esto se logra
 
 El cuerpo de la guitarra es en pino sólido, y las tapas laterales y traseras en Caoba laminada, esta es una práctica común en este tipo de guitarras, es una buena forma de conseguir maderas resistentes y que mantengan sus características de calidad a un costo relativamente bajo.
 
+## Notas
+* Precio solo incluye la guitarra
+
 ## Características técnicas
 
 * Serie: California Series

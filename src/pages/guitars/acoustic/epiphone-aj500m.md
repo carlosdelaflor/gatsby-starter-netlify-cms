@@ -27,6 +27,9 @@ Epiphone revive el prestigio de sus guitarras de los años 30 con la serie Maste
 
 La clásica forma dreadnought de hombros redondos de la AJ-500M que utilizaron las leyendas de la música moderna. Con hombros elegantemente inclinados, fondo y aros de caoba sólida y una tapa sólida de abeto Sitka, la AJ-500M cubre una habitación con sonidos profundos, ricos y tonos redondeados.
 
+## Notas
+* Precio solo incluye la guitarra
+
 ## Características técnicas
 
 * Serie: Epiphone Masterbilt

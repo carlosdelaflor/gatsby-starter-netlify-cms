@@ -28,6 +28,9 @@ La Epiphone Les Paul Custom Pro Sweetwater Exclusive ofrece una estética única
 
 Si hay una cosa por la que la Custom es conocida, es por su facilidad para tocar. Tanto si eres un shredder experimentado como un rítmico relajado, la colocación de los dedos es sencilla en un diapasón ebony al que se le ha dado el tratamiento de slim taper. En la parte alta, tienes acceso ilimitado para alcanzar líneas solistas estratosféricas, y en la parte baja, puedes tocar acordes con comodidad durante horas. Esto está a punto de cambiar lo que pensabas sobre tocar la guitarra.
 
+## Notas
+* Precio solo incluye la guitarra
+
 ## Características técnicas
 
 * Construcción: Cuerpo sólido con tapa de arce.

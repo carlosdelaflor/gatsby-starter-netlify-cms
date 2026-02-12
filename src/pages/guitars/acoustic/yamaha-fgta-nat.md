@@ -27,7 +27,10 @@ La Yamaha FG-TA TransAcoustic recrea esa increíble experiencia sin necesidad de
 
 El nuevo varetaje escalopeado proporciona un tono acústico de gran riqueza y volumen.
 
-Incorpora Reverb/chorus integrados en la guitarra, con un sonido magnífico y sin necesidad de amplificación ni efectos externos. Además, ofrece un excepcional tono de guitarra acústica, con un confort superior y una calidad reconocida a nivel mundial
+Incorpora Reverb/chorus integrados en la guitarra, con un sonido magnífico y sin necesidad de amplificación ni efectos externos. Además, ofrece un excepcional tono de guitarra acústica, con un confort superior y una calidad reconocida a nivel mundial.
+
+## Notas
+* Precio solo incluye la guitarra
 
 ## Características técnicas
 

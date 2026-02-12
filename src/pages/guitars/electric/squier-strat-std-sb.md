@@ -25,6 +25,9 @@ keywords: squier stratocaster, squier standard, squier stratocaster standard
 ---
 La Squier Standard Stratocaster suena genial, con una sensación tradicional y un tacto moderno. Características como el mástil estrecho y el diapasón de palo rosa con 22 trastes hacen que sea fácil de tocar, y las clavijas die-cast están engrasadas de por vida para años de servicio sin problemas y afinación. Un puente de dos ejes con selletas satinadas ofrece un tremolo de buen funcionamiento, ¡y las pastillas alnico de bobina simple suenan genial!
 
+## Notas
+* Precio solo incluye la guitarra
+
 ## Características técnicas
 
 * Forma de Cuerpo: Stratocaster

@@ -27,6 +27,9 @@ La Fender CD-320AS es una guitarra dreadnought totalmente sólida fabricada en e
 
 Posee el dorso y laterales de caoba maciza, acabado natural brillante, mástil de caoba con sistema de alma de doble acción y acabado brillante; diapasón de Palisandro de 20 trastes con Marcadores de punto perladas blancas de 3 mm; puente de Palisandro (Rosewood) con selleta compensada de hueso y pins del puente negros con puntos de nácar; pala con tapa de palisandro e incrustación con el logo Fender en nácar y herrajes dorados.
 
+## Notas
+* Precio solo incluye la guitarra
+
 ## Características técnicas
 
 * Serie: Classic Design Series

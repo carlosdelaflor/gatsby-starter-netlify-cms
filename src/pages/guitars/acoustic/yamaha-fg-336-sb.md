@@ -23,7 +23,10 @@ image11: /img/guitars/yamaha-fg-336-sb/yamaha-fg-336-sb-11.jpg
 keywords: yamaha fg, yamaha FG-336, yamaha FG336, yamaha FG336SB, yamaha fs
 ---
 
-Les presentamos esta yamaha vintage en muy buenas condiciones, la Yamaha FG-336SB posee un mastil tipo V muy comodo, con un pickguard estilo gibson, clavijeros con emblema Yamaha vintage y binding por todo el cuerpo, posee síntomas de uso, pero en muy buen estado
+Les presentamos esta yamaha vintage en muy buenas condiciones, la Yamaha FG-336SB posee un mastil tipo V muy comodo, con un pickguard estilo gibson, clavijeros con emblema Yamaha vintage y binding por todo el cuerpo, posee síntomas de uso, pero en muy buen estado.
+
+## Notas
+* Precio solo incluye la guitarra
 
 ## Características técnicas
 

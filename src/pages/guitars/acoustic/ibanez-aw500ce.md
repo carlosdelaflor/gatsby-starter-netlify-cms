@@ -30,6 +30,9 @@ El estilo de cuerpo tipo Dreadnaught con graves y bajos muy bien pronunciados y 
 
 Además posse un corte en el cuerpo para mejor accesso al diapason, con sistema Fishman creado para este modelo.
 
+## Notas
+* Precio solo incluye la guitarra
+
 ## Características técnicas
 
 * Tipo: Dreadnaught

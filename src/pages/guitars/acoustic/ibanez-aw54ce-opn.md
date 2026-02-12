@@ -28,6 +28,9 @@ La guitarra electroacústica Ibanez Artwood AW54CE es un modelo dreadnought cuta
 
 Con estas características ofrece lo mejor de los Dreadnoughts: gran proyección acústica, graves potentes y ricos armónicos. Responde bien en cualquier estilo en que se use al tocar, siendo muy efectivo con púa.
 
+## Notas
+* Precio solo incluye la guitarra
+
 ## Características técnicas
 
 * Tipo: Dreadnought con cutaway

@@ -27,6 +27,9 @@ La FSX-700SC incorpora la impecable calidad de construcción de Yamaha, con un c
 
 Las FS700S y FSX700SC son perfectas para personas con complexiones pequeñas que buscan todo el sonido de la serie FG.
 
+## Notas
+* Precio solo incluye la guitarra
+
 ## Características técnicas
 
 * Serie: Yamaha FS

@@ -29,6 +29,9 @@ La Yamaha LS6-ARE es una guitarra electroacústica brillante, con una asombrosa 
 
 ¿Te gusta actuar con amplificación? ¡No hay problema! Esta guitarra cuenta con una pastilla SRT Zero Impact de gran calidad, que te permitirá subir al escenario y difundir tu música entre las masas. También cuenta con una impecable facilidad de ejecución, por lo que tendrás completa libertad de escribir música en tu propio estilo. Si quieres empezar tu viaje musical, esta guitarra está hecha para ti.
 
+## Notas
+* Precio solo incluye la guitarra
+
 ## Características técnicas
 
 * Serie: Yamaha L (Luxury)

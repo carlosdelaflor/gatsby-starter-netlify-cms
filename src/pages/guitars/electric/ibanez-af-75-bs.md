@@ -23,14 +23,15 @@ image11: /img/guitars/ibanez-af-75-bs/ibanez-af-75-bs-11.jpg
 keywords: ibanez artcore, ibanez AF 175, ibanez AF 175 BS
 
 ---
-Ibanez introdujo la serie Artcore en el año 2002, la Ibanez AF-75 ha sido la guitarra de cuerpo hueco preferida por los músicos durante los últimos 10 años. La combinación de la Artcore en cuanto a calidad de manufactura y precio accesible ha creado legiones de fanáticos de diversos géneros tales como blues, country, rock y jazz. 
+Ibanez introdujo la serie Artcore en el año 2002, la Ibanez AF-75 ha sido la guitarra de cuerpo semihueco preferida por los músicos durante los últimos 10 años. La combinación de la Artcore en cuanto a calidad de manufactura y precio accesible ha creado legiones de fanáticos de diversos géneros tales como blues, country, rock y jazz. 
 
 Los músicos pueden notar la pureza de un instrumento para jazz old school y también para rock en un híbrido semi-hueco. Artcore es una serie de alto prestigio por su tono, sustain y por la manera de mantener su afinación y por cómo la serie sigue yendo más allá de los límites en cuando a creación de una guitarra.
 
+## Notas
+* Precio solo incluye la guitarra
 
 ## Características técnicas
 
-* Case: Incluido
 * Construcción: Cuerpo de arce laminado
 * Construcción mástil: Mástil encolado
 * Color: Brown Sunburst

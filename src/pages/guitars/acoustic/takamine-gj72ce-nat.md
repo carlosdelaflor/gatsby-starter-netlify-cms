@@ -24,7 +24,12 @@ image11: /img/guitars/takamine-gj72ce-nat/takamine-gj72ce-nat-11.jpg
 keywords: Takamine GJ72CE, Takamine GJ-72CE, Takamine Jumbo
 ---
 
-Con su poderoso cuerpo estilo jumbo, construcción sólida superior, características visuales impresionantes y electrónica de alta calidad, la GJ72CE es una guitarra electroacústica de primera nivel a un precio insuperable. Entrega todo el volumen y sonido que todo músico espera de una guitarra jumbo. Su cuello delgado proporciona una gran sensación y capacidad de ejecución, mientras que su preamplificador Takamine TK-40D con afinador incorporado, EQ de tres bandas y control de ganancia, mid contour e interruptor de bypass EQ, te dará lo último en versatilidad y calidad de sonido.
+Con su poderoso cuerpo estilo jumbo, construcción sólida superior, características visuales impresionantes y electrónica de alta calidad, la GJ72CE es una guitarra electroacústica de primera nivel a un precio insuperable.
+
+Entrega todo el volumen y sonido que todo músico espera de una guitarra jumbo. Su cuello delgado proporciona una gran sensación y capacidad de ejecución, mientras que su preamplificador Takamine TK-40D con afinador incorporado, EQ de tres bandas y control de ganancia, mid contour e interruptor de bypass EQ, te dará lo último en versatilidad y calidad de sonido.
+
+## Notas
+* Precio solo incluye la guitarra
 
 ## Características técnicas
 

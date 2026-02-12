@@ -24,7 +24,14 @@ image11: /img/guitars/seagull-s6/seagull-s6-11.jpg
 keywords: Seagull S6, Seagull S6 Original
 ---
 
-La Seagull S6 Original es una guitarra con diseño dreadnought excelente para un rasgueo potente y un picking delicado. El cuerpo ofrece unos graves cálidos y unas frecuencias medias definidas, perfectas para acompañamientos. Al mismo tiempo, el mástil de arce garantiza un agarre cómodo a través del diapasón de palisandro de 21 trastes. Equipada con una cejilla y selleta de Graph Tech TUSQ, la guitarra acústica entona de forma limpia y precisa a través de toda la longitud de escala de 648 mm. Adiccionalmente, las clavijas cromadas encapsuladas permiten una afinación precisa de la guitarra. Visualmente, el instrumento se completa con un acabado semibrillante muy fino que resalta agradablemente la veta de la madera de la tapa y el cuerpo.
+La Seagull S6 Original es una guitarra con diseño dreadnought excelente para un rasgueo potente y un picking delicado. El cuerpo ofrece unos graves cálidos y unas frecuencias medias definidas, perfectas para acompañamientos.
+
+Al mismo tiempo, el mástil de arce garantiza un agarre cómodo a través del diapasón de palisandro de 21 trastes.
+
+Equipada con una cejilla y selleta de Graph Tech TUSQ, la guitarra acústica entona de forma limpia y precisa a través de toda la longitud de escala de 648 mm. Adiccionalmente, las clavijas cromadas encapsuladas permiten una afinación precisa de la guitarra. Visualmente, el instrumento se completa con un acabado semibrillante muy fino que resalta agradablemente la veta de la madera de la tapa y el cuerpo.
+
+## Notas
+* Precio solo incluye la guitarra
 
 ## Características técnicas
 

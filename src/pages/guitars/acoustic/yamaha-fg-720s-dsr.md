@@ -25,6 +25,9 @@ keywords: yamaha fg, yamaha fg720s, yamaha fg-720s, yamaha fs, yamaha fs720s, ya
 
 La Yamaha FG-720S es de gran tamaño por lo que el volumen y definición de sonido estan asegurados, posee trastes tipo Jumbo, usa clavijas metálicas hechas bajo el proceso Die-Cast, con lo cual sabemos que van a durar bastante, su tapa superior esta construida en Abeto sólido, su tapa trasera y sus tapas laterales están construidas en madera de Caoba, el mástil y el puente están construidos en palo de rosa, esta configuración de maderas es normal para las guitarra de esta gama, nos garantiza un sonido brillante,  de alta duración y la calidad como tal del instrumento.
 
+## Notas
+* Precio solo incluye la guitarra
+
 ## Características técnicas
 
 * Serie: Yamaha FG

@@ -28,6 +28,9 @@ Concebida originalmente por Gibson en 1958, la Flying V original no despegó com
 
 La Epiphone Flying V de la nueva colección Inspired by Gibson recrea el clásico de 1958 con un par de humbuckers Epiphone ProBucker para ese tono vintage, clavijas Epiphone Vintage Deluxe y el logotipo de Epiphone vintage adornando el clavijero. Este modelo Epiphone Inspired by Gibson Original tiene un mástil que fue construido para la comodidad, cejilla GraphTech NuBone y potenciómetros CTS.
 
+## Notas
+* Precio solo incluye la guitarra
+
 ## Características técnicas
 
 * Construcción: Cuerpo sólido de caoba.

@@ -28,6 +28,9 @@ La AW-10 nos presenta todo el poder del formato dreadnought, con un bracing esca
 
 Posee una tapa solida de sitka spruce y lados y fondo de mahogany.
 
+## Notas
+* Precio solo incluye la guitarra
+
 ## Características técnicas
 
 * Tipo: Dreadnought

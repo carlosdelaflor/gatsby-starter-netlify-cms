@@ -25,6 +25,8 @@ keywords: epiphone SG, epiphone SG standard, epiphone SG 60s, epiphone sg tradit
 ---
 Presentada en la nueva colección Inspired by Gibson, la Epiphone SG Standard recrea el legendario clásico modelo Gibson SG de los años 60 que impulsó la primera generación de bandas de hard rock y heavy metal, presenta el histórico perfil SG con golpeador «batwing» y está impulsado por humbuckers Alnico Classic PRO con electrónica CTS (con sistema Push/pull en cada volumen para cambio a single coil) y clavijas Epiphone Deluxe al mejor estilo vintage, ademas de un impecable binding blanco por todo el mastil.
 
+## Notas
+* Precio solo incluye la guitarra
 
 ## Características técnicas
 

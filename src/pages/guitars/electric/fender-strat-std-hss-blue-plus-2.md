@@ -1,6 +1,6 @@
 ---
 templateKey: guitar-item-page
-title: Fender Strat. Std. HSS Plus Top
+title: Fender Strat. Standard (MEX) Plus Top
 itemtype: electric-guitar
 order: 160
 brand: fender
@@ -27,6 +27,8 @@ La Fender Stratocaster Standard HSS Limited Edition destaca por su impresionante
 
 Se ha diseñado pensando en la facilidad de interpretación, con un mástil de arce con una moderna forma de "C" que se adapta cómodamente a la mano. Este perfil de mástil es ideal para instrumentistas de todos los niveles, ofreciendo una experiencia de juego suave y rápida. El acabado satinado del mástil mejora aún más la facilidad de ejecución, reduciendo la fricción y permitiendo un movimiento sin esfuerzo arriba y abajo del diapasón. Además, la guitarra está equipada con 22 trastes medium jumbo, que hacen que doblar las notas sea más fácil y expresivo. Esta combinación de un perfil de mástil cómodo, acabado satinado y trastes medium jumbo asegura que puedas tocar durante horas sin fatiga.
 
+## Notas
+* Precio solo incluye la guitarra
 
 ## Características técnicas
 

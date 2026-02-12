@@ -25,6 +25,9 @@ keywords: squier stratocaster, squier vintage modified, squier stratocaster vint
 ---
 La Vintage Modified ’70s Stratocaster tiene el aspecto distintivo de las indispensables guitarras Fender de los años 70s con diapasón de palo rosa con un clasico acabado colo negro brillante. Entre otras características se incluyen un cuerpo de Basswood (Tilo), mástil de Maple (Arce), diapasón de 9-5" de radio con 21 trastes medium jumbo e incrustaciones de punto, tres pastillas de bobina simple Duncan Designed™ con cubiertas en blancas con logotipo, selector de pastillas de cinco posiciones, golpeador de tres capas, puente de trémolo sincronizado estilo vintage con brazo del trémolo estilo vintage.
 
+## Notas
+* Precio solo incluye la guitarra
+
 ## Características técnicas
 
 * Forma de Cuerpo: Stratocaster

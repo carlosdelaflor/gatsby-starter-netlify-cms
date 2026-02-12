@@ -26,6 +26,9 @@ keywords: epiphone aj200, epiphone aj200sce, gibson j45
 La Epiphone AJ-200SCE posee una forma de slope shoulder con una caja inferior más grande y la parte superior de la caja pequeña y redonda que da una voz única a este nuevo añadido de la familia de guitarras Advanced Jumbo de Epiphone.
 Si eres un entusiaste del sonido de las J45 esta guitarra es para ti!.
 
+## Notas
+* Precio solo incluye la guitarra
+
 ## Características técnicas
 
 * Tipo: Slope shoulder dreadnought

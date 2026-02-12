@@ -27,6 +27,9 @@ La FG800 es el modelo acústico estándar de Yamaha y está dirigida a todos aqu
 
 Con un diseño de bracing escalopado que te ofrece un sonido de calidad, una guitarra que destaca y convence por su sonido estable y equilibrado.
 
+## Notas
+* Precio solo incluye la guitarra
+
 ## Características técnicas
 
 * Serie: Yamaha FG

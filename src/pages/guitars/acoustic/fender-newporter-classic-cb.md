@@ -24,8 +24,13 @@ image11: /img/guitars/fender-newporter-classic-cb/fender-newporter-classic-cb-11
 keywords: fender dreadnaught, fender Newporter, fender California Series
 ---
 La exclusiva forma de la Newporter de tamaño mediano le da un sonido equilibrado, articulado y potente, perfecta para respaldar a cualquier cantante. Diseñada para tocarse en vivo, con una tapa de abeto sólida, trasera y aros de caoba también sólidos, pala de 6 en línea pintada a juego y un ribete y roseta de arce, le dan a esta guitarra un toque de estilo electrizante. Poco convencional.
+
 Cuenta con refuerzos internos optimizados para reducir la masa y para una resonancia superior y un sistema de preamplificador diseñado por Fender y Fishman® diseñado para este modelo de cuerpo Newporter que hace que sea fácil de enchufarla sin sacrificar el sonido natural de la guitarra.
+
 Su mástil de caoba liviano presenta un perfil en forma de "C" muy cómodo y de perfil delgado, adecuado para cualquier estilo de tocar, y su diapasón y puente de Pau Ferro aumentan aún más el tono vibrante de este instrumento. Con su excelente dinámica, su aspecto distintivo y su inconfundible estilo Fender, la Newporter Special es un instrumento que desafía con orgullo la tradición de los instrumentos acústicos.
+
+## Notas
+* Precio solo incluye la guitarra
 
 ## Características técnicas
 

@@ -25,6 +25,9 @@ keywords: squier stratocaster, squier 40th, squier stratocaster 40th, squier str
 ---
 Los primeros instrumentos que llevaron el nombre de Squier se introdujeron en 1982, respondiendo a la demanda de diseños genuinos de Fender a precios accesibles. La colección Squier 40th Anniversary celebra el viaje de 40 años de la marca de nivel de entrada de Fender con ediciones especiales de Telecaster, Stratocaster, Jazzmaster, Precision Bass y Jazz Bass, todos disponibles en las variantes Gold Edition y Vintage Edition. La Stratocaster 40th Anniversary, Vintage Edition de Squier es un modelo tributo conmovedor adornado con una colección de características clásicas para los entusiastas de Squier con mentalidad retro. Con herrajes de cromo envejecido, un golpeador de aluminio anodizado, un mástil de arce teñido vintage, una placa de mástil de aniversario grabada y un acabado satinado en todas partes, esta Strat honra la herencia del catálogo de Squier y su ascendencia. Los refinamientos de este modelo conmemorativo incluyen un perfil de mástil en forma de "C" delgado y cómodo para una sensación fácil de tocar, clavijas de estilo vintage y puente de trémolo sincronizado de 6 selletas para un rendimiento y estilo auténticos, y pastillas de bobina sencilla con imanes de alnico 5 para un tono de Stratocaster familiar.
 
+## Notas
+* Precio solo incluye la guitarra
+
 ## Características técnicas
 
 * Serie: 40th Anniversary

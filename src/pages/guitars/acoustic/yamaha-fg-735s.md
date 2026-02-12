@@ -23,7 +23,11 @@ image11: /img/guitars/yamaha-fg-735s/yamaha-fg-735s-11.jpg
 keywords: yamaha fg, yamaha fg730s, yamaha fg-735s
 ---
 Les presentamos esta guitarra electroacústica lista para el escenario, presenta leves detalles de uso en la parte frontal, completamente funcional.
+
 La serie FG-700s es probablemente una de las mas exitosas de Yamaha a nivel mundial, este ejemplar ademas de poseer una tapa sólida de sitka nos da un tono muy particular debido a sus lados y fondo de rosewood laminados.
+
+## Notas
+* Precio solo incluye la guitarra
 
 ## Características técnicas
 

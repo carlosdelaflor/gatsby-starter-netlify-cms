@@ -3,7 +3,7 @@ templateKey: guitar-item-page
 title: Gretsch G5438 Pro Jet
 itemtype: electric-guitar
 order: 26
-brand: epiphone
+brand: gretsch
 price: S/. 1650.00
 condition: Semi Nueva (9.7/10)
 description: Guitarra G5438 Pro Jet en Venta!, Lima, Peru

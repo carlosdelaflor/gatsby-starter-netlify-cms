@@ -32,6 +32,9 @@ La comodidad es clave con el mástil de caoba redondeado en forma de C. El diapa
 
 Este J-45 hace que las presentaciones en vivo sean sin dolor con su pastilla bajo el sillín Fishman Sonicore. Controle el volumen y el tono con el preamplificador Sonitone montado en la boca. Otras características incluyen sintonizadores de 3 en un plato con botones de marfil, incrustaciones de puntos de nácar y una tuerca de hueso.
 
+## Notas
+* Precio solo incluye la guitarra
+
 ## Características técnicas
 
 * Serie: Inspired By Gibsom

@@ -25,7 +25,10 @@ keywords: epiphone dreadnaught, epiphone masterbuilt, epiphone masterbuilt DR-50
 ---
 Epiphone revive el prestigio de sus guitarras de los años 30 con la serie Masterbilt Acoustic. Estas guitarras cuentan con una construcción de madera maciza y una distintiva forma de clavijero estilo años 30 con el histórico logotipo de Epiphone e incrustaciones de "alfiler" de nácar.
 
-La Epiphone DR-500M es la combinación definitiva de maderas tonales. Una tapa sólida de abeto Sitka y aros y fondo de caoba de primera calidad producen el clásico sonido dreadnought. La DR-500M hace que el intérprete se sienta tal como suena: enriquesido y potente. Con las clásicas dimensiones de un dreadnought, el DR-500M cubre una habitación con tonos profundos, ricos y redondeados. La hermosa veta de las maderas de la DR-500M se realza con un acabado satinado natural o sombreado de estilo vintage
+La Epiphone DR-500M es la combinación definitiva de maderas tonales. Una tapa sólida de abeto Sitka y aros y fondo de caoba de primera calidad producen el clásico sonido dreadnought. La DR-500M hace que el intérprete se sienta tal como suena: enriquesido y potente. Con las clásicas dimensiones de un dreadnought, el DR-500M cubre una habitación con tonos profundos, ricos y redondeados. La hermosa veta de las maderas de la DR-500M se realza con un acabado satinado natural o sombreado de estilo vintage.
+
+## Notas
+* Precio solo incluye la guitarra
 
 ## Características técnicas
 

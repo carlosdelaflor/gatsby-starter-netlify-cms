@@ -28,6 +28,8 @@ La serie Paramount toma influencias del pasado con el diseño de roseta de los 6
 
 La Fender PM-1E presenta detalles vintage bien pensados, así como la artesanía de un instrumento de alto rendimiento. Hecha con maderas de tonos sólidos de primera calidad, incluyendo la parte posterior y los lados de caoba sólida y la tapa de abeto Sitka sólido y equipado con ariostramiento en "X" festoneado, esta Dreadnought  está diseñada con un tono vibrante y resonante en mente. También presenta un mástil de caoba en forma de "C" de rápido tocado con diapasón de palisandro, ambos diseñados para adaptarse a los estilos de tocado más exigentes.
 
+## Notas
+* Precio solo incluye la guitarra
 
 ## Características técnicas
 

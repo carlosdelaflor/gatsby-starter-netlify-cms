@@ -1,6 +1,6 @@
 ---
 templateKey: guitar-item-page
-title: Fender Tele Standard
+title: Fender Tele Standard (Mex)
 itemtype: electric-guitar
 order: 129
 brand: fender
@@ -24,6 +24,9 @@ keywords: fender telecaster, fender standard telecaster, fender telecaster, fend
 
 ---
 Para guitarristas que aprecian el estilo, la riqueza y versatilidad de sonido, y el valor intrínseco de Fender, la Telecaster Standard es un instrumento clásico con una fantástica combinación de diseño tradicional y características contemporáneas. El venerado estilo de Fender y las actualizaciones modernas pueden combinarse, y este modelo ofrece lo mejor de ambos mundos, en un instrumento ideal para guitarristas de la Telecaster de cualquier nivel. 
+
+## Notas
+* Precio solo incluye la guitarra
 
 ## Características técnicas
 

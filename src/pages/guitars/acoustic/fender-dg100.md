@@ -27,6 +27,9 @@ Les presentamos esta Fender DG-100 en perfecto estado, en colo natural brillante
 
 Posee una forma de dreadnaught con tapa sólida de englemann spruce con bracing en forma X y lados y fondo de caoba (mahogany).
 
+## Notas
+* Precio solo incluye la guitarra
+
 ## Características técnicas
 
 * Serie: Classic Design Series
