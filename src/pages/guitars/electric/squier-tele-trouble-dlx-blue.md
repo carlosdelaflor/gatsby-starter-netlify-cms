@@ -5,7 +5,7 @@ itemtype: electric-guitar
 order: 172
 brand: squier
 price: S/. 2,190.00
-condition: Usada casi nueva (9/10)
+condition: Usada semi nueva (9/10)
 description: Guitarra Squier Telecaster Troublemaker Deluxe Limited Edition en Venta!, Lima, Peru
 contactPhone: 51992780348
 date: 2023-03-15T15:04:10.000Z

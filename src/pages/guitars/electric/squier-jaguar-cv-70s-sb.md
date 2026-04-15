@@ -38,10 +38,10 @@ La Jaguar® Classic Vibe '70s sube el volumen del estilo retro y produce un soni
 * Pastilla del cuello: Fender Designed™ Alnico Single Coil
 * Pastilla del puente: Fender Designed™ Alnico Single Coil
 * Acabado Mastil: Tinted Gloss Urethane
-* Tamaño trastes: Medium Jumbo
+* Tamaño trastes: Narrow Tall
 * Material Diapason: Indian Laurel
-* Escala: 25.5" (648 mm)
-* Numero de Trastes: 21
+* Escala: 24" (610 mm)
+* Numero de Trastes: 22
 * Radio Diapason: 9.5" (241 mm)
 * Forma de Mastil: "C" Shape
 * Configuración de pastilla: S / S

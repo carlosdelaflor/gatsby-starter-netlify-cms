@@ -5,7 +5,7 @@ itemtype: electric-guitar
 order: 125
 brand: squier
 price: S/. 1,290.00
-condition: Usada casi nueva (9.5/10)
+condition: Usada semi nueva (9.5/10)
 description: Guitarra Squier Stratocaster Standard en Venta!, Lima, Peru
 contactPhone: 51992780348
 date: 2016-12-17T15:04:10.000Z

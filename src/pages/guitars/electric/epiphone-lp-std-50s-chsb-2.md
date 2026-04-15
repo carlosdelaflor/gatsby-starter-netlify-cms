@@ -31,13 +31,14 @@ Esta guitarra está construida con un cuerpo de Caoba y una tapa de Arce Flamead
 ## Notas
 * Precio solo incluye la guitarra.
 * Sistema de tremolo customizado.
+* Mejora en Locking tunners tipo vintage.
 
 ## Características técnicas
 
 * Serie: Epiphone's Inspired by Gibson
 * Construcción: Cuerpo sólido con tapa de arce.
 * Construcción mástil: Mástil encolado
-* Color: Heritage Cherry Sunburst
+* Color: Washed Cherry Sunburst
 * Número de cuerdas: 6
 * Número de trastes: 22
 * Escala: 24,75"
