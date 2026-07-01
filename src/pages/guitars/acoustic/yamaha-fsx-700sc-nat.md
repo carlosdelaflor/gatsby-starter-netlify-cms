@@ -39,9 +39,8 @@ Las FS700S y FSX700SC son perfectas para personas con complexiones pequeñas que
 * Lados y tapa trasera: Nato laminado (similar a mahogany)
 * Acabado: Brillante
 * Tipo de bracing: Escalopado en X
-* Puente: Nogal con hueso sintético
-* Color: Natural
+* Puente: Palisandro con hueso sintético
 * Mastil: Nato
-* Diapason: Nogal
+* Diapason: Palisandro
 * Electronica: Yamaha System 66
 * Entonadores: Die-cast

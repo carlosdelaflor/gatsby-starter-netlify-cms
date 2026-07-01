@@ -27,6 +27,9 @@ Los primeros instrumentos que llevaron el nombre de Squier se introdujeron en 19
 
 Con un llamativo hardware chapado en oro, un golpeador de aluminio anodizado en oro, un diapasón de laurel indio con incrustaciones de bloques perlados, una placa de mástil de aniversario grabada y un acabado brillante en todas partes, esta Strat está preparada y lista para ser el centro de atención. Los refinamientos amigables para este modelo conmemorativo incluyen un perfil de mástil en forma de "C" delgado y cómodo para una sensación fácil de tocar, clavijas de estilo vintage y puente de trémolo sincronizado de 6 selletas para un rendimiento y estilo auténticos, y un solo-diseñado por Fender. Pastillas de bobina con imanes de alnico 5 para un tono de Stratocaster familiar.
 
+## Notas
+* Precio solo incluye la guitarra
+
 ## Características técnicas
 
 * Serie: 40th Anniversary

@@ -33,7 +33,7 @@ La Cabronita Telecaster® Thinline lleva a la Tele® un paso más allá de sus r
 * Forma de Cuerpo: Telecaster
 * Acabado de Cuerpo: Gloss Polyurethane
 * Color: Lake Placid Blue
-* Material Mastil: Poplar (Semi Hueca)
+* Material Cuerpo: Poplar (Semi Hueca)
 * Acabado Mastil: Tinted Gloss Urethane
 * Tamaño trastes: Narrow Tall
 * Material Diapason: Arce

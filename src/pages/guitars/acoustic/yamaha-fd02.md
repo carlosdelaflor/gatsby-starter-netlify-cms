@@ -23,7 +23,7 @@ image11: /img/guitars/yamaha-fd02/yamaha-fd02-11.jpg
 keywords: yamaha fd, yamaha FD-02, yamaha FD02
 ---
 
-La Yamaha FD-02 nos brinda un cuerpo tipo dreadnaught clasico, con un posee un mastil tipo C muy comodo, con un pickguard color negro clasico, clavijeros dorados y binding por todo el cuerpo y cabezal, en estado semi nuevo; nos brinda detalles estéticos de guitarras de mas alto precio.
+La Yamaha FD-02 nos brinda un cuerpo tipo dreadnaught clasico, posee un mastil tipo C muy comodo, con un pickguard color negro clasico, clavijeros dorados y binding por todo el cuerpo y cabezal, en estado semi nuevo; nos brinda detalles estéticos de guitarras de mas alto precio.
 
 ## Notas
 * Precio solo incluye la guitarra
