@@ -7,7 +7,7 @@ brand: squier
 price: S/. 1,790.00
 condition: Casi nueva (9.5/10)
 description: Guitarra Squier Telecaster Vintage Modified en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2016-12-17T15:04:10.000Z
 status: vendido
 image1: /img/guitars-sold/squier-tele-vm-thin-70s-nat/squier-tele-vm-thin-70s-nat-01-sold.jpg

@@ -7,7 +7,7 @@ brand: fender
 price: S/. 2,790.00
 condition: Usada semi nueva (9.5/10)
 description: Guitarra Fender Stratocaster Standard, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2016-12-17T15:04:10.000Z
 status: vendido
 image1: /img/guitars-sold/fender-strat-std-hss-cb-plus/fender-strat-std-hss-cb-plus-01-sold.jpg

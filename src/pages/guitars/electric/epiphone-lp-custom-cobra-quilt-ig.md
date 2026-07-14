@@ -7,7 +7,7 @@ brand: epiphone
 price: S/. 3,390.00
 condition: Semi nueva (9.7/10)
 description: Guitarra Epiphone Les Paul Custom en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2016-12-17T15:04:10.000Z
 image1: /img/guitars/epiphone-lp-custom-cobra/epi-lp-cust-cobra-01.jpg
 image2: /img/guitars/epiphone-lp-custom-cobra/epi-lp-cust-cobra-02.jpg

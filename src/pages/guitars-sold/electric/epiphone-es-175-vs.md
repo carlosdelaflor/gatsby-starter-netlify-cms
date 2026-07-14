@@ -7,7 +7,7 @@ brand: epiphone
 price: S/. 2,390.00
 condition: Usada, muy buen estado (9.3/10)
 description: Guitarra Epiphone ES 175 en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2023-04-17T15:04:10.000Z
 status: vendido
 image1: /img/guitars-sold/epiphone-es-175-vs/epiphone-es-175-vs-01-sold.jpg

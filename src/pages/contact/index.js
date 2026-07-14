@@ -25,7 +25,7 @@ const ContactPage = () => (
             <Box sx={{ width: '100%', maxWidth: 360 }}>
                 <List >
                   <ListItem disablePadding>
-                    <ListItemButton href="https://wa.me/51992780348?textInformacion"  target="_blank" rel="noopener">
+                    <ListItemButton href="https://wa.me/51972304153?textInformacion"  target="_blank" rel="noopener">
                       <ListItemIcon >
                         <Icon icon="logos:whatsapp-icon" height={30}/>
                       </ListItemIcon>
@@ -57,7 +57,7 @@ const ContactPage = () => (
                     </ListItemButton>
                   </ListItem>
                   <ListItem disablePadding>
-                    <ListItemButton href="tel:+51992780348">
+                    <ListItemButton href="tel:+51972304153">
                       <ListItemIcon>
                         <Icon icon="mingcute:phone-call-fill" color="green" height={25}/>
                       </ListItemIcon>

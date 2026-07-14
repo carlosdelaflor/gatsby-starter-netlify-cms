@@ -7,7 +7,7 @@ brand: yamaha
 price: S/. 1,200.00
 condition: Usada como nueva (9.5/10)
 description: Guitarra Yamaha FS-820 en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2016-12-17T15:04:10.000Z
 status: vendido
 image1: /img/guitars-sold/yamaha-fs-820-red/yamaha-fs-820-red-01-sold.jpg

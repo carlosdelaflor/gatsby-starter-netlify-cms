@@ -7,7 +7,7 @@ brand: squier
 price: S/. 1,250.00
 condition: Usada en muy estado (8.7/10)
 description: Guitarra Squier Stratocaster Standard en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2016-12-17T15:04:10.000Z
 status: vendido
 image1: /img/guitars-sold/squier-strat-std-sienna/sq-strat-std-sb-sold-01.jpg

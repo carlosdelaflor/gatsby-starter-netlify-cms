@@ -7,7 +7,7 @@ brand: epiphone
 price: S/. 2,290.00
 condition: Seminueva (9.2/10)
 description: Guitarra Epiphone ES 335 PRO en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2023-04-17T15:04:10.000Z
 status: vendido
 image1: /img/guitars-sold/epiphone-es335-ch-pro/epi-es335-ch-pro-01-sold.jpg

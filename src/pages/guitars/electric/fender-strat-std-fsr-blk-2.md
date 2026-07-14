@@ -7,7 +7,7 @@ brand: fender
 price: S/. 2,790.00
 condition: Usada en muy buen estado (8.8/10)
 description: Guitarra Fender FSR Standard Stratocaster HSS!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2016-12-17T15:04:10.000Z
 image1: /img/guitars/fender-strat-fsr-blk-2/fender-strat-fsr-blk-2-01.jpg
 image2: /img/guitars/fender-strat-fsr-blk-2/fender-strat-fsr-blk-2-02.jpg

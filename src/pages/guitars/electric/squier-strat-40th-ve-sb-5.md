@@ -7,7 +7,7 @@ brand: squier
 price: S/. 2,090.00
 condition: Usada en buen estadp (8.9/10)
 description: Guitarra Squier Stratocaster 40th en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2016-12-17T15:04:10.000Z
 image1: /img/guitars/squier-strat-40th-ve-sb-5/sq-strat-40th-ve-5-01.jpg
 image2: /img/guitars/squier-strat-40th-ve-sb-5/sq-strat-40th-ve-5-02.jpg

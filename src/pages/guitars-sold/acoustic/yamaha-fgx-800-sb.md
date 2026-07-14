@@ -7,7 +7,7 @@ brand: yamaha
 price: S/. 1,390.00
 condition: Usada en buen estado (8.2/10)
 description: Guitarra Yamaha FGX-800 en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2016-12-17T15:04:10.000Z
 status: vendido
 image1: /img/guitars-sold/yamaha-fgx800-sb/yamaha-fgx800-sb-01-sold.jpg

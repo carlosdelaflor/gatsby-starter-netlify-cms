@@ -7,7 +7,7 @@ brand: yamaha
 price: S/. 1,180.00
 condition: Usada en buen estado (8.8/10)
 description: Guitarra Yamaha FG-800 en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2016-12-17T15:04:10.000Z
 status: vendido
 image1: /img/guitars-sold/yamaha-fg-800-04/yamaha-fg-800-04-01-sold.jpg

@@ -7,7 +7,7 @@ brand: epiphone
 price: S/. 1550.00
 condition: Semi Nueva (10/10)
 description: Guitarra Epiphone Special P90 en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2016-12-17T15:04:10.000Z
 status: vendido
 image1: /img/guitars-sold/epiphone-lp-special-p90/epiphone-lp-special-p90-01-sold.jpg

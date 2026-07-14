@@ -7,7 +7,7 @@ brand: yamaha
 price: S/. 1,390.00
 condition: Usada en buen estado (8.0/10)
 description: Guitarra Yamaha FGX-730SCA en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2016-12-17T15:04:10.000Z
 image1: /img/guitars/yamaha-fgx-730sca-2/yamaha-fgx730sca-2-01.jpg
 image2: /img/guitars/yamaha-fgx-730sca-2/yamaha-fgx730sca-2-02.jpg

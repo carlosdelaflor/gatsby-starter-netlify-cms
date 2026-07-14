@@ -8,7 +8,7 @@ serial: CC130210303
 price: S/. 2,590.00
 condition: Usado semi nuevo (9.5/10)
 description: Guitarra Fender Newporter Special en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2023-02-28T15:04:10.000Z
 image1: /img/guitars/fender-newporter-classic-cb/fender-newporter-classic-cb-01.jpg
 image2: /img/guitars/fender-newporter-classic-cb/fender-newporter-classic-cb-02.jpg

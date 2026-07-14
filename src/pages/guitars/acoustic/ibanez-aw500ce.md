@@ -8,7 +8,7 @@ serial: CC130210303
 price: S/. 1,690.00
 condition: Usada en buen estado (7.8/10)
 description: Guitarra Ibanez AW-500CE en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2023-02-28T15:04:10.000Z
 image1: /img/guitars/ibanez-aw-500ce/ibanez-aw-500ce-01.jpg
 image2: /img/guitars/ibanez-aw-500ce/ibanez-aw-500ce-02.jpg

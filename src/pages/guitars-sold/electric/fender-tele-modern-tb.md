@@ -7,7 +7,7 @@ brand: fender
 price: S/. 2,390.00
 condition: Usada en buen estado (9.1/10)
 description: Guitarra Fender Telecaster Modern Player Plus!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2016-12-17T15:04:10.000Z
 status: vendido
 image1: /img/guitars-sold/fender-tele-modern-tb/fender-tele-modern-tb-01-sold.jpg

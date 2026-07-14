@@ -7,7 +7,7 @@ brand: fender
 price: S/. 2,290.00
 condition: Usada en buen estado (8.0/10)
 description: Guitarra Fender Telecaster Blacktop!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2016-12-17T15:04:10.000Z
 status: vendido
 image1: /img/guitars-sold/fender-tele-blacktop-candy/fender-tele-blacktop-candy-01-sold.jpg

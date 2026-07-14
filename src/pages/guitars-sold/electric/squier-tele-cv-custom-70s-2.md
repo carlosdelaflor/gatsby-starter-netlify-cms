@@ -7,7 +7,7 @@ brand: squier
 price: S/. 1,890.00
 condition: Usada en muy buen estado (9/10)
 description: Guitarra Squier Telecaster Custom Classic Vibe 70s en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2023-03-15T15:04:10.000Z
 status: vendido
 image1: /img/guitars-sold/squier-tele-cv-custom-70s-2/squier-tele-cv-custom-70s-2-01-sold.jpg

@@ -7,7 +7,7 @@ brand: epiphone
 price: S/. 2,460.00
 condition: Usada casi nueva (9.8/10)
 description: Guitarra Epiphone Les Paul Modern en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2016-12-17T15:04:10.000Z
 status: vendido
 image1: /img/guitars-sold/epiphone-lp-modern-pel-blue/epiphone-lp-modern-pel-blue-01-sold.jpg

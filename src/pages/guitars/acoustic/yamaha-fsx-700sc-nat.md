@@ -7,7 +7,7 @@ brand: yamaha
 price: S/. 1,390.00
 condition: Usada en buen estado (8.9/10)
 description: Guitarra Yamaha FSX-700SC en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2016-12-17T15:04:10.000Z
 image1: /img/guitars/yamaha-fsx700sc-nat/yamaha-fsx700sc-nat-01.jpg
 image2: /img/guitars/yamaha-fsx700sc-nat/yamaha-fsx700sc-nat-02.jpg

@@ -7,7 +7,7 @@ brand: squier
 price: S/. 2,350.00
 condition: Usada casi nueva (9.5/10)
 description: Guitarra Squier Stratocaster 40th Anniversary en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2016-12-17T15:04:10.000Z
 status: vendido
 image1: /img/guitars-sold/squier-strat-40th-sienna/squier-strat-40th-sienna-01-sold.jpg

@@ -7,7 +7,7 @@ brand: squier
 price: S/. 1,890.00
 condition: Semi nueva (9.2/10)
 description: Guitarra Squier Stratocaster Classic Vibe en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2023-03-15T15:04:10.000Z
 status: vendido
 image1: /img/guitars-sold/squier-strat-cv-hss-70s-3/sq-strat-cv-70s-3-01-sold.jpg

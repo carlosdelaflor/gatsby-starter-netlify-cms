@@ -7,7 +7,7 @@ brand: fender
 price: S/. 2,660.00
 condition: Usada casi nueva (9.8/10)
 description: Guitarra Fender Telecaster Player, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2016-12-17T15:04:10.000Z
 status: vendido
 image1: /img/guitars-sold/fender-tele-player-sb/fender-tele-player-sb-01-sold.jpg

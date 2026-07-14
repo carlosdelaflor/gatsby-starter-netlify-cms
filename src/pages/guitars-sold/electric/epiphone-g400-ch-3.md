@@ -7,7 +7,7 @@ brand: epiphone
 price: S/. 1,450.00
 condition: Usada en buen estado (9/10)
 description: Guitarra Epiphone G400 en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2016-12-17T15:04:10.000Z
 status: vendido
 image1: /img/guitars-sold/epiphone-g400-ch-3/epiphone-g400-ch-3-01-sold.jpg

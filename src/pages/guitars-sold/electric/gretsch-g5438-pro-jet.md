@@ -7,7 +7,7 @@ brand: gretsch
 price: S/. 1650.00
 condition: Semi Nueva (9.7/10)
 description: Guitarra G5438 Pro Jet en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2016-12-17T15:04:10.000Z
 status: vendido
 image1: /img/guitars-sold/gretsch-g5438-pro-jet/gretsch-g5438-pro-jet-01-sold.jpg

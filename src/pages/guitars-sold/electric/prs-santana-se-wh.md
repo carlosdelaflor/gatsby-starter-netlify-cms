@@ -7,7 +7,7 @@ brand: prs
 price: S/. 1,990.00
 condition: Usada en buen estado (8.7/10)
 description: Guitarra PRS Santana SE Santana en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2016-12-17T15:04:10.000Z
 status: vendido
 image1: /img/guitars-sold/prs-santana-se-wh/prs-santana-se-wh-sold-01.jpg

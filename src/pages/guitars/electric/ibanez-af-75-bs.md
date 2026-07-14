@@ -7,7 +7,7 @@ brand: ibanez
 price: S/. 1,750.00
 condition: Usada, muy buen estado (8/10)
 description: Guitarra Ibanez AF 75 en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2023-04-17T15:04:10.000Z
 image1: /img/guitars/ibanez-af-75-bs/ibanez-af-75-bs-01.jpg
 image2: /img/guitars/ibanez-af-75-bs/ibanez-af-75-bs-02.jpg

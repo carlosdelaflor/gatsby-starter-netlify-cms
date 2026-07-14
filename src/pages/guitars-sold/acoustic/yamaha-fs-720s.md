@@ -7,7 +7,7 @@ brand: yamaha
 price: S/. 1,050.00
 condition: Usada como nueva (9/10)
 description: Guitarra Yamaha FS-720S en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2016-12-17T15:04:10.000Z
 status: vendido
 image1: /img/guitars-sold/yamaha-fs-720s/yamaha-fs720s-01-sold.jpg

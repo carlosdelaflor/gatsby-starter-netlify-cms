@@ -7,7 +7,7 @@ brand: prs
 price: S/. 1,860.00
 condition: Usada casi nueva (9.5/10)
 description: Guitarra PRS ONE SE Korina en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2016-12-17T15:04:10.000Z
 status: vendido
 image1: /img/guitars-sold/prs-one-se-korina/prs-one-se-01-sold.jpg

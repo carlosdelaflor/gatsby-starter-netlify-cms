@@ -7,7 +7,7 @@ brand: epiphone
 price: S/. 2,040.00
 condition: Usada en muy buen estado (9.2/10)
 description: Guitarra Epiphone Les Paul Traditional Pro en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2016-12-17T15:04:10.000Z
 status: vendido
 image1: /img/guitars-sold/epiphone-lp-trad-pro-ii-sb/epiphone-lp-trad-pro-ii-sb-01-sold.jpg

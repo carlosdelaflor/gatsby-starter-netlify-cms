@@ -7,7 +7,7 @@ brand: gretsch
 price: S/. 1,990.00
 condition: Semi Nueva (9.7/10)
 description: Guitarra G5232T Electromatic Jet en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2016-12-17T15:04:10.000Z
 image1: /img/guitars/gretsch-g5232t-jet-blue/gretsch-g5232t-jet-blue-01.jpg
 image2: /img/guitars/gretsch-g5232t-jet-blue/gretsch-g5232t-jet-blue-02.jpg

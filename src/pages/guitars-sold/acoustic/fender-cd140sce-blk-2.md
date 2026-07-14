@@ -8,7 +8,7 @@ serial: CC130210303
 price: S/. 1,360.00
 condition: Usada como nueva (9.5/10)
 description: Guitarra Fender CD-140SCE en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2023-02-28T15:04:10.000Z
 status: vendido
 image1: /img/guitars-sold/fender-cd140sce-blk-2/fender-cd140sce-blk-2-01-sold.jpg

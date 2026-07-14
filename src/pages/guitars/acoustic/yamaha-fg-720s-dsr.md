@@ -7,7 +7,7 @@ brand: yamaha
 price: S/. 1,260.00
 condition: Usada en buen estado (8.8/10)
 description: Guitarra Yamaha FG-720S en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2016-12-17T15:04:10.000Z
 image1: /img/guitars/yamaha-fg-720s-dsr/yamaha-fg720s-dsr-01.jpg
 image2: /img/guitars/yamaha-fg-720s-dsr/yamaha-fg720s-dsr-02.jpg

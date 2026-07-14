@@ -7,7 +7,7 @@ brand: squier
 price: S/. 2,360.00
 condition: Usada en buen estado (8.9/10)
 description: Guitarra Squier Jazzmaster 40th Gold Edition en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2023-03-15T15:04:10.000Z
 status: vendido
 image1: /img/guitars-sold/squier-jazz-40th-gld-wh-1/sq-jazz-40th-gld-wh-01-sold.jpg

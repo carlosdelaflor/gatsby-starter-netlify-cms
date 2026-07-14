@@ -7,7 +7,7 @@ brand: squier
 price: S/. 1,690.00
 condition: Usada semi nueva (9.5/10)
 description: Guitarra Squier Jazzmaster Classic Vibe en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2023-03-15T15:04:10.000Z
 status: vendido
 image1: /img/guitars-sold/squier-jazz-cv-sb/squier-jazz-cv-sb-01-sold.jpg

@@ -8,7 +8,7 @@ serial: CC130210303
 price: S/. 1,790.00
 condition: Usada en muy buen estado (9/10)
 description: Guitarra Takamine GJ72CE en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2023-02-28T15:04:10.000Z
 image1: /img/guitars/takamine-gj72ce-nat/takamine-gj72ce-nat-01.jpg
 image2: /img/guitars/takamine-gj72ce-nat/takamine-gj72ce-nat-02.jpg

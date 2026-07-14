@@ -7,7 +7,7 @@ brand: squier
 price: S/. 1,890.00
 condition: Usada semi nueva (9/10)
 description: Guitarra Squier Telecaster Thinline Cabronita en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2023-03-15T15:04:10.000Z
 image1: /img/guitars/squier-tele-thinline-cabronita-blue/squier-tele-thin-cabro-blue-01.jpg
 image2: /img/guitars/squier-tele-thinline-cabronita-blue/squier-tele-thin-cabro-blue-02.jpg

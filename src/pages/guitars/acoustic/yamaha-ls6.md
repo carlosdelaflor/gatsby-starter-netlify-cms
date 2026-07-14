@@ -7,7 +7,7 @@ brand: yamaha
 price: S/. 2,390.00
 condition: Usada casi nueva (9.5/10)
 description: Guitarra Yamaha LL-6 en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2016-12-17T15:04:10.000Z
 image1: /img/guitars/yamaha-ls6/yamaha-ls6-01.jpg
 image2: /img/guitars/yamaha-ls6/yamaha-ls6-02.jpg

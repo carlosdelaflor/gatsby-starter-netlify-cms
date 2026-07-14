@@ -7,7 +7,7 @@ brand: squier
 price: S/. 1,260.00
 condition: Usada casi nueva (9.5/10)
 description: Guitarra Squier Telecaster Standard en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2016-12-17T15:04:10.0Z
 status: vendido
 image1: /img/guitars-sold/squier-tele-standard-blonde/squier-tele-std-blonde-01-sold.jpg

@@ -8,7 +8,7 @@ serial: CC130210303
 price: S/. 1,190.00
 condition: Usada en buen estado (8/10)
 description: Guitarra Ibanez AC-30 en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2023-02-28T15:04:10.000Z
 status: vendido
 image1: /img/guitars-sold/ibanez-ac-30/ibanez-ac-30-01-sold.jpg

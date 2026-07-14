@@ -7,7 +7,7 @@ brand: yamaha
 price: S/. 730.00
 condition: Usada en buen estado (7.8/10)
 description: Guitarra Yamaha FG-370 en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2016-12-17T15:04:10.000Z
 status: vendido
 image1: /img/guitars-sold/yamaha-f370-bl/yamaha-f370-bl-01-sold.jpg

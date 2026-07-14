@@ -7,7 +7,7 @@ brand: fender
 price: S/. 3,290.00
 condition: Usada en muy buen estado (8.8/10)
 description: Guitarra Fender Stratocaster Classic Player 60s, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2016-12-17T15:04:10.000Z
 status: vendido
 image1: /img/guitars-sold/fender-strat-classic-60s-sb/fender-strat-classic-60s-sb-01-sold.jpg

@@ -7,7 +7,7 @@ brand: epiphone
 price: S/. 1,890.00
 condition: Usada, semi nuevo (9.4/10)
 description: Guitarra Epiphone DOT en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2023-04-17T15:04:10.000Z
 status: vendido
 image1: /img/guitars-sold/epiphone-dot-vs-4/epiphone-dot-vs-4-01-sold.jpg

@@ -7,7 +7,7 @@ brand: squier
 price: S/. 1,990.00
 condition: Semi nueva (9.5/10)
 description: Guitarra Squier Jaguar Classic Vibe 70s en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2023-03-15T15:04:10.000Z
 status: vendido
 image1: /img/guitars-sold/squier-jaguar-cv-70s-sb/sq-jag-cv-70s-sb-01-sold.jpg

@@ -7,7 +7,7 @@ brand: squier
 price: S/. 1,280.00
 condition: Usada en excelente estado (9/10)
 description: Guitarra Squier Stratocaster Standard HSS en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2016-12-17T15:04:10.000
 status: vendido
 image1: /img/guitars-sold/squier-strat-std-hss-ch/squier-strat-std-hss-ch-01-sold.jpg

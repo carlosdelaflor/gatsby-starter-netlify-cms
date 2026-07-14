@@ -7,7 +7,7 @@ brand: epiphone
 price: S/. 1,850.00
 condition: Usada, muy buen estado (8/10)
 description: Guitarra Epiphone Sheraton en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2023-04-17T15:04:10.000Z
 status: vendido
 image1: /img/guitars-sold/epiphone-sheraton-ii-vs/epiphone-sheraton-ii-vs-01-sold.jpg

@@ -7,7 +7,7 @@ brand: squier
 price: S/. 1,790.00
 condition: Usada en buen estado (8.5/10)
 description: Guitarra Squier Telecaster 40th Anniversary en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2016-12-17T15:04:10.000Z
 status: vendido
 image1: /img/guitars-sold/squier-tele-40th-ve-mocha/squier-tele-40th-ve-mocha-sold-01.jpg

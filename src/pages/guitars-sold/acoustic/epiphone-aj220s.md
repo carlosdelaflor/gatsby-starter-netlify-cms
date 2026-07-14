@@ -8,7 +8,7 @@ serial: CC130210303
 price: S/. 870.00
 condition: Usada en buen estado (8.6/10)
 description: Guitarra Epiphone AJ-220S en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2023-02-28T15:04:10.000Z
 status: vendido
 image1: /img/guitars-sold/epiphone-aj220s/epiphone-aj220s-01-sold.jpg

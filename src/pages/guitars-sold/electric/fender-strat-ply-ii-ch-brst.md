@@ -7,7 +7,7 @@ brand: fender
 price: S/. 3,390.00
 condition: Usada en muy buen estado (9.4/10)
 description: Guitarra Fender Stratocaster Player II, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2016-12-17T15:04:10.000Z
 status: vendido
 image1: /img/guitars-sold/fender-strat-ply-ii-ch-brst/fender-strat-ply-ii-ch-01-sold.jpg

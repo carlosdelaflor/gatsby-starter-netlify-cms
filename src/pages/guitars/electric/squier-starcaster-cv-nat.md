@@ -7,7 +7,7 @@ brand: squier
 price: S/. 1,890.00
 condition: Usada en buen estado (8.9/10)
 description: Guitarra Squier Starcaster Classic Vibe en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2023-03-15T15:04:10.000Z
 image1: /img/guitars/squier-starcaster-cv-nat/sq-star-cv-nat-01.jpg
 image2: /img/guitars/squier-starcaster-cv-nat/sq-star-cv-nat-02.jpg

@@ -7,7 +7,7 @@ brand: yamaha
 price: S/. 1,150.00
 condition: Usada casi nuevo (9.5/10)
 description: Guitarra Yamaha FD-02 en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2016-12-17T15:04:10.000Z
 image1: /img/guitars/yamaha-fd02/yamaha-fd02-01.jpg
 image2: /img/guitars/yamaha-fd02/yamaha-fd02-02.jpg

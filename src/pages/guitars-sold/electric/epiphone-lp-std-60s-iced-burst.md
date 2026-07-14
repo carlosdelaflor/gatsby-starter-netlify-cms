@@ -7,7 +7,7 @@ brand: epiphone
 price: S/. 2,190.00
 condition: Usada como nuevo (9.5/10)
 description: Guitarra Epiphone Les Paul Standard 60s en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2016-12-17T15:04:10.000Z
 status: vendido
 image1: /img/guitars-sold/epiphone-lp-std-60s-iced-burst/epi-lp-std-60s-iced-burst-01-sold.jpg

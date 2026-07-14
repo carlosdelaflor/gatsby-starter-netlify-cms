@@ -7,7 +7,7 @@ brand: squier
 price: S/. 2,060.00
 condition: Casi nueva (9.5/10)
 description: Guitarra Squier Telecaster Classic Vibe en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2016-12-17T15:04:10.000Z
 status: vendido
 image1: /img/guitars-sold/squier-tele-cv-thin-70s-wh-2/squier-tele-cv-thin-70s-wh-2-01-sold.jpg

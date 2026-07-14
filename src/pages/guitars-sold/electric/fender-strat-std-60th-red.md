@@ -7,7 +7,7 @@ brand: fender
 price: S/. 2,550.00
 condition: Usada en muy buen estado (9/10)
 description: Guitarra Fender Stratocaster Standard 60th!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2016-12-17T15:04:10.000Z
 status: vendido
 image1: /img/guitars-sold/fender-strat-std-60th-red/fender-strat-std-60th-01-sold.jpg

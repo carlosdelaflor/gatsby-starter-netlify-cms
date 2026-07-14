@@ -7,7 +7,7 @@ brand: yamaha
 price: S/. 990.00
 condition: Usada en buen estado (7.5/10)
 description: Guitarra Yamaha FG-730 en Venta!, Lima, Peru
-contactPhone: 51992780348
+contactPhone: 51972304153
 date: 2016-12-17T15:04:10.000Z
 status: vendido
 image1: /img/guitars-sold/yamaha-fg-730/yamaha-fg-730-01.jpg
