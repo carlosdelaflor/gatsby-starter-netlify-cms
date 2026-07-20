@@ -61,7 +61,7 @@ const ContactPage = () => (
                       <ListItemIcon>
                         <Icon icon="mingcute:phone-call-fill" color="green" height={25}/>
                       </ListItemIcon>
-                      <ListItemText primary="+51 992780348" />
+                      <ListItemText primary="+51 972304153" />
                     </ListItemButton>
                   </ListItem>
                 </List>
